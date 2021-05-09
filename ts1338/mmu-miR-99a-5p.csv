@@ -1,0 +1,53 @@
+Target gene	Representative transcript	Gene name	Representative miRNA	Cumulative weighted context++ score
+Ctdspl	ENSMUST00000073109.6	"CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like "	mmu-miR-99b-5p	-0.82
+Ap1ar	ENSMUST00000051737.6	"adaptor-related protein complex 1 associated regulatory protein "	mmu-miR-99a-5p	-0.80
+Ttc39a	ENSMUST00000064129.8	"tetratricopeptide repeat domain 39A "	mmu-miR-100-5p	-0.77
+Hs3st2	ENSMUST00000084628.3	"heparan sulfate (glucosamine) 3-O-sulfotransferase 2 "	mmu-miR-99a-5p	-0.76
+Hs3st3b1	ENSMUST00000094103.3	"heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1 "	mmu-miR-100-5p	-0.61
+Kbtbd8	ENSMUST00000119582.1	"kelch repeat and BTB (POZ) domain containing 8 "	mmu-miR-100-5p	-0.59
+Fgfr3	ENSMUST00000169212.3	"fibroblast growth factor receptor 3 "	mmu-miR-99a-5p	-0.58
+Trib1	ENSMUST00000067543.6	"tribbles homolog 1 (Drosophila) "	mmu-miR-99b-5p	-0.52
+Epdr1	ENSMUST00000002885.6	"ependymin related protein 1 (zebrafish) "	mmu-miR-99a-5p	-0.47
+Hoxa1	ENSMUST00000120363.1	"homeobox A1 "	mmu-miR-99a-5p	-0.46
+Smarca5	ENSMUST00000043359.8	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 "	mmu-miR-100-5p	-0.45
+Thap2	ENSMUST00000020346.4	"THAP domain containing, apoptosis associated protein 2 "	mmu-miR-100-5p	-0.44
+Lrrc8b	ENSMUST00000112707.1	"leucine rich repeat containing 8 family, member B "	mmu-miR-99b-5p	-0.44
+Fzd8	ENSMUST00000041080.5	"frizzled homolog 8 (Drosophila) "	mmu-miR-100-5p	-0.42
+Sim1	ENSMUST00000020071.3	"single-minded homolog 1 (Drosophila) "	mmu-miR-99b-5p	-0.40
+Trib2	ENSMUST00000020922.7	"tribbles homolog 2 (Drosophila) "	mmu-miR-100-5p	-0.38
+Seh1l	ENSMUST00000025421.7	"SEH1-like (S. cerevisiae "	mmu-miR-99a-5p	-0.37
+Mtor	ENSMUST00000103221.4	"mechanistic target of rapamycin (serine/threonine kinase) "	mmu-miR-99b-5p	-0.36
+Ppp3ca	ENSMUST00000070198.8	"protein phosphatase 3, catalytic subunit, alpha isoform "	mmu-miR-99a-5p	-0.36
+Insm1	ENSMUST00000089257.5	"insulinoma-associated 1 "	mmu-miR-99b-5p	-0.36
+Zbtb7a	ENSMUST00000048128.9	"zinc finger and BTB domain containing 7a "	mmu-miR-100-5p	-0.36
+Raver2	ENSMUST00000038463.9	"ribonucleoprotein, PTB-binding 2 "	mmu-miR-99a-5p	-0.35
+Camta1	ENSMUST00000097774.3	"calmodulin binding transcription activator 1 "	mmu-miR-99b-5p	-0.33
+Mtmr3	ENSMUST00000109943.4	"myotubularin related protein 3 "	mmu-miR-99a-5p	-0.33
+Cep85	ENSMUST00000040271.6	"centrosomal protein 85 "	mmu-miR-100-5p	-0.32
+Mbnl1	ENSMUST00000099087.2	"muscleblind-like 1 (Drosophila) "	mmu-miR-99a-5p	-0.32
+Nox4	ENSMUST00000032781.8	"NADPH oxidase 4 "	mmu-miR-99a-5p	-0.31
+Ntrk3	ENSMUST00000039431.8	"neurotrophic tyrosine kinase, receptor, type 3 "	mmu-miR-100-5p	-0.31
+Igf1r	ENSMUST00000005671.8	"insulin-like growth factor I receptor "	mmu-miR-99b-5p	-0.30
+Nxf1	ENSMUST00000184970.2	"nuclear RNA export factor 1 "	mmu-miR-100-5p	-0.30
+Cyp26b1	ENSMUST00000168003.3	"cytochrome P450, family 26, subfamily b, polypeptide 1 "	mmu-miR-100-5p	-0.29
+Baz2a	ENSMUST00000170054.3	"bromodomain adjacent to zinc finger domain, 2A "	mmu-miR-99a-5p	-0.29
+Slc44a1	ENSMUST00000107651.3	"solute carrier family 44, member 1 "	mmu-miR-100-5p	-0.27
+Ago2	ENSMUST00000044113.10	"argonaute RISC catalytic subunit 2 "	mmu-miR-100-5p	-0.27
+Etv3	ENSMUST00000119109.2	"ets variant 3 "	mmu-miR-99a-5p	-0.27
+Zzef1	ENSMUST00000172220.2	"zinc finger, ZZ-type with EF hand domain 1 "	mmu-miR-100-5p	-0.27
+Fzd5	ENSMUST00000063982.6	"frizzled homolog 5 (Drosophila) "	mmu-miR-100-5p	-0.26
+Icmt	ENSMUST00000048892.8	"isoprenylcysteine carboxyl methyltransferase "	mmu-miR-99a-5p	-0.26
+Kdm6b	ENSMUST00000094077.4	"KDM1 lysine (K)-specific demethylase 6B "	mmu-miR-99b-5p	-0.24
+Trim71	ENSMUST00000111816.2	"tripartite motif-containing 71 "	mmu-miR-99b-5p	-0.24
+Pura	ENSMUST00000051301.3	"purine rich element binding protein A "	mmu-miR-99a-5p	-0.23
+Gria4	ENSMUST00000027020.7	"glutamate receptor, ionotropic, AMPA4 (alpha 4) "	mmu-miR-100-5p	-0.22
+Bmpr2	ENSMUST00000087435.6	"bone morphogenetic protein receptor, type II (serine/threonine kinase) "	mmu-miR-99b-5p	-0.21
+Zkscan16	ENSMUST00000107554.1	"zinc finger with KRAB and SCAN domains 16 "	mmu-miR-100-5p	-0.18
+Setd1b	ENSMUST00000163030.3	"SET domain containing 1B "	mmu-miR-100-5p	-0.16
+Rsbn1l	ENSMUST00000036489.5	"round spermatid basic protein 1-like "	mmu-miR-100-5p	-0.13
+Arhgef12	ENSMUST00000165665.2	"Rho guanine nucleotide exchange factor (GEF) 12 "	mmu-miR-99b-5p	-0.13
+Cdyl2	ENSMUST00000109102.2	"chromodomain protein, Y chromosome-like 2 "	mmu-miR-99b-5p	-0.13
+Taok1	ENSMUST00000017435.5	"TAO kinase 1 "	mmu-miR-99b-5p	-0.12
+Rmnd5a	ENSMUST00000002292.9	"required for meiotic nuclear division 5 homolog A (S. cerevisiae) "	mmu-miR-99a-5p	-0.09
+Adcy1	ENSMUST00000020706.4	"adenylate cyclase 1 "	mmu-miR-99a-5p	-0.08
+Hoxa3	ENSMUST00000114434.3	"homeobox A3 "	mmu-miR-100-5p	-0.03

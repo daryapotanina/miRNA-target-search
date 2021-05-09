@@ -1,0 +1,21 @@
+Target gene	Representative transcript	Gene name	Representative miRNA	Cumulative weighted context++ score
+Ndufa4	ENSMUST00000031637.5	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4 "	mmu-miR-147-3p	-1.09
+Hoxa9	ENSMUST00000114425.2	"homeobox A9 "	mmu-miR-147-3p	-0.62
+AI593442	ENSMUST00000098768.2	"expressed sequence AI593442 "	mmu-miR-147-3p	-0.61
+Kif5a	ENSMUST00000099172.3	"kinesin family member 5A "	mmu-miR-147-3p	-0.55
+Bola2	ENSMUST00000106369.1	"bolA-like 2 (E. coli) "	mmu-miR-147-3p	-0.47
+Bdnf	ENSMUST00000053317.6	"brain derived neurotrophic factor "	mmu-miR-147-3p	-0.31
+B4galt5	ENSMUST00000109221.3	"UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 5 "	mmu-miR-147-3p	-0.28
+Pptc7	ENSMUST00000053426.9	"PTC7 protein phosphatase homolog (S. cerevisiae) "	mmu-miR-147-3p	-0.22
+Mef2a	ENSMUST00000156690.2	"myocyte enhancer factor 2A "	mmu-miR-147-3p	-0.20
+Kmt2a	ENSMUST00000114689.2	"lysine (K)-specific methyltransferase 2A "	mmu-miR-147-3p	-0.18
+Hipk2	ENSMUST00000161779.2	"homeodomain interacting protein kinase 2 "	mmu-miR-147-3p	-0.18
+Cpeb2	ENSMUST00000169035.2	"cytoplasmic polyadenylation element binding protein 2 "	mmu-miR-147-3p	-0.16
+Hif3a	ENSMUST00000108492.3	"hypoxia inducible factor 3, alpha subunit "	mmu-miR-147-3p	-0.15
+Gm10545	ENSMUST00000097612.2	"predicted gene 10545 "	mmu-miR-147-3p	-0.14
+Arsi	ENSMUST00000040359.5	"arylsulfatase i "	mmu-miR-147-3p	-0.12
+Asxl3	ENSMUST00000097655.3	"additional sex combs like 3 (Drosophila) "	mmu-miR-147-3p	-0.11
+Agpat3	ENSMUST00000001240.6	"1-acylglycerol-3-phosphate O-acyltransferase 3 "	mmu-miR-147-3p	-0.03
+Ctu2	ENSMUST00000116412.2	"cytosolic thiouridylase subunit 2 homolog (S. pombe) "	mmu-miR-147-3p	-0.02
+Sertad1	ENSMUST00000008528.7	"SERTA domain containing 1 "	mmu-miR-147-3p	0
+Ccdc108	ENSMUST00000094844.3	"coiled-coil domain containing 108 "	mmu-miR-147-3p	0

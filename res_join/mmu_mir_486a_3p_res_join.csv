@@ -1,0 +1,165 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+wt_d1338,,Ifitm6,Ifitm6,ENSMUST00000081924.3,interferon induced transmembrane protein 6 ,mmu-miR-6954-5p,-0.41,ENSMUSG00000059108.4,6.3663406,6.00445e-51,,,,,,,,
+wt_d1338,,Sox7,Sox7,ENSMUST00000079652.5,SRY (sex determining region Y)-box 7 ,mmu-miR-6954-5p,-0.47,ENSMUSG00000063060.6,3.6688294,3.75116e-05,,,,,,,,
+wt_d1338,,Neurl1a,Neurl1a,ENSMUST00000111808.4,neuralized homolog 1A (Drosophila) ,mmu-miR-486a-3p,-0.47,ENSMUSG00000006435.16,3.636002,0.000290272,,,,,,,,
+wt_d1338,mf_wt,Nat8l,Nat8l,ENSMUST00000056355.8,N-acetyltransferase 8-like ,mmu-miR-6954-5p,-1.06,ENSMUSG00000048142.9,3.533277,1.98387e-10,83,mmu-miR-486a-3p,Nat8l,N-acetyltransferase 8-like,ENSMUSG00000048142.9,Nat8l,0.13553436,5.93596e-06
+wt_d1338,wt_d1338,Nat8l,Nat8l,ENSMUST00000056355.8,N-acetyltransferase 8-like ,mmu-miR-6954-5p,-1.06,ENSMUSG00000048142.9,3.533277,1.98387e-10,83,mmu-miR-486a-3p,Nat8l,N-acetyltransferase 8-like,ENSMUSG00000048142.9,Nat8l,3.533277,1.98387e-10
+wt_d1338,,Dhcr24,Dhcr24,ENSMUST00000047973.3,24-dehydrocholesterol reductase ,mmu-miR-6954-5p,-0.41,ENSMUSG00000034926.3,3.241919,8.95552e-87,,,,,,,,
+wt_d1338,,Ereg,Ereg,ENSMUST00000031324.4,epiregulin ,mmu-miR-486a-3p,-0.41,ENSMUSG00000029377.5,3.1778073,0.000834745,,,,,,,,
+wt_d1338,mf_wt,Ifitm1,Ifitm1,ENSMUST00000106042.3,interferon induced transmembrane protein 1 ,mmu-miR-486a-3p,-1.63,ENSMUSG00000025491.14,3.1693325,4.94319e-39,92,mmu-miR-486a-3p,Ifitm1,interferon induced transmembrane protein 1,ENSMUSG00000025491.14,Ifitm1,0.10428044,8.25203e-36
+wt_d1338,wt_d1338,Ifitm1,Ifitm1,ENSMUST00000106042.3,interferon induced transmembrane protein 1 ,mmu-miR-486a-3p,-1.63,ENSMUSG00000025491.14,3.1693325,4.94319e-39,92,mmu-miR-486a-3p,Ifitm1,interferon induced transmembrane protein 1,ENSMUSG00000025491.14,Ifitm1,3.1693325,4.94319e-39
+wt_d1338,,Rab3il1,Rab3il1,ENSMUST00000121418.2,RAB3A interacting protein (rabin3)-like 1 ,mmu-miR-6954-5p,-0.69,ENSMUSG00000024663.20,2.9986079,1.14214e-15,,,,,,,,
+wt_d1338,,Slc25a23,Slc25a23,ENSMUST00000040280.8,"solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 23 ",mmu-miR-6954-5p,-0.55,ENSMUSG00000046329.14,2.9487004,5.20087e-10,,,,,,,,
+wt_d1338,,Tmem150a,Tmem150a,ENSMUST00000132243.1,transmembrane protein 150A ,mmu-miR-486a-3p,-0.4,ENSMUSG00000055912.8,2.5255647,8.12637e-18,,,,,,,,
+wt_d1338,,Pemt,Pemt,ENSMUST00000102692.4,phosphatidylethanolamine N-methyltransferase ,mmu-miR-486a-3p,-0.57,ENSMUSG00000000301.16,2.371123,0.002943919,,,,,,,,
+wt_d1338,,Znrf3,Znrf3,ENSMUST00000172492.2,zinc and ring finger 3 ,mmu-miR-6954-5p,-0.46,ENSMUSG00000041961.14,2.2548592,1.79729e-16,,,,,,,,
+wt_d1338,,Ifitm2,Ifitm2,ENSMUST00000081649.8,interferon induced transmembrane protein 2 ,mmu-miR-6954-5p,-0.86,ENSMUSG00000060591.9,2.235598,1.5841e-82,,,,,,,,
+wt_d1338,,Plxna3,Plxna3,ENSMUST00000004326.3,plexin A3 ,mmu-miR-486a-3p,-0.45,ENSMUSG00000031398.13,2.1861074,1.17217e-07,,,,,,,,
+wt_d1338,,Mcpt4,Mcpt4,ENSMUST00000043249.8,mast cell protease 4 ,mmu-miR-6954-5p,-0.78,ENSMUSG00000061068.7,2.1437309,6.18154e-07,,,,,,,,
+wt_d1338,wt_d1338,Glis2,Glis2,ENSMUST00000014447.7,GLIS family zinc finger 2 ,mmu-miR-486a-3p,-0.55,ENSMUSG00000014303.13,2.1372087,1.28891e-07,96,mmu-miR-486a-3p,Glis2,GLIS family zinc finger 2,ENSMUSG00000014303.13,Glis2,2.1372087,1.28891e-07
+wt_d1338,,Adamts10,Adamts10,ENSMUST00000087623.7,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 10 ",mmu-miR-6954-5p,-0.4,ENSMUSG00000024299.17,2.0804408,1.13274e-27,,,,,,,,
+wt_d1338,,Tmem26,Tmem26,ENSMUST00000080995.6,transmembrane protein 26 ,mmu-miR-486a-3p,-0.6,ENSMUSG00000060044.8,2.0743904,0.032201745,,,,,,,,
+wt_d1338,,Celsr2,Celsr2,ENSMUST00000090558.4,"cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila) ",mmu-miR-6954-5p,-1.14,ENSMUSG00000068740.13,2.0626996,0.008913037,,,,,,,,
+wt_d1338,,Steap3,Steap3,ENSMUST00000112641.2,STEAP family member 3 ,mmu-miR-486a-3p,-0.41,ENSMUSG00000026389.16,1.9744354,8.09461e-27,,,,,,,,
+wt_d1338,,Acaca,Acaca,ENSMUST00000103201.2,acetyl-Coenzyme A carboxylase alpha ,mmu-miR-486a-3p,-0.43,ENSMUSG00000020532.18,1.848029,8.23738e-23,,,,,,,,
+wt_d1338,,Ttc9,Ttc9,ENSMUST00000036116.5,tetratricopeptide repeat domain 9 ,mmu-miR-486a-3p,-0.57,ENSMUSG00000042734.6,1.7331064,5.70313e-05,,,,,,,,
+wt_d1338,wt_d1338,Ttyh3,Ttyh3,ENSMUST00000042661.3,tweety homolog 3 (Drosophila) ,mmu-miR-6954-5p,-1.22,ENSMUSG00000036565.7,1.7079923,7.69506e-20,97,mmu-miR-486a-3p,Ttyh3,tweety family member 3,ENSMUSG00000036565.7,Ttyh3,1.7079923,7.69506e-20
+wt_d1338,,Icosl,Icosl,ENSMUST00000105393.1,icos ligand ,mmu-miR-6954-5p,-0.46,ENSMUSG00000000732.9,1.6653163,2.16731e-10,,,,,,,,
+wt_d1338,,Slc6a9,Slc6a9,ENSMUST00000030269.8,"solute carrier family 6 (neurotransmitter transporter, glycine), member 9 ",mmu-miR-486a-3p,-0.58,ENSMUSG00000028542.17,1.6587117,1.28566e-10,,,,,,,,
+wt_d1338,,Syp,Syp,ENSMUST00000069520.5,synaptophysin ,mmu-miR-6954-5p,-0.4,ENSMUSG00000031144.15,1.613137,8.04531e-05,,,,,,,,
+wt_d1338,,Pde7b,Pde7b,ENSMUST00000020165.8,phosphodiesterase 7B ,mmu-miR-486a-3p,-0.44,ENSMUSG00000019990.15,1.5687461,5.56488e-17,,,,,,,,
+wt_d1338,,Cd79a,Cd79a,ENSMUST00000003469.7,CD79A antigen (immunoglobulin-associated alpha) ,mmu-miR-6954-5p,-0.4,ENSMUSG00000003379.7,1.5548972,4.85412e-07,,,,,,,,
+wt_d1338,,9930012K11Rik,9930012K11Rik,ENSMUST00000058240.8,RIKEN cDNA 9930012K11 gene ,mmu-miR-486a-3p,-0.4,ENSMUSG00000044551.13,1.5299429,0.013166256,,,,,,,,
+wt_d1338,wt_d1338,Ccl22,Ccl22,ENSMUST00000034231.3,chemokine (C-C motif) ligand 22 ,mmu-miR-486a-3p,-0.57,ENSMUSG00000031779.3,1.5137316,0.000469186,80,mmu-miR-486a-3p,Ccl22,chemokine (C-C motif) ligand 22,ENSMUSG00000031779.3,Ccl22,1.5137316,0.000469186
+wt_d1338,,Cabyr,Cabyr,ENSMUST00000186263.1,calcium-binding tyrosine-(Y)-phosphorylation regulated (fibrousheathin 2) ,mmu-miR-486a-3p,-0.7,ENSMUSG00000024430.14,1.5025104,0.045492656,,,,,,,,
+wt_d1338,,Arhgef10,Arhgef10,ENSMUST00000084207.6,Rho guanine nucleotide exchange factor (GEF) 10 ,mmu-miR-486a-3p,-0.4,ENSMUSG00000071176.10,-1.5284377,9.46107e-05,,,,,,,,
+wt_d1338,wt_d1338,Fcgr4,Fcgr4,ENSMUST00000078825.4,"Fc receptor, IgG, low affinity IV ",mmu-miR-486a-3p,-0.65,ENSMUSG00000059089.4,-1.5586685,0.00081036,83,mmu-miR-486a-3p,Fcgr4,"Fc receptor, IgG, low affinity IV",ENSMUSG00000059089.4,Fcgr4,-1.5586685,0.00081036
+wt_d1338,,Tnfrsf23,Tnfrsf23,ENSMUST00000152703.1,"tumor necrosis factor receptor superfamily, member 23 ",mmu-miR-6954-5p,-0.4,ENSMUSG00000037613.16,-1.618405,4.69644e-48,,,,,,,,
+wt_d1338,,Atp2b4,Atp2b4,ENSMUST00000143567.2,"ATPase, Ca++ transporting, plasma membrane 4 ",mmu-miR-486a-3p,-0.5,ENSMUSG00000026463.17,-1.6203853,4.23193e-34,,,,,,,,
+wt_d1338,,Clic4,Clic4,ENSMUST00000037099.8,chloride intracellular channel 4 (mitochondrial) ,mmu-miR-486a-3p,-0.43,ENSMUSG00000037242.8,-1.6356046,2.92117e-31,,,,,,,,
+wt_d1338,mf_wt,Fam102a,Fam102a,ENSMUST00000048375.5,"family with sequence similarity 102, member A ",mmu-miR-486a-3p,-0.72,ENSMUSG00000039157.12,-1.700941,4.85482e-37,82,mmu-miR-486a-3p,Fam102a,"family with sequence similarity 102, member A",ENSMUSG00000039157.12,Fam102a,5.2021832,2.27054e-17
+wt_d1338,wt_d1338,Fam102a,Fam102a,ENSMUST00000048375.5,"family with sequence similarity 102, member A ",mmu-miR-486a-3p,-0.72,ENSMUSG00000039157.12,-1.700941,4.85482e-37,82,mmu-miR-486a-3p,Fam102a,"family with sequence similarity 102, member A",ENSMUSG00000039157.12,Fam102a,-1.700941,4.85482e-37
+wt_d1338,,Rtn4rl2,Rtn4rl2,ENSMUST00000054514.5,reticulon 4 receptor-like 2 ,mmu-miR-6954-5p,-0.52,ENSMUSG00000050896.12,-1.7551143,1.58682e-20,,,,,,,,
+wt_d1338,,Cd3e,Cd3e,ENSMUST00000102832.1,"CD3 antigen, epsilon polypeptide ",mmu-miR-486a-3p,-0.73,ENSMUSG00000032093.7,-1.8267308,1.20896e-08,,,,,,,,
+wt_d1338,,A930033H14Rik,A930033H14Rik,ENSMUST00000170048.1,RIKEN cDNA A930033H14 gene ,mmu-miR-6954-5p,-0.47,ENSMUSG00000090622.1,-1.941207,2.35492e-07,,,,,,,,
+wt_d1338,,4930539E08Rik,4930539E08Rik,ENSMUST00000062357.4,RIKEN cDNA 4930539E08 gene ,mmu-miR-486a-3p,-0.43,ENSMUSG00000048905.5,-2.1447146,0.002484187,,,,,,,,
+wt_d1338,,Apol7e,Apol7e,ENSMUST00000096358.4,apolipoprotein L 7e ,mmu-miR-486a-3p,-0.41,ENSMUSG00000071716.5,-2.3383653,6.32367e-07,,,,,,,,
+wt_d1338,mf_wt,Adamts4,Adamts4,ENSMUST00000111315.2,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4 ",mmu-miR-486a-3p,-0.65,ENSMUSG00000006403.13,-2.3532832,8.97876e-09,86,mmu-miR-486a-3p,Adamts4,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4",ENSMUSG00000006403.13,Adamts4,4.839337,2.81196e-05
+wt_d1338,wt_d1338,Adamts4,Adamts4,ENSMUST00000111315.2,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4 ",mmu-miR-486a-3p,-0.65,ENSMUSG00000006403.13,-2.3532832,8.97876e-09,86,mmu-miR-486a-3p,Adamts4,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4",ENSMUSG00000006403.13,Adamts4,-2.3532832,8.97876e-09
+wt_d1338,mf_wt,Hmga1,Hmga1,ENSMUST00000117600.2,high mobility group AT-hook 1 ,mmu-miR-6954-5p,-1.21,ENSMUSG00000046711.16,-2.5635362,2.24839e-82,97,mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,ENSMUSG00000046711.16,Hmga1,5.721247,2.64565e-10
+wt_d1338,mf_d1338,Hmga1,Hmga1,ENSMUST00000117600.2,high mobility group AT-hook 1 ,mmu-miR-6954-5p,-1.21,ENSMUSG00000046711.16,-2.5635362,2.24839e-82,97,mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,ENSMUSG00000046711.16,Hmga1,4.976725,0.000232295
+wt_d1338,wt_d1338,Hmga1,Hmga1,ENSMUST00000117600.2,high mobility group AT-hook 1 ,mmu-miR-6954-5p,-1.21,ENSMUSG00000046711.16,-2.5635362,2.24839e-82,97,mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,ENSMUSG00000046711.16,Hmga1,-2.5635362,2.24839e-82
+wt_d1338,,Lef1,Lef1,ENSMUST00000029611.8,lymphoid enhancer binding factor 1 ,mmu-miR-486a-3p,-0.51,ENSMUSG00000027985.14,-2.666276,9.94832e-11,,,,,,,,
+wt_d1338,,H2-Q1,H2-Q1,ENSMUST00000105041.4,"histocompatibility 2, Q region locus 1 ",mmu-miR-486a-3p,-0.47,ENSMUSG00000079507.10,-2.8023396,1.09723e-07,,,,,,,,
+wt_d1338,mf_wt,Dusp8,Dusp8,ENSMUST00000039926.4,dual specificity phosphatase 8 ,mmu-miR-6954-5p,-0.51,ENSMUSG00000037887.11,-2.8780117,5.78412e-22,80,mmu-miR-486a-3p,Dusp8,dual specificity phosphatase 8,ENSMUSG00000037887.11,Dusp8,4.2018423,0.0008522
+wt_d1338,wt_d1338,Dusp8,Dusp8,ENSMUST00000039926.4,dual specificity phosphatase 8 ,mmu-miR-6954-5p,-0.51,ENSMUSG00000037887.11,-2.8780117,5.78412e-22,80,mmu-miR-486a-3p,Dusp8,dual specificity phosphatase 8,ENSMUSG00000037887.11,Dusp8,-2.8780117,5.78412e-22
+wt_d1338,,Espn,Espn,ENSMUST00000030785.9,espin ,mmu-miR-486a-3p,-0.54,ENSMUSG00000028943.18,-3.134419,8.76815e-17,,,,,,,,
+wt_d1338,,Ciita,Ciita,ENSMUST00000023147.6,class II transactivator ,mmu-miR-6954-5p,-0.63,ENSMUSG00000022504.10,-3.2578356,2.7849e-192,,,,,,,,
+wt_d1338,mf_wt,Il2rb,Il2rb,ENSMUST00000089398.2,"interleukin 2 receptor, beta chain ",mmu-miR-486a-3p,-0.6,ENSMUSG00000068227.9,-3.3556452,1.21462e-49,84,mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",ENSMUSG00000068227.9,Il2rb,20.760075,0.001686118
+wt_d1338,mf_d1338,Il2rb,Il2rb,ENSMUST00000089398.2,"interleukin 2 receptor, beta chain ",mmu-miR-486a-3p,-0.6,ENSMUSG00000068227.9,-3.3556452,1.21462e-49,84,mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",ENSMUSG00000068227.9,Il2rb,9.814449,0.038221148
+wt_d1338,wt_d1338,Il2rb,Il2rb,ENSMUST00000089398.2,"interleukin 2 receptor, beta chain ",mmu-miR-486a-3p,-0.6,ENSMUSG00000068227.9,-3.3556452,1.21462e-49,84,mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",ENSMUSG00000068227.9,Il2rb,-3.3556452,1.21462e-49
+wt_d1338,,Tpbpa,Tpbpa,ENSMUST00000021885.6,trophoblast specific protein alpha ,mmu-miR-486a-3p,-0.67,ENSMUSG00000033834.7,-3.3879795,1.66613e-10,,,,,,,,
+wt_d1338,,Ndufa4l2,Ndufa4l2,ENSMUST00000035735.9,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4-like 2 ",mmu-miR-486a-3p,-0.55,ENSMUSG00000040280.10,-3.7660754,4.47692e-08,,,,,,,,
+wt_d1338,,Syt5,Syt5,ENSMUST00000065957.5,synaptotagmin V ,mmu-miR-486a-3p,-0.41,ENSMUSG00000004961.7,-4.062135,0.000138292,,,,,,,,
+wt_d1338,,Rasd2,Rasd2,ENSMUST00000139848.2,"RASD family, member 2 ",mmu-miR-486a-3p,-0.56,ENSMUSG00000034472.13,-4.6417212,9.50588e-06,,,,,,,,
+wt_d1338,,Foxj1,Foxj1,ENSMUST00000036215.7,forkhead box J1 ,mmu-miR-6954-5p,-0.45,ENSMUSG00000034227.7,-4.9992647,1.58486e-17,,,,,,,,
+wt_d1338,,Stx1b,Stx1b,ENSMUST00000106267.3,syntaxin 1B ,mmu-miR-486a-3p,-1,ENSMUSG00000030806.6,-7.73206,1.80318e-12,,,,,,,,
+mf_d1338,mf_wt,Bgn,Bgn,ENSMUST00000033741.9,biglycan ,mmu-miR-486a-3p,-0.96,ENSMUSG00000031375.17,26.561913,2.80997e-07,89,mmu-miR-486a-3p,Bgn,biglycan,ENSMUSG00000031375.17,Bgn,7.7051334,0.000106752
+mf_d1338,mf_d1338,Bgn,Bgn,ENSMUST00000033741.9,biglycan ,mmu-miR-486a-3p,-0.96,ENSMUSG00000031375.17,26.561913,2.80997e-07,89,mmu-miR-486a-3p,Bgn,biglycan,ENSMUSG00000031375.17,Bgn,26.561913,2.80997e-07
+mf_d1338,,Ereg,Ereg,ENSMUST00000031324.4,epiregulin ,mmu-miR-486a-3p,-0.41,ENSMUSG00000029377.5,24.817703,5.01824e-10,,,,,,,,
+mf_d1338,mf_wt,Flnc,Flnc,ENSMUST00000090474.5,"filamin C, gamma ",mmu-miR-486a-3p,-0.62,ENSMUSG00000068699.12,22.44065,1.9806e-06,87,mmu-miR-486a-3p,Flnc,"filamin C, gamma",ENSMUSG00000068699.12,Flnc,7.763793,2.17692e-05
+mf_d1338,mf_d1338,Flnc,Flnc,ENSMUST00000090474.5,"filamin C, gamma ",mmu-miR-486a-3p,-0.62,ENSMUSG00000068699.12,22.44065,1.9806e-06,87,mmu-miR-486a-3p,Flnc,"filamin C, gamma",ENSMUSG00000068699.12,Flnc,22.44065,1.9806e-06
+mf_d1338,,Ccl4,Ccl4,ENSMUST00000019074.3,chemokine (C-C motif) ligand 4 ,mmu-miR-6954-5p,-0.45,ENSMUSG00000018930.3,20.00381,5.77912e-16,,,,,,,,
+mf_d1338,,Slco4a1,Slco4a1,ENSMUST00000038259.7,"solute carrier organic anion transporter family, member 4a1 ",mmu-miR-486a-3p,-0.62,ENSMUSG00000038963.15,13.560416,3.67773e-05,,,,,,,,
+mf_d1338,mf_wt,Il2rb,Il2rb,ENSMUST00000089398.2,"interleukin 2 receptor, beta chain ",mmu-miR-486a-3p,-0.6,ENSMUSG00000068227.9,9.814449,0.038221148,84,mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",ENSMUSG00000068227.9,Il2rb,20.760075,0.001686118
+mf_d1338,mf_d1338,Il2rb,Il2rb,ENSMUST00000089398.2,"interleukin 2 receptor, beta chain ",mmu-miR-486a-3p,-0.6,ENSMUSG00000068227.9,9.814449,0.038221148,84,mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",ENSMUSG00000068227.9,Il2rb,9.814449,0.038221148
+mf_d1338,wt_d1338,Il2rb,Il2rb,ENSMUST00000089398.2,"interleukin 2 receptor, beta chain ",mmu-miR-486a-3p,-0.6,ENSMUSG00000068227.9,9.814449,0.038221148,84,mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",ENSMUSG00000068227.9,Il2rb,-3.3556452,1.21462e-49
+mf_d1338,,Apol7e,Apol7e,ENSMUST00000096358.4,apolipoprotein L 7e ,mmu-miR-486a-3p,-0.41,ENSMUSG00000071716.5,9.122507,0.005306939,,,,,,,,
+mf_d1338,,Rtn4rl2,Rtn4rl2,ENSMUST00000054514.5,reticulon 4 receptor-like 2 ,mmu-miR-6954-5p,-0.52,ENSMUSG00000050896.12,6.4304204,0.000237967,,,,,,,,
+mf_d1338,,Src,Src,ENSMUST00000029175.8,Rous sarcoma oncogene ,mmu-miR-486a-3p,-0.97,ENSMUSG00000027646.15,5.8563466,0.026702085,,,,,,,,
+mf_d1338,,Rhob,Rhob,ENSMUST00000067384.4,"ras homolog gene family, member B ",mmu-miR-486a-3p,-0.57,ENSMUSG00000054364.5,4.9964967,1.7984e-05,,,,,,,,
+mf_d1338,mf_wt,Hmga1,Hmga1,ENSMUST00000117600.2,high mobility group AT-hook 1 ,mmu-miR-6954-5p,-1.21,ENSMUSG00000046711.16,4.976725,0.000232295,97,mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,ENSMUSG00000046711.16,Hmga1,5.721247,2.64565e-10
+mf_d1338,mf_d1338,Hmga1,Hmga1,ENSMUST00000117600.2,high mobility group AT-hook 1 ,mmu-miR-6954-5p,-1.21,ENSMUSG00000046711.16,4.976725,0.000232295,97,mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,ENSMUSG00000046711.16,Hmga1,4.976725,0.000232295
+mf_d1338,wt_d1338,Hmga1,Hmga1,ENSMUST00000117600.2,high mobility group AT-hook 1 ,mmu-miR-6954-5p,-1.21,ENSMUSG00000046711.16,4.976725,0.000232295,97,mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,ENSMUSG00000046711.16,Hmga1,-2.5635362,2.24839e-82
+mf_d1338,,Dusp5,Dusp5,ENSMUST00000038287.6,dual specificity phosphatase 5 ,mmu-miR-486a-3p,-0.56,ENSMUSG00000034765.6,4.851773,0.000814903,,,,,,,,
+mf_d1338,,Ltbp3,Ltbp3,ENSMUST00000081496.5,latent transforming growth factor beta binding protein 3 ,mmu-miR-6954-5p,-0.43,ENSMUSG00000024940.11,4.772996,7.0717e-06,,,,,,,,
+mf_d1338,,Slc7a8,Slc7a8,ENSMUST00000022787.6,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 8 ",mmu-miR-486a-3p,-0.9,ENSMUSG00000022180.7,4.3369246,0.004559394,,,,,,,,
+mf_d1338,,Cish,Cish,ENSMUST00000168260.1,cytokine inducible SH2-containing protein ,mmu-miR-486a-3p,-0.4,ENSMUSG00000032578.7,4.007643,0.005331343,,,,,,,,
+mf_d1338,,Acaca,Acaca,ENSMUST00000103201.2,acetyl-Coenzyme A carboxylase alpha ,mmu-miR-486a-3p,-0.43,ENSMUSG00000020532.18,0.24380818,0.011103897,,,,,,,,
+mf_d1338,,Syp,Syp,ENSMUST00000069520.5,synaptophysin ,mmu-miR-6954-5p,-0.4,ENSMUSG00000031144.15,0.23328404,0.023200174,,,,,,,,
+mf_d1338,,Rab6b,Rab6b,ENSMUST00000035155.7,"RAB6B, member RAS oncogene family ",mmu-miR-486a-3p,-0.53,ENSMUSG00000032549.7,0.22517523,0.023200174,,,,,,,,
+mf_d1338,,Ifitm5,Ifitm5,ENSMUST00000026562.4,interferon induced transmembrane protein 5 ,mmu-miR-486a-3p,-0.71,ENSMUSG00000025489.5,0.116996355,0.005654695,,,,,,,,
+mf_d1338,mf_d1338,Pcsk4,Pcsk4,ENSMUST00000020340.9,proprotein convertase subtilisin/kexin type 4 ,mmu-miR-6954-5p,-0.87,ENSMUSG00000020131.14,0.115515225,0.044057611,81,mmu-miR-486a-3p,Pcsk4,proprotein convertase subtilisin/kexin type 4,ENSMUSG00000020131.14,Pcsk4,0.115515225,0.044057611
+mf_d1338,,Cyp2ab1,Cyp2ab1,ENSMUST00000023513.6,"cytochrome P450, family 2, subfamily ab, polypeptide 1 ",mmu-miR-486a-3p,-0.4,ENSMUSG00000022818.13,0.10235655,0.00504394,,,,,,,,
+mf_d1338,,Kifc2,Kifc2,ENSMUST00000004294.10,kinesin family member C2 ,mmu-miR-6954-5p,-0.55,ENSMUSG00000004187.11,0.09977697,0.00981082,,,,,,,,
+mf_d1338,,Sox7,Sox7,ENSMUST00000079652.5,SRY (sex determining region Y)-box 7 ,mmu-miR-6954-5p,-0.47,ENSMUSG00000063060.6,0.048648477,0.016276746,,,,,,,,
+mf_d1338,,Ifitm6,Ifitm6,ENSMUST00000081924.3,interferon induced transmembrane protein 6 ,mmu-miR-6954-5p,-0.41,ENSMUSG00000059108.4,0.021837529,1.70732e-17,,,,,,,,
+mf_wt,,Stx1b,Stx1b,ENSMUST00000106267.3,syntaxin 1B ,mmu-miR-486a-3p,-1,ENSMUSG00000030806.6,25.405787,2.88552e-17,,,,,,,,
+mf_wt,mf_wt,Il2rb,Il2rb,ENSMUST00000089398.2,"interleukin 2 receptor, beta chain ",mmu-miR-486a-3p,-0.6,ENSMUSG00000068227.9,20.760075,0.001686118,84,mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",ENSMUSG00000068227.9,Il2rb,20.760075,0.001686118
+mf_wt,mf_d1338,Il2rb,Il2rb,ENSMUST00000089398.2,"interleukin 2 receptor, beta chain ",mmu-miR-486a-3p,-0.6,ENSMUSG00000068227.9,20.760075,0.001686118,84,mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",ENSMUSG00000068227.9,Il2rb,9.814449,0.038221148
+mf_wt,wt_d1338,Il2rb,Il2rb,ENSMUST00000089398.2,"interleukin 2 receptor, beta chain ",mmu-miR-486a-3p,-0.6,ENSMUSG00000068227.9,20.760075,0.001686118,84,mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",ENSMUSG00000068227.9,Il2rb,-3.3556452,1.21462e-49
+mf_wt,,Foxj1,Foxj1,ENSMUST00000036215.7,forkhead box J1 ,mmu-miR-6954-5p,-0.45,ENSMUSG00000034227.7,16.861492,6.42864e-07,,,,,,,,
+mf_wt,,Apol7e,Apol7e,ENSMUST00000096358.4,apolipoprotein L 7e ,mmu-miR-486a-3p,-0.41,ENSMUSG00000071716.5,9.185688,7.52083e-06,,,,,,,,
+mf_wt,mf_wt,Flnc,Flnc,ENSMUST00000090474.5,"filamin C, gamma ",mmu-miR-486a-3p,-0.62,ENSMUSG00000068699.12,7.763793,2.17692e-05,87,mmu-miR-486a-3p,Flnc,"filamin C, gamma",ENSMUSG00000068699.12,Flnc,7.763793,2.17692e-05
+mf_wt,mf_d1338,Flnc,Flnc,ENSMUST00000090474.5,"filamin C, gamma ",mmu-miR-486a-3p,-0.62,ENSMUSG00000068699.12,7.763793,2.17692e-05,87,mmu-miR-486a-3p,Flnc,"filamin C, gamma",ENSMUSG00000068699.12,Flnc,22.44065,1.9806e-06
+mf_wt,mf_wt,Bgn,Bgn,ENSMUST00000033741.9,biglycan ,mmu-miR-486a-3p,-0.96,ENSMUSG00000031375.17,7.7051334,0.000106752,89,mmu-miR-486a-3p,Bgn,biglycan,ENSMUSG00000031375.17,Bgn,7.7051334,0.000106752
+mf_wt,mf_d1338,Bgn,Bgn,ENSMUST00000033741.9,biglycan ,mmu-miR-486a-3p,-0.96,ENSMUSG00000031375.17,7.7051334,0.000106752,89,mmu-miR-486a-3p,Bgn,biglycan,ENSMUSG00000031375.17,Bgn,26.561913,2.80997e-07
+mf_wt,,Syt5,Syt5,ENSMUST00000065957.5,synaptotagmin V ,mmu-miR-486a-3p,-0.41,ENSMUSG00000004961.7,7.441615,0.000750276,,,,,,,,
+mf_wt,,Ankrd52,Ankrd52,ENSMUST00000014642.4,ankyrin repeat domain 52 ,mmu-miR-486a-3p,-0.51,ENSMUSG00000014498.9,6.7060537,4.27042e-28,,,,,,,,
+mf_wt,,Rtn4rl2,Rtn4rl2,ENSMUST00000054514.5,reticulon 4 receptor-like 2 ,mmu-miR-6954-5p,-0.52,ENSMUSG00000050896.12,6.6536574,9.58743e-09,,,,,,,,
+mf_wt,,Ciita,Ciita,ENSMUST00000023147.6,class II transactivator ,mmu-miR-6954-5p,-0.63,ENSMUSG00000022504.10,6.5729084,1.79617e-13,,,,,,,,
+mf_wt,,Tnfrsf23,Tnfrsf23,ENSMUST00000152703.1,"tumor necrosis factor receptor superfamily, member 23 ",mmu-miR-6954-5p,-0.4,ENSMUSG00000037613.16,5.8543053,4.03235e-12,,,,,,,,
+mf_wt,,Clic4,Clic4,ENSMUST00000037099.8,chloride intracellular channel 4 (mitochondrial) ,mmu-miR-486a-3p,-0.43,ENSMUSG00000037242.8,5.798698,2.06332e-26,,,,,,,,
+mf_wt,,Src,Src,ENSMUST00000029175.8,Rous sarcoma oncogene ,mmu-miR-486a-3p,-0.97,ENSMUSG00000027646.15,5.7980413,0.001106718,,,,,,,,
+mf_wt,,Slc7a8,Slc7a8,ENSMUST00000022787.6,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 8 ",mmu-miR-486a-3p,-0.9,ENSMUSG00000022180.7,5.762703,6.3213e-08,,,,,,,,
+mf_wt,mf_wt,Hmga1,Hmga1,ENSMUST00000117600.2,high mobility group AT-hook 1 ,mmu-miR-6954-5p,-1.21,ENSMUSG00000046711.16,5.721247,2.64565e-10,97,mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,ENSMUSG00000046711.16,Hmga1,5.721247,2.64565e-10
+mf_wt,mf_d1338,Hmga1,Hmga1,ENSMUST00000117600.2,high mobility group AT-hook 1 ,mmu-miR-6954-5p,-1.21,ENSMUSG00000046711.16,5.721247,2.64565e-10,97,mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,ENSMUSG00000046711.16,Hmga1,4.976725,0.000232295
+mf_wt,wt_d1338,Hmga1,Hmga1,ENSMUST00000117600.2,high mobility group AT-hook 1 ,mmu-miR-6954-5p,-1.21,ENSMUSG00000046711.16,5.721247,2.64565e-10,97,mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,ENSMUSG00000046711.16,Hmga1,-2.5635362,2.24839e-82
+mf_wt,,Slco4a1,Slco4a1,ENSMUST00000038259.7,"solute carrier organic anion transporter family, member 4a1 ",mmu-miR-486a-3p,-0.62,ENSMUSG00000038963.15,5.472473,0.000455624,,,,,,,,
+mf_wt,,Adap2,Adap2,ENSMUST00000021050.8,ArfGAP with dual PH domains 2 ,mmu-miR-486a-3p,-0.4,ENSMUSG00000020709.15,5.3563447,3.25663e-11,,,,,,,,
+mf_wt,mf_wt,Fam102a,Fam102a,ENSMUST00000048375.5,"family with sequence similarity 102, member A ",mmu-miR-486a-3p,-0.72,ENSMUSG00000039157.12,5.2021832,2.27054e-17,82,mmu-miR-486a-3p,Fam102a,"family with sequence similarity 102, member A",ENSMUSG00000039157.12,Fam102a,5.2021832,2.27054e-17
+mf_wt,wt_d1338,Fam102a,Fam102a,ENSMUST00000048375.5,"family with sequence similarity 102, member A ",mmu-miR-486a-3p,-0.72,ENSMUSG00000039157.12,5.2021832,2.27054e-17,82,mmu-miR-486a-3p,Fam102a,"family with sequence similarity 102, member A",ENSMUSG00000039157.12,Fam102a,-1.700941,4.85482e-37
+mf_wt,,A930033H14Rik,A930033H14Rik,ENSMUST00000170048.1,RIKEN cDNA A930033H14 gene ,mmu-miR-6954-5p,-0.47,ENSMUSG00000090622.1,5.1443763,6.12605e-06,,,,,,,,
+mf_wt,,Zfp41,Zfp41,ENSMUST00000161785.2,zinc finger protein 41 ,mmu-miR-486a-3p,-0.41,ENSMUSG00000047003.15,4.9004707,4.90188e-06,,,,,,,,
+mf_wt,mf_wt,Adamts4,Adamts4,ENSMUST00000111315.2,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4 ",mmu-miR-486a-3p,-0.65,ENSMUSG00000006403.13,4.839337,2.81196e-05,86,mmu-miR-486a-3p,Adamts4,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4",ENSMUSG00000006403.13,Adamts4,4.839337,2.81196e-05
+mf_wt,wt_d1338,Adamts4,Adamts4,ENSMUST00000111315.2,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4 ",mmu-miR-486a-3p,-0.65,ENSMUSG00000006403.13,4.839337,2.81196e-05,86,mmu-miR-486a-3p,Adamts4,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4",ENSMUSG00000006403.13,Adamts4,-2.3532832,8.97876e-09
+mf_wt,,Clec16a,Clec16a,ENSMUST00000115823.1,"C-type lectin domain family 16, member A ",mmu-miR-6954-5p,-0.71,ENSMUSG00000068663.14,4.6783576,3.00026e-37,,,,,,,,
+mf_wt,,Spred2,Spred2,ENSMUST00000093299.7,"sprouty-related, EVH1 domain containing 2 ",mmu-miR-486a-3p,-0.42,ENSMUSG00000045671.17,4.6691356,1.06729e-35,,,,,,,,
+mf_wt,,Stac2,Stac2,ENSMUST00000017544.3,SH3 and cysteine rich domain 2 ,mmu-miR-6954-5p,-0.51,ENSMUSG00000017400.10,4.417803,3.61903e-05,,,,,,,,
+mf_wt,mf_wt,Dusp8,Dusp8,ENSMUST00000039926.4,dual specificity phosphatase 8 ,mmu-miR-6954-5p,-0.51,ENSMUSG00000037887.11,4.2018423,0.0008522,80,mmu-miR-486a-3p,Dusp8,dual specificity phosphatase 8,ENSMUSG00000037887.11,Dusp8,4.2018423,0.0008522
+mf_wt,wt_d1338,Dusp8,Dusp8,ENSMUST00000039926.4,dual specificity phosphatase 8 ,mmu-miR-6954-5p,-0.51,ENSMUSG00000037887.11,4.2018423,0.0008522,80,mmu-miR-486a-3p,Dusp8,dual specificity phosphatase 8,ENSMUSG00000037887.11,Dusp8,-2.8780117,5.78412e-22
+mf_wt,,Itga5,Itga5,ENSMUST00000023128.6,integrin alpha 5 (fibronectin receptor alpha) ,mmu-miR-6954-5p,-0.48,ENSMUSG00000000555.8,4.105013,4.08823e-07,,,,,,,,
+mf_wt,,Rnf43,Rnf43,ENSMUST00000092800.6,ring finger protein 43 ,mmu-miR-486a-3p,-0.5,ENSMUSG00000034177.15,4.0933166,0.000536731,,,,,,,,
+mf_wt,,Adamts10,Adamts10,ENSMUST00000087623.7,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 10 ",mmu-miR-6954-5p,-0.4,ENSMUSG00000024299.17,0.24553733,3.48747e-13,,,,,,,,
+mf_wt,,Lpar2,Lpar2,ENSMUST00000034325.4,lysophosphatidic acid receptor 2 ,mmu-miR-486a-3p,-0.43,ENSMUSG00000031861.16,0.23196954,1.29045e-05,,,,,,,,
+mf_wt,,Icosl,Icosl,ENSMUST00000105393.1,icos ligand ,mmu-miR-6954-5p,-0.46,ENSMUSG00000000732.9,0.22448125,5.56826e-05,,,,,,,,
+mf_wt,,Mcpt4,Mcpt4,ENSMUST00000043249.8,mast cell protease 4 ,mmu-miR-6954-5p,-0.78,ENSMUSG00000061068.7,0.21520524,0.007304083,,,,,,,,
+mf_wt,,S100a13,S100a13,ENSMUST00000048138.6,S100 calcium binding protein A13 ,mmu-miR-6954-5p,-0.41,ENSMUSG00000042312.9,0.20600992,0.000155222,,,,,,,,
+mf_wt,,Ddx51,Ddx51,ENSMUST00000031478.5,DEAD (Asp-Glu-Ala-Asp) box polypeptide 51 ,mmu-miR-486a-3p,-0.42,ENSMUSG00000029504.5,0.20127915,6.29752e-06,,,,,,,,
+mf_wt,,Wdr89,Wdr89,ENSMUST00000062370.8,WD repeat domain 89 ,mmu-miR-486a-3p,-0.64,ENSMUSG00000045690.8,0.19903941,5.47842e-24,,,,,,,,
+mf_wt,,Rab3il1,Rab3il1,ENSMUST00000121418.2,RAB3A interacting protein (rabin3)-like 1 ,mmu-miR-6954-5p,-0.69,ENSMUSG00000024663.20,0.19228224,6.9491e-05,,,,,,,,
+mf_wt,,Kifc2,Kifc2,ENSMUST00000004294.10,kinesin family member C2 ,mmu-miR-6954-5p,-0.55,ENSMUSG00000004187.11,0.1904863,0.001017504,,,,,,,,
+mf_wt,,Rpl13a,Rpl13a,ENSMUST00000150350.2,ribosomal protein L13A ,mmu-miR-486a-3p,-0.53,ENSMUSG00000074129.14,0.17170773,2.94853e-51,,,,,,,,
+mf_wt,,Cd79a,Cd79a,ENSMUST00000003469.7,CD79A antigen (immunoglobulin-associated alpha) ,mmu-miR-6954-5p,-0.4,ENSMUSG00000003379.7,0.16458496,0.005408314,,,,,,,,
+mf_wt,,Scx,Scx,ENSMUST00000043089.7,scleraxis ,mmu-miR-6954-5p,-0.52,ENSMUSG00000034161.8,0.15424123,0.018751036,,,,,,,,
+mf_wt,,Ifitm2,Ifitm2,ENSMUST00000081649.8,interferon induced transmembrane protein 2 ,mmu-miR-6954-5p,-0.86,ENSMUSG00000060591.9,0.13989328,1.4952e-126,,,,,,,,
+mf_wt,mf_wt,Nat8l,Nat8l,ENSMUST00000056355.8,N-acetyltransferase 8-like ,mmu-miR-6954-5p,-1.06,ENSMUSG00000048142.9,0.13553436,5.93596e-06,83,mmu-miR-486a-3p,Nat8l,N-acetyltransferase 8-like,ENSMUSG00000048142.9,Nat8l,0.13553436,5.93596e-06
+mf_wt,wt_d1338,Nat8l,Nat8l,ENSMUST00000056355.8,N-acetyltransferase 8-like ,mmu-miR-6954-5p,-1.06,ENSMUSG00000048142.9,0.13553436,5.93596e-06,83,mmu-miR-486a-3p,Nat8l,N-acetyltransferase 8-like,ENSMUSG00000048142.9,Nat8l,3.533277,1.98387e-10
+mf_wt,,Msrb1,Msrb1,ENSMUST00000101800.5,methionine sulfoxide reductase B1 ,mmu-miR-6954-5p,-0.93,ENSMUSG00000075705.12,0.1293185,5.9416e-101,,,,,,,,
+mf_wt,,Kcna2,Kcna2,ENSMUST00000038695.1,"potassium voltage-gated channel, shaker-related subfamily, member 2 ",mmu-miR-6954-5p,-0.75,ENSMUSG00000040724.5,0.11187453,0.002204651,,,,,,,,
+mf_wt,mf_wt,Ifitm1,Ifitm1,ENSMUST00000106042.3,interferon induced transmembrane protein 1 ,mmu-miR-486a-3p,-1.63,ENSMUSG00000025491.14,0.10428044,8.25203e-36,92,mmu-miR-486a-3p,Ifitm1,interferon induced transmembrane protein 1,ENSMUSG00000025491.14,Ifitm1,0.10428044,8.25203e-36
+mf_wt,wt_d1338,Ifitm1,Ifitm1,ENSMUST00000106042.3,interferon induced transmembrane protein 1 ,mmu-miR-486a-3p,-1.63,ENSMUSG00000025491.14,0.10428044,8.25203e-36,92,mmu-miR-486a-3p,Ifitm1,interferon induced transmembrane protein 1,ENSMUSG00000025491.14,Ifitm1,3.1693325,4.94319e-39
+mf_wt,,Syp,Syp,ENSMUST00000069520.5,synaptophysin ,mmu-miR-6954-5p,-0.4,ENSMUSG00000031144.15,0.09361005,1.93127e-11,,,,,,,,
+mf_wt,,Saa3,Saa3,ENSMUST00000006956.7,serum amyloid A 3 ,mmu-miR-6954-5p,-0.4,ENSMUSG00000040026.8,0.08556032,4.09146e-07,,,,,,,,
+mf_wt,,Ifitm5,Ifitm5,ENSMUST00000026562.4,interferon induced transmembrane protein 5 ,mmu-miR-486a-3p,-0.71,ENSMUSG00000025489.5,0.036690857,3.55602e-08,,,,,,,,
+mf_wt,,Sox7,Sox7,ENSMUST00000079652.5,SRY (sex determining region Y)-box 7 ,mmu-miR-6954-5p,-0.47,ENSMUSG00000063060.6,0.034922007,0.000130634,,,,,,,,
+mf_wt,,Ifitm6,Ifitm6,ENSMUST00000081924.3,interferon induced transmembrane protein 6 ,mmu-miR-6954-5p,-0.41,ENSMUSG00000059108.4,0.006170485,3.98476e-39,,,,,,,,
+,wt_d1338,,,,,,,,,,85,mmu-miR-486a-3p,Adarb1,"adenosine deaminase, RNA-specific, B1",ENSMUSG00000020262.15,Adarb1,1.9660181,8.71939e-38
+,wt_d1338,,,,,,,,,,80,mmu-miR-486a-3p,Trim30b,tripartite motif-containing 30B,ENSMUSG00000052749.9,Trim30b,-1.5564033,1.14601e-21
+,mf_wt,,,,,,,,,,84,mmu-miR-486a-3p,Celf4,"CUGBP, Elav-like family member 4",ENSMUSG00000024268.16,Celf4,0.06520668,4.89937e-10
+,wt_d1338,,,,,,,,,,84,mmu-miR-486a-3p,Celf4,"CUGBP, Elav-like family member 4",ENSMUSG00000024268.16,Celf4,1.9455893,0.011149641
+,mf_d1338,,,,,,,,,,88,mmu-miR-486a-3p,Plppr2,phospholipid phosphatase related 2,ENSMUSG00000040563.13,Plppr2,0.21500187,0.046124105
+,wt_d1338,,,,,,,,,,82,mmu-miR-486a-3p,Ly6e,"lymphocyte antigen 6 complex, locus E",ENSMUSG00000022587.14,Ly6e,1.9976763,5.71846e-57
+,wt_d1338,,,,,,,,,,81,mmu-miR-486a-3p,Col18a1,"collagen, type XVIII, alpha 1",ENSMUSG00000001435.15,Col18a1,2.3664892,1.71471e-53
+,wt_d1338,,,,,,,,,,82,mmu-miR-486a-3p,Tns4,tensin 4,ENSMUSG00000017607.9,Tns4,1.8862393,6.70609e-27
+,mf_d1338,,,,,,,,,,82,mmu-miR-486a-3p,Hmga1b,high mobility group AT-hook 1B,ENSMUSG00000078249.5,Hmga1b,114.646355,1.20085e-05

@@ -1,0 +1,102 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,89,mmu-miR-182-5p,Rnf144b,ring finger protein 144B,ENSMUSG00000038068.15,Rnf144b,3.436609,4.44395e-22
+,wt_d1338,,,,,,,,,,80,mmu-miR-182-5p,Igf1,insulin-like growth factor 1,ENSMUSG00000020053.18,Igf1,3.1389663,2.91138e-90
+,wt_d1338,,,,,,,,,,85,mmu-miR-182-5p,Camkk2,"calcium/calmodulin-dependent protein kinase kinase 2, beta",ENSMUSG00000029471.13,Camkk2,2.9079905,2.96697e-86
+,wt_d1338,,,,,,,,,,84,mmu-miR-182-5p,Cfh,complement component factor h,ENSMUSG00000026365.15,Cfh,2.9076977,5.22354e-11
+,wt_d1338,,,,,,,,,,87,mmu-miR-182-5p,Olfm1,olfactomedin 1,ENSMUSG00000026833.18,Olfm1,2.6780128,2.1087e-153
+,wt_d1338,,,,,,,,,,89,mmu-miR-182-5p,Prune2,prune homolog 2,ENSMUSG00000039126.10,Prune2,2.5357451,0.001630091
+,wt_d1338,,,,,,,,,,84,mmu-miR-182-5p,Ntn4,netrin 4,ENSMUSG00000020019.4,Ntn4,2.5042953,0.016691286
+,wt_d1338,,,,,,,,,,91,mmu-miR-182-5p,Fam43a,"family with sequence similarity 43, member A",ENSMUSG00000046546.3,Fam43a,2.3380256,1.7273e-39
+,wt_d1338,,,,,,,,,,81,mmu-miR-182-5p,Slc16a9,"solute carrier family 16 (monocarboxylic acid transporters), member 9",ENSMUSG00000037762.6,Slc16a9,2.184955,1.37581e-13
+,wt_d1338,,,,,,,,,,81,mmu-miR-182-5p,Ahr,aryl-hydrocarbon receptor,ENSMUSG00000019256.17,Ahr,1.9678265,2.81526e-21
+,wt_d1338,,,,,,,,,,88,mmu-miR-182-5p,Reps2,RALBP1 associated Eps domain containing protein 2,ENSMUSG00000040855.15,Reps2,1.9631511,8.05665e-05
+,wt_d1338,,,,,,,,,,91,mmu-miR-182-5p,Igsf3,"immunoglobulin superfamily, member 3",ENSMUSG00000042035.11,Igsf3,1.8527623,9.88703e-09
+,wt_d1338,,,,,,,,,,93,mmu-miR-182-5p,Adgrl2,adhesion G protein-coupled receptor L2,ENSMUSG00000028184.12,Adgrl2,1.8003387,1.26328e-14
+,wt_d1338,,,,,,,,,,88,mmu-miR-182-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,1.7544854,1.99981e-11
+,wt_d1338,,,,,,,,,,89,mmu-miR-182-5p,Ttc9,tetratricopeptide repeat domain 9,ENSMUSG00000042734.6,Ttc9,1.7331064,5.70313e-05
+,wt_d1338,,,,,,,,,,81,mmu-miR-182-5p,Ttyh3,tweety family member 3,ENSMUSG00000036565.7,Ttyh3,1.7079923,7.69506e-20
+,wt_d1338,,,,,,,,,,80,mmu-miR-182-5p,Sla,src-like adaptor,ENSMUSG00000022372.14,Sla,1.6584873,1.95857e-29
+,wt_d1338,,,,,,,,,,85,mmu-miR-182-5p,Tarbp1,TAR RNA binding protein 1,ENSMUSG00000090290.2,Tarbp1,1.5433986,1.09705e-17
+,wt_d1338,,,,,,,,,,93,mmu-miR-182-5p,Ednrb,endothelin receptor type B,ENSMUSG00000022122.15,Ednrb,1.5299419,4.1898e-143
+,wt_d1338,,,,,,,,,,80,mmu-miR-182-5p,Cadps2,Ca2+-dependent activator protein for secretion 2,ENSMUSG00000017978.18,Cadps2,1.5258243,6.98389e-08
+,wt_d1338,,,,,,,,,,87,mmu-miR-182-5p,Gcnt1,"glucosaminyl (N-acetyl) transferase 1, core 2",ENSMUSG00000038843.18,Gcnt1,1.5118853,6.30248e-13
+,wt_d1338,,,,,,,,,,84,mmu-miR-182-5p,Klrb1b,killer cell lectin-like receptor subfamily B member 1B,ENSMUSG00000079298.9,Klrb1b,-1.5100224,0.009714442
+,wt_d1338,,,,,,,,,,82,mmu-miR-182-5p,Zdhhc2,"zinc finger, DHHC domain containing 2",ENSMUSG00000039470.15,Zdhhc2,-1.51569,3.68413e-11
+,wt_d1338,,,,,,,,,,82,mmu-miR-182-5p,Rhobtb1,Rho-related BTB domain containing 1,ENSMUSG00000019944.14,Rhobtb1,-1.5495583,6.54478e-13
+,wt_d1338,,,,,,,,,,83,mmu-miR-182-5p,Arrdc3,arrestin domain containing 3,ENSMUSG00000074794.10,Arrdc3,-1.6783893,4.71547e-15
+,wt_d1338,,,,,,,,,,87,mmu-miR-182-5p,Slc23a2,"solute carrier family 23 (nucleobase transporters), member 2",ENSMUSG00000027340.15,Slc23a2,-1.7050508,1.30893e-40
+mf_wt,wt_d1338,Nckap1,Nckap1,ENSMUST00000028386.6,NCK-associated protein 1 ,mmu-miR-182-5p,-0.4,ENSMUSG00000027002.13,5.1303387,1.19765e-06,88,mmu-miR-182-5p,Nckap1,NCK-associated protein 1,ENSMUSG00000027002.13,Nckap1,-1.7212731,1.30085e-32
+wt_d1338,wt_d1338,Nckap1,Nckap1,ENSMUST00000028386.6,NCK-associated protein 1 ,mmu-miR-182-5p,-0.4,ENSMUSG00000027002.13,-1.7212731,1.30085e-32,88,mmu-miR-182-5p,Nckap1,NCK-associated protein 1,ENSMUSG00000027002.13,Nckap1,-1.7212731,1.30085e-32
+,wt_d1338,,,,,,,,,,88,mmu-miR-182-5p,Gna13,"guanine nucleotide binding protein, alpha 13",ENSMUSG00000020611.14,Gna13,-1.9006953,2.1765e-168
+,wt_d1338,,,,,,,,,,91,mmu-miR-182-5p,Slc1a2,"solute carrier family 1 (glial high affinity glutamate transporter), member 2",ENSMUSG00000005089.15,Slc1a2,-1.9922503,1.18475e-18
+,wt_d1338,,,,,,,,,,95,mmu-miR-182-5p,Slco3a1,"solute carrier organic anion transporter family, member 3a1",ENSMUSG00000025790.14,Slco3a1,-2.0547116,4.05741e-78
+wt_d1338,wt_d1338,Rnf152,Rnf152,ENSMUST00000058688.6,ring finger protein 152 ,mmu-miR-182-5p,-0.72,ENSMUSG00000047496.6,-2.10623,0.035791738,93,mmu-miR-182-5p,Rnf152,ring finger protein 152,ENSMUSG00000047496.6,Rnf152,-2.10623,0.035791738
+,wt_d1338,,,,,,,,,,84,mmu-miR-182-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,-2.2722616,6.87939e-22
+,wt_d1338,,,,,,,,,,94,mmu-miR-182-5p,Bnip3,BCL2/adenovirus E1B interacting protein 3,ENSMUSG00000078566.8,Bnip3,-2.277343,1.52851e-37
+,wt_d1338,,,,,,,,,,90,mmu-miR-182-5p,Shc4,"SHC (Src homology 2 domain containing) family, member 4",ENSMUSG00000035109.14,Shc4,-2.503884,9.32235e-06
+,wt_d1338,,,,,,,,,,96,mmu-miR-182-5p,Abhd18,abhydrolase domain containing 18,ENSMUSG00000037818.16,Abhd18,-2.5933652,4.01317e-28
+,wt_d1338,,,,,,,,,,83,mmu-miR-182-5p,Cacna1b,"calcium channel, voltage-dependent, N type, alpha 1B subunit",ENSMUSG00000004113.18,Cacna1b,-3.6580656,2.86661e-24
+,wt_d1338,,,,,,,,,,84,mmu-miR-182-5p,Ndrg1,N-myc downstream regulated gene 1,ENSMUSG00000005125.13,Ndrg1,-4.683545,0
+mf_d1338,mf_d1338,Has2,Has2,ENSMUST00000050544.7,hyaluronan synthase 2 ,mmu-miR-182-5p,-0.45,ENSMUSG00000022367.7,77.35794,0.010373781,92,mmu-miR-182-5p,Has2,hyaluronan synthase 2,ENSMUSG00000022367.7,Has2,77.35794,0.010373781
+mf_d1338,mf_d1338,Usp13,Usp13,ENSMUST00000072312.6,ubiquitin specific peptidase 13 (isopeptidase T-3) ,mmu-miR-182-5p,-0.42,ENSMUSG00000056900.13,68.665764,0.005864596,97,mmu-miR-182-5p,Usp13,ubiquitin specific peptidase 13 (isopeptidase T-3),ENSMUSG00000056900.13,Usp13,68.665764,0.005864596
+,mf_d1338,,,,,,,,,,91,mmu-miR-182-5p,Slc1a2,"solute carrier family 1 (glial high affinity glutamate transporter), member 2",ENSMUSG00000005089.15,Slc1a2,37.78298,5.87257e-05
+,mf_d1338,,,,,,,,,,83,mmu-miR-182-5p,Cacna1b,"calcium channel, voltage-dependent, N type, alpha 1B subunit",ENSMUSG00000004113.18,Cacna1b,31.238316,0.000498494
+,mf_d1338,,,,,,,,,,84,mmu-miR-182-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,29.866495,5.52e-17
+,mf_d1338,,,,,,,,,,86,mmu-miR-182-5p,Col5a1,"collagen, type V, alpha 1",ENSMUSG00000026837.16,Col5a1,19.0346,3.20798e-10
+,mf_d1338,,,,,,,,,,88,mmu-miR-182-5p,Parva,"parvin, alpha",ENSMUSG00000030770.15,Parva,12.188073,1.22159e-05
+,mf_d1338,,,,,,,,,,95,mmu-miR-182-5p,Slco3a1,"solute carrier organic anion transporter family, member 3a1",ENSMUSG00000025790.14,Slco3a1,11.04612,1.72848e-05
+mf_d1338,mf_d1338,Palld,Palld,ENSMUST00000121785.2,"palladin, cytoskeletal associated protein ",mmu-miR-182-5p,-0.88,ENSMUSG00000058056.16,6.543422,8.71218e-11,99,mmu-miR-182-5p,Palld,"palladin, cytoskeletal associated protein",ENSMUSG00000058056.16,Palld,6.543422,8.71218e-11
+,mf_d1338,,,,,,,,,,84,mmu-miR-182-5p,Ndrg1,N-myc downstream regulated gene 1,ENSMUSG00000005125.13,Ndrg1,6.262646,0.032113892
+,mf_d1338,,,,,,,,,,83,mmu-miR-182-5p,Tnfrsf1b,"tumor necrosis factor receptor superfamily, member 1b",ENSMUSG00000028599.10,Tnfrsf1b,4.203112,0.001339069
+,mf_d1338,,,,,,,,,,92,mmu-miR-182-5p,Ell2,elongation factor RNA polymerase II 2,ENSMUSG00000001542.7,Ell2,4.0351295,0.005920706
+,mf_d1338,,,,,,,,,,95,mmu-miR-182-5p,Kif19a,kinesin family member 19A,ENSMUSG00000010021.13,Kif19a,0.2361867,0.043195908
+,mf_d1338,,,,,,,,,,90,mmu-miR-182-5p,Plxdc2,plexin domain containing 2,ENSMUSG00000026748.13,Plxdc2,0.23421793,1.21495e-06
+mf_d1338,mf_d1338,Adcy6,Adcy6,ENSMUST00000096224.4,adenylate cyclase 6 ,mmu-miR-182-5p,-0.54,ENSMUSG00000022994.9,0.2297701,0.007001797,100,mmu-miR-182-5p,Adcy6,adenylate cyclase 6,ENSMUSG00000022994.9,Adcy6,0.2297701,0.007001797
+mf_d1338,mf_d1338,Rab6b,Rab6b,ENSMUST00000035155.7,"RAB6B, member RAS oncogene family ",mmu-miR-182-5p,-0.52,ENSMUSG00000032549.7,0.22517523,0.023200174,82,mmu-miR-182-5p,Rab6b,"RAB6B, member RAS oncogene family",ENSMUSG00000032549.7,Rab6b,0.22517523,0.023200174
+,mf_d1338,,,,,,,,,,88,mmu-miR-182-5p,Reps2,RALBP1 associated Eps domain containing protein 2,ENSMUSG00000040855.15,Reps2,0.19422607,0.036471662
+,mf_d1338,,,,,,,,,,85,mmu-miR-182-5p,Trp53inp1,transformation related protein 53 inducible nuclear protein 1,ENSMUSG00000028211.11,Trp53inp1,0.18410668,0.03553264
+,mf_d1338,,,,,,,,,,87,mmu-miR-182-5p,Atp8a1,"ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1",ENSMUSG00000037685.15,Atp8a1,0.15894778,0.00661785
+,mf_d1338,,,,,,,,,,80,mmu-miR-182-5p,Cadps2,Ca2+-dependent activator protein for secretion 2,ENSMUSG00000017978.18,Cadps2,0.1527583,0.021244146
+,mf_d1338,,,,,,,,,,96,mmu-miR-182-5p,Fam171a1,"family with sequence similarity 171, member A1",ENSMUSG00000050530.14,Fam171a1,0.13810617,0.004040881
+,mf_d1338,,,,,,,,,,84,mmu-miR-182-5p,Cfh,complement component factor h,ENSMUSG00000026365.15,Cfh,0.13095239,0.005288456
+,mf_d1338,,,,,,,,,,93,mmu-miR-182-5p,Ednrb,endothelin receptor type B,ENSMUSG00000022122.15,Ednrb,0.11992334,2.01004e-10
+,mf_d1338,,,,,,,,,,88,mmu-miR-182-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,0.09542484,0.001065973
+,mf_d1338,,,,,,,,,,89,mmu-miR-182-5p,Rnf144b,ring finger protein 144B,ENSMUSG00000038068.15,Rnf144b,0.037491847,1.88045e-11
+,mf_wt,,,,,,,,,,83,mmu-miR-182-5p,Cacna1b,"calcium channel, voltage-dependent, N type, alpha 1B subunit",ENSMUSG00000004113.18,Cacna1b,40.820587,2.45156e-17
+,mf_wt,,,,,,,,,,84,mmu-miR-182-5p,Ndrg1,N-myc downstream regulated gene 1,ENSMUSG00000005125.13,Ndrg1,25.786757,5.01783e-09
+,mf_wt,,,,,,,,,,91,mmu-miR-182-5p,Slc1a2,"solute carrier family 1 (glial high affinity glutamate transporter), member 2",ENSMUSG00000005089.15,Slc1a2,20.717508,2.57331e-05
+,mf_wt,,,,,,,,,,84,mmu-miR-182-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,12.590953,2.37534e-21
+,mf_wt,,,,,,,,,,83,mmu-miR-182-5p,Ttc26,tetratricopeptide repeat domain 26,ENSMUSG00000056832.14,Ttc26,11.019899,7.1492e-08
+,mf_wt,,,,,,,,,,87,mmu-miR-182-5p,Slc23a2,"solute carrier family 23 (nucleobase transporters), member 2",ENSMUSG00000027340.15,Slc23a2,10.744783,7.38359e-28
+,mf_wt,,,,,,,,,,95,mmu-miR-182-5p,Slco3a1,"solute carrier organic anion transporter family, member 3a1",ENSMUSG00000025790.14,Slco3a1,8.877481,1.28384e-07
+,mf_wt,,,,,,,,,,82,mmu-miR-182-5p,Zdhhc2,"zinc finger, DHHC domain containing 2",ENSMUSG00000039470.15,Zdhhc2,7.788277,0.000906177
+,mf_wt,,,,,,,,,,80,mmu-miR-182-5p,Ankib1,ankyrin repeat and IBR domain containing 1,ENSMUSG00000040351.11,Ankib1,6.148296,2.65423e-63
+mf_wt,mf_wt,Tns3,Tns3,ENSMUST00000020695.7,tensin 3 ,mmu-miR-182-5p,-0.4,ENSMUSG00000020422.14,5.8486843,5.51533e-36,94,mmu-miR-182-5p,Tns3,tensin 3,ENSMUSG00000020422.14,Tns3,5.8486843,5.51533e-36
+,mf_wt,,,,,,,,,,90,mmu-miR-182-5p,Egr3,early growth response 3,ENSMUSG00000033730.4,Egr3,5.8115964,5.79916e-09
+,mf_wt,,,,,,,,,,92,mmu-miR-182-5p,Ell2,elongation factor RNA polymerase II 2,ENSMUSG00000001542.7,Ell2,5.1440473,3.03729e-07
+mf_wt,mf_wt,Nckap1,Nckap1,ENSMUST00000028386.6,NCK-associated protein 1 ,mmu-miR-182-5p,-0.4,ENSMUSG00000027002.13,5.1303387,1.19765e-06,88,mmu-miR-182-5p,Nckap1,NCK-associated protein 1,ENSMUSG00000027002.13,Nckap1,5.1303387,1.19765e-06
+wt_d1338,mf_wt,Nckap1,Nckap1,ENSMUST00000028386.6,NCK-associated protein 1 ,mmu-miR-182-5p,-0.4,ENSMUSG00000027002.13,-1.7212731,1.30085e-32,88,mmu-miR-182-5p,Nckap1,NCK-associated protein 1,ENSMUSG00000027002.13,Nckap1,5.1303387,1.19765e-06
+,mf_wt,,,,,,,,,,83,mmu-miR-182-5p,Tnfrsf1b,"tumor necrosis factor receptor superfamily, member 1b",ENSMUSG00000028599.10,Tnfrsf1b,4.9060173,2.74129e-08
+,mf_wt,,,,,,,,,,89,mmu-miR-182-5p,Dock9,dedicator of cytokinesis 9,ENSMUSG00000025558.19,Dock9,4.817938,2.01179e-05
+,mf_wt,,,,,,,,,,89,mmu-miR-182-5p,Dmxl1,Dmx-like 1,ENSMUSG00000037416.13,Dmxl1,4.8044386,6.41729e-28
+mf_wt,mf_wt,Ncoa4,Ncoa4,ENSMUST00000163336.2,nuclear receptor coactivator 4 ,mmu-miR-182-5p,-0.49,ENSMUSG00000056234.15,4.727122,7.8541e-09,87,mmu-miR-182-5p,Ncoa4,nuclear receptor coactivator 4,ENSMUSG00000056234.15,Ncoa4,4.727122,7.8541e-09
+,mf_wt,,,,,,,,,,98,mmu-miR-182-5p,Nid1,nidogen 1,ENSMUSG00000005397.8,Nid1,4.714924,0.003034243
+,mf_wt,,,,,,,,,,82,mmu-miR-182-5p,B3gnt2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",ENSMUSG00000051650.11,B3gnt2,4.2962914,8.02907e-05
+,mf_wt,,,,,,,,,,88,mmu-miR-182-5p,Prdm1,"PR domain containing 1, with ZNF domain",ENSMUSG00000038151.13,Prdm1,4.0157986,3.8719e-14
+,mf_wt,,,,,,,,,,87,mmu-miR-182-5p,Olfm1,olfactomedin 1,ENSMUSG00000026833.18,Olfm1,0.23570313,3.97837e-19
+,mf_wt,,,,,,,,,,85,mmu-miR-182-5p,Camkk2,"calcium/calmodulin-dependent protein kinase kinase 2, beta",ENSMUSG00000029471.13,Camkk2,0.23560254,2.98758e-18
+,mf_wt,,,,,,,,,,89,mmu-miR-182-5p,Cdo1,"cysteine dioxygenase 1, cytosolic",ENSMUSG00000033022.8,Cdo1,0.22118536,0.029262641
+,mf_wt,,,,,,,,,,80,mmu-miR-182-5p,Igf1,insulin-like growth factor 1,ENSMUSG00000020053.18,Igf1,0.16475868,0.000713337
+,mf_wt,,,,,,,,,,84,mmu-miR-182-5p,Cfh,complement component factor h,ENSMUSG00000026365.15,Cfh,0.16072792,9.44518e-05
+,mf_wt,,,,,,,,,,91,mmu-miR-182-5p,Fam43a,"family with sequence similarity 43, member A",ENSMUSG00000046546.3,Fam43a,0.1544825,6.43842e-08
+,mf_wt,,,,,,,,,,84,mmu-miR-182-5p,Ntn4,netrin 4,ENSMUSG00000020019.4,Ntn4,0.1531355,0.023459446
+,mf_wt,,,,,,,,,,95,mmu-miR-182-5p,Kif19a,kinesin family member 19A,ENSMUSG00000010021.13,Kif19a,0.14441921,1.11481e-09
+,mf_wt,,,,,,,,,,82,mmu-miR-182-5p,Wnt4,"wingless-type MMTV integration site family, member 4",ENSMUSG00000036856.4,Wnt4,0.088300094,1.12192e-16
+,mf_wt,,,,,,,,,,89,mmu-miR-182-5p,Rnf144b,ring finger protein 144B,ENSMUSG00000038068.15,Rnf144b,0.052930657,1.28065e-15
+,mf_wt,,,,,,,,,,88,mmu-miR-182-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,0.05254826,2.0345e-08
+mf_wt,mf_wt,Fgf9,Fgf9,ENSMUST00000165526.2,fibroblast growth factor 9 ,mmu-miR-182-5p,-0.53,ENSMUSG00000021974.15,0.04518188,0.011669404,80,mmu-miR-182-5p,Fgf9,fibroblast growth factor 9,ENSMUSG00000021974.15,Fgf9,0.04518188,0.011669404
+mf_wt,mf_wt,Tagln3,Tagln3,ENSMUST00000096057.4,transgelin 3 ,mmu-miR-182-5p,-0.63,ENSMUSG00000022658.10,0.03636322,0.000416207,97,mmu-miR-182-5p,Tagln3,transgelin 3,ENSMUSG00000022658.10,Tagln3,0.03636322,0.000416207
+mf_wt,,Tspan4,Tspan4,ENSMUST00000026585.8,tetraspanin 4 ,mmu-miR-182-5p,-0.45,ENSMUSG00000025511.15,0.16114785,7.19049e-26,,,,,,,,
+mf_wt,,Pdk4,Pdk4,ENSMUST00000019721.4,"pyruvate dehydrogenase kinase, isoenzyme 4 ",mmu-miR-182-5p,-0.4,ENSMUSG00000019577.6,0.22547168,0.002841645,,,,,,,,
+mf_wt,,Olfr976,Olfr976,ENSMUST00000169307.2,olfactory receptor 976 ,mmu-miR-182-5p,-0.51,ENSMUSG00000047352.6,0.24566787,0.016284372,,,,,,,,
+wt_d1338,,Cacna2d1,Cacna2d1,ENSMUST00000078272.7,"calcium channel, voltage-dependent, alpha2/delta subunit 1 ",mmu-miR-182-5p,-0.72,ENSMUSG00000040118.15,2.8829346,1.77106e-09,,,,,,,,

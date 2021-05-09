@@ -1,0 +1,490 @@
+TargetScore,miRNA,GeneSymbol,GeneDescription
+97,mmu-miR-300-3p,Senp6,SUMO/sentrin specific peptidase 6
+97,mmu-miR-300-3p,Il13ra1,"interleukin 13 receptor, alpha 1"
+97,mmu-miR-300-3p,Hook3,hook microtubule tethering protein 3
+96,mmu-miR-300-3p,Tshz3,teashirt zinc finger family member 3
+96,mmu-miR-300-3p,Card11,"caspase recruitment domain family, member 11"
+95,mmu-miR-300-3p,9330159F19Rik,RIKEN cDNA 9330159F19 gene
+95,mmu-miR-300-3p,Cebpzos,"CCAAT/enhancer binding protein (C/EBP), zeta, opposite strand"
+95,mmu-miR-300-3p,Scrg1,scrapie responsive gene 1
+95,mmu-miR-300-3p,Cpeb2,cytoplasmic polyadenylation element binding protein 2
+95,mmu-miR-300-3p,Rab18,"RAB18, member RAS oncogene family"
+94,mmu-miR-300-3p,Vps35,VPS35 retromer complex component
+94,mmu-miR-300-3p,Syt11,synaptotagmin XI
+94,mmu-miR-300-3p,Ptgs2,prostaglandin-endoperoxide synthase 2
+93,mmu-miR-300-3p,Kpna4,karyopherin (importin) alpha 4
+93,mmu-miR-300-3p,Sbno1,strawberry notch 1
+93,mmu-miR-300-3p,Gnpnat1,glucosamine-phosphate N-acetyltransferase 1
+93,mmu-miR-300-3p,Mfsd14a,major facilitator superfamily domain containing 14A
+93,mmu-miR-300-3p,Nck2,non-catalytic region of tyrosine kinase adaptor protein 2
+93,mmu-miR-300-3p,Smap1,small ArfGAP 1
+92,mmu-miR-300-3p,Cmtr2,cap methyltransferase 2
+92,mmu-miR-300-3p,Slc4a4,"solute carrier family 4 (anion exchanger), member 4"
+92,mmu-miR-300-3p,Bmi1,Bmi1 polycomb ring finger oncogene
+92,mmu-miR-300-3p,Smarca1,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1"
+92,mmu-miR-300-3p,Slc30a5,"solute carrier family 30 (zinc transporter), member 5"
+91,mmu-miR-300-3p,Arl8b,ADP-ribosylation factor-like 8B
+91,mmu-miR-300-3p,Dcun1d1,"DCN1, defective in cullin neddylation 1, domain containing 1 (S. cerevisiae)"
+91,mmu-miR-300-3p,Lair1,leukocyte-associated Ig-like receptor 1
+91,mmu-miR-300-3p,Zfand6,"zinc finger, AN1-type domain 6"
+91,mmu-miR-300-3p,Thbs1,thrombospondin 1
+90,mmu-miR-300-3p,Csmd3,CUB and Sushi multiple domains 3
+90,mmu-miR-300-3p,S100b,"S100 protein, beta polypeptide, neural"
+90,mmu-miR-300-3p,Igsf11,"immunoglobulin superfamily, member 11"
+90,mmu-miR-300-3p,Trpm3,"transient receptor potential cation channel, subfamily M, member 3"
+90,mmu-miR-300-3p,Kcnma1,"potassium large conductance calcium-activated channel, subfamily M, alpha member 1"
+90,mmu-miR-300-3p,Zc3h6,zinc finger CCCH type containing 6
+89,mmu-miR-300-3p,Repin1,replication initiator 1
+89,mmu-miR-300-3p,Tmem243,"transmembrane protein 243, mitochondrial"
+89,mmu-miR-300-3p,Fbxo32,F-box protein 32
+89,mmu-miR-300-3p,Znrf2,zinc and ring finger 2
+89,mmu-miR-300-3p,Hs2st1,heparan sulfate 2-O-sulfotransferase 1
+89,mmu-miR-300-3p,Itgb2,integrin beta 2
+89,mmu-miR-300-3p,Dek,DEK oncogene (DNA binding)
+89,mmu-miR-300-3p,Gnpda2,glucosamine-6-phosphate deaminase 2
+88,mmu-miR-300-3p,Stc1,stanniocalcin 1
+88,mmu-miR-300-3p,Nxt2,nuclear transport factor 2-like export factor 2
+88,mmu-miR-300-3p,Ivns1abp,influenza virus NS1A binding protein
+88,mmu-miR-300-3p,Wac,WW domain containing adaptor with coiled-coil
+88,mmu-miR-300-3p,Sema6a,"sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A"
+88,mmu-miR-300-3p,Klhl20,kelch-like 20
+88,mmu-miR-300-3p,8030423J24Rik,RIKEN cDNA 8030423J24 gene
+88,mmu-miR-300-3p,Slc35d1,"solute carrier family 35 (UDP-glucuronic acid/UDP-N-acetylgalactosamine dual transporter), member D1"
+87,mmu-miR-300-3p,Mapk8,mitogen-activated protein kinase 8
+87,mmu-miR-300-3p,Clec4b2,"C-type lectin domain family 4, member b2"
+87,mmu-miR-300-3p,Gmnc,geminin coiled-coil domain containing
+87,mmu-miR-300-3p,Slc24a2,"solute carrier family 24 (sodium/potassium/calcium exchanger), member 2"
+87,mmu-miR-300-3p,Kera,keratocan
+87,mmu-miR-300-3p,Tbl2,transducin (beta)-like 2
+87,mmu-miR-300-3p,Frmd4b,FERM domain containing 4B
+86,mmu-miR-300-3p,Gpcpd1,glycerophosphocholine phosphodiesterase 1
+86,mmu-miR-300-3p,Klf4,Kruppel-like factor 4 (gut)
+86,mmu-miR-300-3p,Dmd,"dystrophin, muscular dystrophy"
+86,mmu-miR-300-3p,Phf6,PHD finger protein 6
+86,mmu-miR-300-3p,Dach1,dachshund family transcription factor 1
+86,mmu-miR-300-3p,Rarb,"retinoic acid receptor, beta"
+86,mmu-miR-300-3p,Pcdh7,protocadherin 7
+86,mmu-miR-300-3p,Gabpa,"GA repeat binding protein, alpha"
+85,mmu-miR-300-3p,Zc3h12c,zinc finger CCCH type containing 12C
+85,mmu-miR-300-3p,Tspan7,tetraspanin 7
+85,mmu-miR-300-3p,Tldc1,TBC/LysM associated domain containing 1
+85,mmu-miR-300-3p,Nfyb,nuclear transcription factor-Y beta
+85,mmu-miR-300-3p,Majin,membrane anchored junction protein
+85,mmu-miR-300-3p,Ccl11,chemokine (C-C motif) ligand 11
+85,mmu-miR-300-3p,Tdo2,"tryptophan 2,3-dioxygenase"
+85,mmu-miR-300-3p,Tent4b,terminal nucleotidyltransferase 4B
+84,mmu-miR-300-3p,Zfp46,zinc finger protein 46
+84,mmu-miR-300-3p,Eps8,epidermal growth factor receptor pathway substrate 8
+84,mmu-miR-300-3p,Zbtb39,zinc finger and BTB domain containing 39
+84,mmu-miR-300-3p,Ptprm,"protein tyrosine phosphatase, receptor type, M"
+84,mmu-miR-300-3p,Ran,"RAN, member RAS oncogene family"
+84,mmu-miR-300-3p,Hgf,hepatocyte growth factor
+83,mmu-miR-300-3p,Sec24a,"Sec24 related gene family, member A (S. cerevisiae)"
+83,mmu-miR-300-3p,Otoa,otoancorin
+83,mmu-miR-300-3p,Hsd17b4,hydroxysteroid (17-beta) dehydrogenase 4
+83,mmu-miR-300-3p,Poldip2,"polymerase (DNA-directed), delta interacting protein 2"
+83,mmu-miR-300-3p,Tceanc,transcription elongation factor A (SII) N-terminal and central domain containing
+83,mmu-miR-300-3p,Acsl4,acyl-CoA synthetase long-chain family member 4
+83,mmu-miR-300-3p,Pcdhb18,protocadherin beta 18
+83,mmu-miR-300-3p,Mat2a,"methionine adenosyltransferase II, alpha"
+82,mmu-miR-300-3p,Orc3,"origin recognition complex, subunit 3"
+82,mmu-miR-300-3p,Dcun1d3,"DCN1, defective in cullin neddylation 1, domain containing 3 (S. cerevisiae)"
+82,mmu-miR-300-3p,Rfx7,"regulatory factor X, 7"
+82,mmu-miR-300-3p,Kcnj13,"potassium inwardly-rectifying channel, subfamily J, member 13"
+81,mmu-miR-300-3p,Cdk14,cyclin-dependent kinase 14
+81,mmu-miR-300-3p,Synpo2,synaptopodin 2
+81,mmu-miR-300-3p,Rtp1,receptor transporter protein 1
+80,mmu-miR-300-3p,Zfp160,zinc finger protein 160
+80,mmu-miR-300-3p,Krcc1,lysine-rich coiled-coil 1
+80,mmu-miR-300-3p,Adam28,a disintegrin and metallopeptidase domain 28
+80,mmu-miR-300-3p,Armt1,acidic residue methyltransferase 1
+80,mmu-miR-300-3p,Relch,"RAB11 binding and LisH domain, coiled-coil and HEAT repeat containing"
+80,mmu-miR-300-3p,Polr2d,polymerase (RNA) II (DNA directed) polypeptide D
+80,mmu-miR-300-3p,Megf10,multiple EGF-like-domains 10
+80,mmu-miR-300-3p,Coq2,coenzyme Q2 4-hydroxybenzoate polyprenyltransferase
+80,mmu-miR-300-3p,Gcsam,"germinal center associated, signaling and motility"
+80,mmu-miR-300-3p,Jcad,junctional cadherin 5 associated
+80,mmu-miR-300-3p,Ctps,cytidine 5'-triphosphate synthase
+79,mmu-miR-300-3p,Zbtb8a,zinc finger and BTB domain containing 8a
+79,mmu-miR-300-3p,Slc17a8,"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 8"
+79,mmu-miR-300-3p,Ppp2r2d,"protein phosphatase 2, regulatory subunit B, delta"
+79,mmu-miR-300-3p,Khdrbs1,"KH domain containing, RNA binding, signal transduction associated 1"
+79,mmu-miR-300-3p,Prkci,"protein kinase C, iota"
+79,mmu-miR-300-3p,Slc24a1,"solute carrier family 24 (sodium/potassium/calcium exchanger), member 1"
+79,mmu-miR-300-3p,Cxcl13,chemokine (C-X-C motif) ligand 13
+79,mmu-miR-300-3p,Pbx1,pre B cell leukemia homeobox 1
+78,mmu-miR-300-3p,Fam136a,"family with sequence similarity 136, member A"
+78,mmu-miR-300-3p,Wdr6,WD repeat domain 6
+78,mmu-miR-300-3p,Hnrnph3,heterogeneous nuclear ribonucleoprotein H3
+78,mmu-miR-300-3p,Srsf2,serine/arginine-rich splicing factor 2
+77,mmu-miR-300-3p,Ppp1r2,"protein phosphatase 1, regulatory inhibitor subunit 2"
+77,mmu-miR-300-3p,Kcnc2,"potassium voltage gated channel, Shaw-related subfamily, member 2"
+77,mmu-miR-300-3p,Psg29,pregnancy-specific glycoprotein 29
+77,mmu-miR-300-3p,Mgea5,meningioma expressed antigen 5 (hyaluronidase)
+77,mmu-miR-300-3p,Sult4a1,"sulfotransferase family 4A, member 1"
+77,mmu-miR-300-3p,Srpk2,serine/arginine-rich protein specific kinase 2
+77,mmu-miR-300-3p,Gprc5b,"G protein-coupled receptor, family C, group 5, member B"
+77,mmu-miR-300-3p,Hipk1,homeodomain interacting protein kinase 1
+77,mmu-miR-300-3p,Pfdn4,prefoldin 4
+76,mmu-miR-300-3p,Unc13c,unc-13 homolog C
+76,mmu-miR-300-3p,Sumo2,small ubiquitin-like modifier 2
+76,mmu-miR-300-3p,Igf2bp2,insulin-like growth factor 2 mRNA binding protein 2
+76,mmu-miR-300-3p,Tcerg1,transcription elongation regulator 1 (CA150)
+76,mmu-miR-300-3p,Rab6b,"RAB6B, member RAS oncogene family"
+76,mmu-miR-300-3p,Skint7,selection and upkeep of intraepithelial T cells 7
+76,mmu-miR-300-3p,Znfx1,"zinc finger, NFX1-type containing 1"
+76,mmu-miR-300-3p,Fmr1,fragile X mental retardation 1
+76,mmu-miR-300-3p,Cx3cl1,chemokine (C-X3-C motif) ligand 1
+76,mmu-miR-300-3p,Slco1a6,"solute carrier organic anion transporter family, member 1a6"
+75,mmu-miR-300-3p,Dcaf17,DDB1 and CUL4 associated factor 17
+75,mmu-miR-300-3p,Pak3,p21 (RAC1) activated kinase 3
+75,mmu-miR-300-3p,Hipk3,homeodomain interacting protein kinase 3
+75,mmu-miR-300-3p,Smad5,SMAD family member 5
+75,mmu-miR-300-3p,Gla,"galactosidase, alpha"
+75,mmu-miR-300-3p,Mtf1,metal response element binding transcription factor 1
+74,mmu-miR-300-3p,Adgrg2,adhesion G protein-coupled receptor G2
+74,mmu-miR-300-3p,Mknk1,MAP kinase-interacting serine/threonine kinase 1
+74,mmu-miR-300-3p,Cacnb4,"calcium channel, voltage-dependent, beta 4 subunit"
+74,mmu-miR-300-3p,Mgat2,mannoside acetylglucosaminyltransferase 2
+74,mmu-miR-300-3p,Ankrd1,ankyrin repeat domain 1 (cardiac muscle)
+74,mmu-miR-300-3p,Wwp1,WW domain containing E3 ubiquitin protein ligase 1
+74,mmu-miR-300-3p,Pdcd6ip,programmed cell death 6 interacting protein
+74,mmu-miR-300-3p,Ccpg1,cell cycle progression 1
+74,mmu-miR-300-3p,Col4a3bp,"collagen, type IV, alpha 3 (Goodpasture antigen) binding protein"
+74,mmu-miR-300-3p,Tardbp,TAR DNA binding protein
+74,mmu-miR-300-3p,Supt7l,suppressor of Ty 7-like
+73,mmu-miR-300-3p,Get4,golgi to ER traffic protein 4
+73,mmu-miR-300-3p,Eea1,early endosome antigen 1
+73,mmu-miR-300-3p,Adamts20,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 20"
+73,mmu-miR-300-3p,Mctp1,"multiple C2 domains, transmembrane 1"
+73,mmu-miR-300-3p,Copb2,"coatomer protein complex, subunit beta 2 (beta prime)"
+73,mmu-miR-300-3p,Zbtb11,zinc finger and BTB domain containing 11
+73,mmu-miR-300-3p,Sh3kbp1,SH3-domain kinase binding protein 1
+73,mmu-miR-300-3p,Spock1,"sparc/osteonectin, cwcv and kazal-like domains proteoglycan 1"
+73,mmu-miR-300-3p,Trps1,transcriptional repressor GATA binding 1
+73,mmu-miR-300-3p,Hoxc5,homeobox C5
+73,mmu-miR-300-3p,Ctnna3,"catenin (cadherin associated protein), alpha 3"
+73,mmu-miR-300-3p,Pdzd8,PDZ domain containing 8
+73,mmu-miR-300-3p,Ifi214,interferon activated gene 214
+73,mmu-miR-300-3p,Sh2d2a,SH2 domain containing 2A
+72,mmu-miR-300-3p,Ccdc83,coiled-coil domain containing 83
+72,mmu-miR-300-3p,Serinc1,serine incorporator 1
+72,mmu-miR-300-3p,Atxn7l3,ataxin 7-like 3
+72,mmu-miR-300-3p,Fsbp,fibrinogen silencer binding protein
+72,mmu-miR-300-3p,Sesn1,sestrin 1
+72,mmu-miR-300-3p,Plcb1,"phospholipase C, beta 1"
+72,mmu-miR-300-3p,Scai,suppressor of cancer cell invasion
+72,mmu-miR-300-3p,Cers6,ceramide synthase 6
+72,mmu-miR-300-3p,Trim46,tripartite motif-containing 46
+72,mmu-miR-300-3p,Tmem263,transmembrane protein 263
+72,mmu-miR-300-3p,Hk1,hexokinase 1
+71,mmu-miR-300-3p,Rsbn1l,round spermatid basic protein 1-like
+71,mmu-miR-300-3p,Uroc1,urocanase domain containing 1
+71,mmu-miR-300-3p,1190002N15Rik,RIKEN cDNA 1190002N15 gene
+71,mmu-miR-300-3p,Fnip1,folliculin interacting protein 1
+71,mmu-miR-300-3p,Hlcs,holocarboxylase synthetase (biotin- [propriony-Coenzyme A-carboxylase (ATP-hydrolysing)] ligase)
+71,mmu-miR-300-3p,Tmem245,transmembrane protein 245
+71,mmu-miR-300-3p,Rp2,retinitis pigmentosa 2 homolog
+71,mmu-miR-300-3p,Bcat1,"branched chain aminotransferase 1, cytosolic"
+70,mmu-miR-300-3p,Skp1a,S-phase kinase-associated protein 1A
+70,mmu-miR-300-3p,Maob,monoamine oxidase B
+70,mmu-miR-300-3p,Flrt2,fibronectin leucine rich transmembrane protein 2
+70,mmu-miR-300-3p,Stag2,stromal antigen 2
+70,mmu-miR-300-3p,Rc3h2,ring finger and CCCH-type zinc finger domains 2
+70,mmu-miR-300-3p,Nelfb,negative elongation factor complex member B
+70,mmu-miR-300-3p,Ddx11,DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11
+70,mmu-miR-300-3p,Brca1,"breast cancer 1, early onset"
+70,mmu-miR-300-3p,Amd2,S-adenosylmethionine decarboxylase 2
+70,mmu-miR-300-3p,Cacybp,calcyclin binding protein
+70,mmu-miR-300-3p,Zfp608,zinc finger protein 608
+69,mmu-miR-300-3p,Cyp26b1,"cytochrome P450, family 26, subfamily b, polypeptide 1"
+69,mmu-miR-300-3p,Paip2,polyadenylate-binding protein-interacting protein 2
+69,mmu-miR-300-3p,Rad54b,RAD54 homolog B (S. cerevisiae)
+69,mmu-miR-300-3p,Rcn2,reticulocalbin 2
+69,mmu-miR-300-3p,Lipm,"lipase, family member M"
+69,mmu-miR-300-3p,Ankrd44,ankyrin repeat domain 44
+68,mmu-miR-300-3p,Dip2c,disco interacting protein 2 homolog C
+68,mmu-miR-300-3p,Cdk13,cyclin-dependent kinase 13
+68,mmu-miR-300-3p,Dmrtc1c2,DMRT-like family C1c2
+68,mmu-miR-300-3p,Ralgapb,"Ral GTPase activating protein, beta subunit (non-catalytic)"
+68,mmu-miR-300-3p,Chst3,carbohydrate sulfotransferase 3
+68,mmu-miR-300-3p,Nova1,neuro-oncological ventral antigen 1
+68,mmu-miR-300-3p,Dmrtc1c1,DMRT-like family C1c1
+68,mmu-miR-300-3p,BB287469,expressed sequence BB287469
+68,mmu-miR-300-3p,Kcnmb2,"potassium large conductance calcium-activated channel, subfamily M, beta member 2"
+68,mmu-miR-300-3p,Cd86,CD86 antigen
+68,mmu-miR-300-3p,Gm8300,predicted gene 8300
+68,mmu-miR-300-3p,Pcbp2,poly(rC) binding protein 2
+68,mmu-miR-300-3p,Cxcl12,chemokine (C-X-C motif) ligand 12
+68,mmu-miR-300-3p,P2ry13,"purinergic receptor P2Y, G-protein coupled 13"
+68,mmu-miR-300-3p,Rgs7,regulator of G protein signaling 7
+68,mmu-miR-300-3p,Gm2022,predicted pseudogene 2022
+67,mmu-miR-300-3p,Cabp5,calcium binding protein 5
+67,mmu-miR-300-3p,Zfp236,zinc finger protein 236
+67,mmu-miR-300-3p,B230219D22Rik,RIKEN cDNA B230219D22 gene
+67,mmu-miR-300-3p,Cacna2d1,"calcium channel, voltage-dependent, alpha2/delta subunit 1"
+67,mmu-miR-300-3p,Magi2,"membrane associated guanylate kinase, WW and PDZ domain containing 2"
+67,mmu-miR-300-3p,Olfr212,olfactory receptor 212
+67,mmu-miR-300-3p,Sox11,SRY (sex determining region Y)-box 11
+67,mmu-miR-300-3p,Adcy1,adenylate cyclase 1
+67,mmu-miR-300-3p,Osbpl6,oxysterol binding protein-like 6
+67,mmu-miR-300-3p,Ints6l,integrator complex subunit 6 like
+67,mmu-miR-300-3p,Lingo2,leucine rich repeat and Ig domain containing 2
+67,mmu-miR-300-3p,Nedd4l,"neural precursor cell expressed, developmentally down-regulated gene 4-like"
+67,mmu-miR-300-3p,Mdm4,transformed mouse 3T3 cell double minute 4
+67,mmu-miR-300-3p,Sec14l1,SEC14-like lipid binding 1
+66,mmu-miR-300-3p,Ube2h,ubiquitin-conjugating enzyme E2H
+66,mmu-miR-300-3p,Ankrd66,ankyrin repeat domain 66
+66,mmu-miR-300-3p,Txlna,taxilin alpha
+66,mmu-miR-300-3p,Disp2,dispatched RND tramsporter family member 2
+66,mmu-miR-300-3p,Trpc1,"transient receptor potential cation channel, subfamily C, member 1"
+66,mmu-miR-300-3p,Zfp287,zinc finger protein 287
+66,mmu-miR-300-3p,Tex11,testis expressed gene 11
+66,mmu-miR-300-3p,Alkal1,ALK and LTK ligand 1
+66,mmu-miR-300-3p,H3f3b,"H3 histone, family 3B"
+66,mmu-miR-300-3p,Sh3rf1,SH3 domain containing ring finger 1
+65,mmu-miR-300-3p,Eloc,elongin C
+65,mmu-miR-300-3p,Gm16130,predicted gene 16130
+65,mmu-miR-300-3p,Tmod2,tropomodulin 2
+65,mmu-miR-300-3p,Kcnk6,"potassium inwardly-rectifying channel, subfamily K, member 6"
+65,mmu-miR-300-3p,Rab3c,"RAB3C, member RAS oncogene family"
+65,mmu-miR-300-3p,Senp2,SUMO/sentrin specific peptidase 2
+65,mmu-miR-300-3p,Zbtb37,zinc finger and BTB domain containing 37
+65,mmu-miR-300-3p,Commd7,COMM domain containing 7
+65,mmu-miR-300-3p,Trio,triple functional domain (PTPRF interacting)
+65,mmu-miR-300-3p,Mbnl3,muscleblind like splicing factor 3
+65,mmu-miR-300-3p,Nmd3,NMD3 ribosome export adaptor
+65,mmu-miR-300-3p,BC005624,cDNA sequence BC005624
+64,mmu-miR-300-3p,Krtap11-1,keratin associated protein 11-1
+64,mmu-miR-300-3p,Desi2,desumoylating isopeptidase 2
+64,mmu-miR-300-3p,Sytl5,synaptotagmin-like 5
+64,mmu-miR-300-3p,Pcnp,PEST proteolytic signal containing nuclear protein
+64,mmu-miR-300-3p,Rhoq,ras homolog family member Q
+64,mmu-miR-300-3p,Taldo1,transaldolase 1
+64,mmu-miR-300-3p,Atp6v0a2,"ATPase, H+ transporting, lysosomal V0 subunit A2"
+64,mmu-miR-300-3p,B3gnt2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2"
+64,mmu-miR-300-3p,Peli2,pellino 2
+64,mmu-miR-300-3p,Tmem184a,transmembrane protein 184a
+64,mmu-miR-300-3p,Hspa4l,heat shock protein 4 like
+64,mmu-miR-300-3p,Ift74,intraflagellar transport 74
+64,mmu-miR-300-3p,Dpm1,dolichol-phosphate (beta-D) mannosyltransferase 1
+64,mmu-miR-300-3p,Sdhaf1,succinate dehydrogenase complex assembly factor 1
+64,mmu-miR-300-3p,Ppp2r5c,"protein phosphatase 2, regulatory subunit B', gamma"
+64,mmu-miR-300-3p,Chp1,calcineurin-like EF hand protein 1
+64,mmu-miR-300-3p,Hectd3,HECT domain E3 ubiquitin protein ligase 3
+63,mmu-miR-300-3p,Ypel5,yippee like 5
+63,mmu-miR-300-3p,Wdfy3,WD repeat and FYVE domain containing 3
+63,mmu-miR-300-3p,Dcdc2a,doublecortin domain containing 2a
+63,mmu-miR-300-3p,Adamts5,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 5 (aggrecanase-2)"
+63,mmu-miR-300-3p,Dyrk1a,dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1a
+63,mmu-miR-300-3p,Lemd1,LEM domain containing 1
+63,mmu-miR-300-3p,Bicd2,BICD cargo adaptor 2
+63,mmu-miR-300-3p,Slc1a2,"solute carrier family 1 (glial high affinity glutamate transporter), member 2"
+63,mmu-miR-300-3p,Fndc3a,fibronectin type III domain containing 3A
+63,mmu-miR-300-3p,Pclo,piccolo (presynaptic cytomatrix protein)
+63,mmu-miR-300-3p,Klhl17,kelch-like 17
+63,mmu-miR-300-3p,Cdkn1b,cyclin-dependent kinase inhibitor 1B
+63,mmu-miR-300-3p,Nrcam,neuronal cell adhesion molecule
+63,mmu-miR-300-3p,Col8a2,"collagen, type VIII, alpha 2"
+63,mmu-miR-300-3p,Sash1,SAM and SH3 domain containing 1
+62,mmu-miR-300-3p,Usp14,ubiquitin specific peptidase 14
+62,mmu-miR-300-3p,Ube2r2,ubiquitin-conjugating enzyme E2R 2
+62,mmu-miR-300-3p,Nufip2,nuclear fragile X mental retardation protein interacting protein 2
+62,mmu-miR-300-3p,Zdhhc6,"zinc finger, DHHC domain containing 6"
+62,mmu-miR-300-3p,Mamdc2,MAM domain containing 2
+62,mmu-miR-300-3p,Zfp275,zinc finger protein 275
+62,mmu-miR-300-3p,1700025G04Rik,RIKEN cDNA 1700025G04 gene
+62,mmu-miR-300-3p,Trhr,thyrotropin releasing hormone receptor
+62,mmu-miR-300-3p,Hoxa4,homeobox A4
+61,mmu-miR-300-3p,Krtap8-1,keratin associated protein 8-1
+61,mmu-miR-300-3p,Cmtm3,CKLF-like MARVEL transmembrane domain containing 3
+61,mmu-miR-300-3p,Setd7,SET domain containing (lysine methyltransferase) 7
+61,mmu-miR-300-3p,Ldb2,LIM domain binding 2
+61,mmu-miR-300-3p,Prpf38b,PRP38 pre-mRNA processing factor 38 (yeast) domain containing B
+61,mmu-miR-300-3p,Actl6a,actin-like 6A
+61,mmu-miR-300-3p,Ufl1,UFM1 specific ligase 1
+61,mmu-miR-300-3p,Hacd3,3-hydroxyacyl-CoA dehydratase 3
+61,mmu-miR-300-3p,Kctd21,potassium channel tetramerisation domain containing 21
+61,mmu-miR-300-3p,Srfbp1,serum response factor binding protein 1
+61,mmu-miR-300-3p,Fbxw2,F-box and WD-40 domain protein 2
+61,mmu-miR-300-3p,Slc30a4,"solute carrier family 30 (zinc transporter), member 4"
+61,mmu-miR-300-3p,2210010C04Rik,RIKEN cDNA 2210010C04 gene
+61,mmu-miR-300-3p,Inpp4b,"inositol polyphosphate-4-phosphatase, type II"
+61,mmu-miR-300-3p,Rnf111,ring finger 111
+60,mmu-miR-300-3p,Il17a,interleukin 17A
+60,mmu-miR-300-3p,Cdc14b,CDC14 cell division cycle 14B
+60,mmu-miR-300-3p,Ube2d3,ubiquitin-conjugating enzyme E2D 3
+60,mmu-miR-300-3p,Efr3a,EFR3 homolog A
+60,mmu-miR-300-3p,Nr4a3,"nuclear receptor subfamily 4, group A, member 3"
+60,mmu-miR-300-3p,Trim23,tripartite motif-containing 23
+60,mmu-miR-300-3p,Cd53,CD53 antigen
+60,mmu-miR-300-3p,Kcnk1,"potassium channel, subfamily K, member 1"
+60,mmu-miR-300-3p,Ash1l,ASH1 like histone lysine methyltransferase
+60,mmu-miR-300-3p,Tfam,"transcription factor A, mitochondrial"
+60,mmu-miR-300-3p,Cdh11,cadherin 11
+60,mmu-miR-300-3p,Sh3pxd2a,SH3 and PX domains 2A
+60,mmu-miR-300-3p,Nts,neurotensin
+60,mmu-miR-300-3p,Zfp532,zinc finger protein 532
+59,mmu-miR-300-3p,Aebp2,AE binding protein 2
+59,mmu-miR-300-3p,Slc30a6,"solute carrier family 30 (zinc transporter), member 6"
+59,mmu-miR-300-3p,Psma2,"proteasome (prosome, macropain) subunit, alpha type 2"
+59,mmu-miR-300-3p,Lars,leucyl-tRNA synthetase
+59,mmu-miR-300-3p,Cdk9,cyclin-dependent kinase 9 (CDC2-related kinase)
+59,mmu-miR-300-3p,Tyrp1,tyrosinase-related protein 1
+59,mmu-miR-300-3p,Htr3a,5-hydroxytryptamine (serotonin) receptor 3A
+59,mmu-miR-300-3p,Sytl4,synaptotagmin-like 4
+59,mmu-miR-300-3p,Sec22c,"SEC22 homolog C, vesicle trafficking protein"
+59,mmu-miR-300-3p,Rbl2,RB transcriptional corepressor like 2
+59,mmu-miR-300-3p,Jmy,junction-mediating and regulatory protein
+59,mmu-miR-300-3p,Zdhhc17,"zinc finger, DHHC domain containing 17"
+59,mmu-miR-300-3p,Gcc1,golgi coiled coil 1
+59,mmu-miR-300-3p,Uty,"ubiquitously transcribed tetratricopeptide repeat gene, Y chromosome"
+59,mmu-miR-300-3p,Spry2,sprouty RTK signaling antagonist 2
+58,mmu-miR-300-3p,Zfp91,zinc finger protein 91
+58,mmu-miR-300-3p,Kmt5a,lysine methyltransferase 5A
+58,mmu-miR-300-3p,Slc4a8,"solute carrier family 4 (anion exchanger), member 8"
+58,mmu-miR-300-3p,Polr3f,polymerase (RNA) III (DNA directed) polypeptide F
+58,mmu-miR-300-3p,Hgd,"homogentisate 1, 2-dioxygenase"
+58,mmu-miR-300-3p,Hdac9,histone deacetylase 9
+58,mmu-miR-300-3p,Sema7a,"sema domain, immunoglobulin domain (Ig), and GPI membrane anchor, (semaphorin) 7A"
+58,mmu-miR-300-3p,Gria3,"glutamate receptor, ionotropic, AMPA3 (alpha 3)"
+58,mmu-miR-300-3p,Heph,hephaestin
+58,mmu-miR-300-3p,Bcl2l15,BCLl2-like 15
+58,mmu-miR-300-3p,B3gntl1,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase-like 1"
+58,mmu-miR-300-3p,Tent2,terminal nucleotidyltransferase 2
+58,mmu-miR-300-3p,Clock,circadian locomotor output cycles kaput
+58,mmu-miR-300-3p,Mlip,muscular LMNA-interacting protein
+58,mmu-miR-300-3p,Klhl15,kelch-like 15
+58,mmu-miR-300-3p,Tom1l2,target of myb1-like 2 (chicken)
+58,mmu-miR-300-3p,Pbrm1,polybromo 1
+57,mmu-miR-300-3p,Kif1b,kinesin family member 1B
+57,mmu-miR-300-3p,Cpsf7,cleavage and polyadenylation specific factor 7
+57,mmu-miR-300-3p,Trim36,tripartite motif-containing 36
+57,mmu-miR-300-3p,Crebrf,CREB3 regulatory factor
+57,mmu-miR-300-3p,Rundc3b,RUN domain containing 3B
+57,mmu-miR-300-3p,Gstt1,"glutathione S-transferase, theta 1"
+57,mmu-miR-300-3p,Ifi209,interferon activated gene 209
+57,mmu-miR-300-3p,Rab2a,"RAB2A, member RAS oncogene family"
+57,mmu-miR-300-3p,Xkr4,X-linked Kx blood group related 4
+56,mmu-miR-300-3p,Zbtb44,zinc finger and BTB domain containing 44
+56,mmu-miR-300-3p,Fsd1l,fibronectin type III and SPRY domain containing 1-like
+56,mmu-miR-300-3p,Kdelr2,KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 2
+56,mmu-miR-300-3p,Tbc1d15,"TBC1 domain family, member 15"
+56,mmu-miR-300-3p,Zfp652,zinc finger protein 652
+56,mmu-miR-300-3p,Rnase10,"ribonuclease, RNase A family, 10 (non-active)"
+56,mmu-miR-300-3p,Dennd1b,DENN/MADD domain containing 1B
+56,mmu-miR-300-3p,Iqgap1,IQ motif containing GTPase activating protein 1
+56,mmu-miR-300-3p,Tsg101,tumor susceptibility gene 101
+56,mmu-miR-300-3p,Amd1,S-adenosylmethionine decarboxylase 1
+55,mmu-miR-300-3p,Myo19,myosin XIX
+55,mmu-miR-300-3p,Nrg3,neuregulin 3
+55,mmu-miR-300-3p,Ralgps2,Ral GEF with PH domain and SH3 binding motif 2
+55,mmu-miR-300-3p,Pyurf,Pigy upstream reading frame
+55,mmu-miR-300-3p,Cdk5r1,"cyclin-dependent kinase 5, regulatory subunit 1 (p35)"
+55,mmu-miR-300-3p,Slc15a4,"solute carrier family 15, member 4"
+55,mmu-miR-300-3p,Tnfaip2,"tumor necrosis factor, alpha-induced protein 2"
+55,mmu-miR-300-3p,Adcy9,adenylate cyclase 9
+55,mmu-miR-300-3p,Scyl3,SCY1-like 3 (S. cerevisiae)
+55,mmu-miR-300-3p,Usp12,ubiquitin specific peptidase 12
+54,mmu-miR-300-3p,Cldn8,claudin 8
+54,mmu-miR-300-3p,Rictor,"RPTOR independent companion of MTOR, complex 2"
+54,mmu-miR-300-3p,Wnk3,WNK lysine deficient protein kinase 3
+54,mmu-miR-300-3p,Slc7a11,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 11"
+54,mmu-miR-300-3p,Nap1l2,nucleosome assembly protein 1-like 2
+54,mmu-miR-300-3p,Ube2q2,ubiquitin-conjugating enzyme E2Q family member 2
+54,mmu-miR-300-3p,Rps6ka6,ribosomal protein S6 kinase polypeptide 6
+54,mmu-miR-300-3p,Cacna1c,"calcium channel, voltage-dependent, L type, alpha 1C subunit"
+54,mmu-miR-300-3p,Rpl22,ribosomal protein L22
+54,mmu-miR-300-3p,Trap1a,tumor rejection antigen P1A
+54,mmu-miR-300-3p,Dynap,dynactin associated protein
+54,mmu-miR-300-3p,Sirt3,sirtuin 3
+54,mmu-miR-300-3p,Garem1,GRB2 associated regulator of MAPK1 subtype 1
+54,mmu-miR-300-3p,Fmn2,formin 2
+54,mmu-miR-300-3p,Prr5l,proline rich 5 like
+54,mmu-miR-300-3p,Angpt1,angiopoietin 1
+54,mmu-miR-300-3p,Zmym5,"zinc finger, MYM-type 5"
+54,mmu-miR-300-3p,Sept11,septin 11
+54,mmu-miR-300-3p,Cd247,CD247 antigen
+53,mmu-miR-300-3p,A630076J17Rik,RIKEN cDNA A630076J17 gene
+53,mmu-miR-300-3p,Abhd15,abhydrolase domain containing 15
+53,mmu-miR-300-3p,Adgre4,adhesion G protein-coupled receptor E4
+53,mmu-miR-300-3p,Zfp120,zinc finger protein 120
+53,mmu-miR-300-3p,Rspo2,R-spondin 2
+53,mmu-miR-300-3p,Vmn2r28,"vomeronasal 2, receptor 28"
+53,mmu-miR-300-3p,Smc3,structural maintenance of chromosomes 3
+53,mmu-miR-300-3p,Osbp,oxysterol binding protein
+53,mmu-miR-300-3p,Sp4,trans-acting transcription factor 4
+53,mmu-miR-300-3p,Anxa4,annexin A4
+53,mmu-miR-300-3p,Rsf1,remodeling and spacing factor 1
+53,mmu-miR-300-3p,Kynu,kynureninase
+53,mmu-miR-300-3p,Decr2,"2-4-dienoyl-Coenzyme A reductase 2, peroxisomal"
+53,mmu-miR-300-3p,Cdkn2aipnl,CDKN2A interacting protein N-terminal like
+53,mmu-miR-300-3p,Lats2,large tumor suppressor 2
+53,mmu-miR-300-3p,Ppp1r14d,"protein phosphatase 1, regulatory inhibitor subunit 14D"
+53,mmu-miR-300-3p,Cpeb1,cytoplasmic polyadenylation element binding protein 1
+53,mmu-miR-300-3p,Polr3e,polymerase (RNA) III (DNA directed) polypeptide E
+53,mmu-miR-300-3p,Cd5l,CD5 antigen-like
+52,mmu-miR-300-3p,Nrxn1,neurexin I
+52,mmu-miR-300-3p,Ssbp2,single-stranded DNA binding protein 2
+52,mmu-miR-300-3p,Pcdha10,protocadherin alpha 10
+52,mmu-miR-300-3p,Kcnh3,"potassium voltage-gated channel, subfamily H (eag-related), member 3"
+52,mmu-miR-300-3p,Syt14,synaptotagmin XIV
+52,mmu-miR-300-3p,Rora,RAR-related orphan receptor alpha
+52,mmu-miR-300-3p,Pcdha11,protocadherin alpha 11
+52,mmu-miR-300-3p,Zfp703,zinc finger protein 703
+52,mmu-miR-300-3p,Kctd12,potassium channel tetramerisation domain containing 12
+52,mmu-miR-300-3p,Pcdha2,protocadherin alpha 2
+52,mmu-miR-300-3p,Pcdha6,protocadherin alpha 6
+52,mmu-miR-300-3p,ccdc198,coiled-coil domain containing 198
+52,mmu-miR-300-3p,Pcdha9,protocadherin alpha 9
+52,mmu-miR-300-3p,Ndfip2,Nedd4 family interacting protein 2
+52,mmu-miR-300-3p,Seh1l,SEH1-like (S. cerevisiae
+52,mmu-miR-300-3p,Luc7l3,LUC7-like 3 (S. cerevisiae)
+52,mmu-miR-300-3p,Pcdhac1,"protocadherin alpha subfamily C, 1"
+52,mmu-miR-300-3p,Pcdha7,protocadherin alpha 7
+52,mmu-miR-300-3p,Pcdh20,protocadherin 20
+52,mmu-miR-300-3p,Sel1l,sel-1 suppressor of lin-12-like (C. elegans)
+52,mmu-miR-300-3p,Tmsb4x,"thymosin, beta 4, X chromosome"
+52,mmu-miR-300-3p,Phlpp1,PH domain and leucine rich repeat protein phosphatase 1
+52,mmu-miR-300-3p,Pcdha3,protocadherin alpha 3
+52,mmu-miR-300-3p,Pcdha4,protocadherin alpha 4
+52,mmu-miR-300-3p,Pcdha1,protocadherin alpha 1
+52,mmu-miR-300-3p,Pcdha8,protocadherin alpha 8
+52,mmu-miR-300-3p,Klkb1,"kallikrein B, plasma 1"
+52,mmu-miR-300-3p,Pcdha12,protocadherin alpha 12
+52,mmu-miR-300-3p,Pcdha5,protocadherin alpha 5
+52,mmu-miR-300-3p,Prpf4b,pre-mRNA processing factor 4B
+52,mmu-miR-300-3p,Pcdhac2,"protocadherin alpha subfamily C, 2"
+51,mmu-miR-300-3p,Unc5d,unc-5 netrin receptor D
+51,mmu-miR-300-3p,Rnase9,"ribonuclease, RNase A family, 9 (non-active)"
+51,mmu-miR-300-3p,Vps26a,VPS26 retromer complex component A
+51,mmu-miR-300-3p,Sos1,SOS Ras/Rac guanine nucleotide exchange factor 1
+51,mmu-miR-300-3p,Rc3h1,RING CCCH (C3H) domains 1
+51,mmu-miR-300-3p,Rad23b,"RAD23 homolog B, nucleotide excision repair protein"
+51,mmu-miR-300-3p,Tmem167,transmembrane protein 167
+51,mmu-miR-300-3p,Zfp781,zinc finger protein 781
+51,mmu-miR-300-3p,Smyd3,SET and MYND domain containing 3
+51,mmu-miR-300-3p,Slitrk6,"SLIT and NTRK-like family, member 6"
+51,mmu-miR-300-3p,Calcb,"calcitonin-related polypeptide, beta"
+51,mmu-miR-300-3p,Kif14,kinesin family member 14
+51,mmu-miR-300-3p,Dynlt3,dynein light chain Tctex-type 3
+51,mmu-miR-300-3p,Nr5a2,"nuclear receptor subfamily 5, group A, member 2"
+51,mmu-miR-300-3p,Spty2d1,"SPT2, Suppressor of Ty, domain containing 1 (S. cerevisiae)"
+51,mmu-miR-300-3p,Tinf2,Terf1 (TRF1)-interacting nuclear factor 2
+51,mmu-miR-300-3p,Ttc14,tetratricopeptide repeat domain 14
+50,mmu-miR-300-3p,Notch2,notch 2
+50,mmu-miR-300-3p,Cbln3,cerebellin 3 precursor protein
+50,mmu-miR-300-3p,Psma3,"proteasome (prosome, macropain) subunit, alpha type 3"
+50,mmu-miR-300-3p,Olfr558,olfactory receptor 558
+50,mmu-miR-300-3p,Alox5,arachidonate 5-lipoxygenase
+50,mmu-miR-300-3p,Ube2ql1,ubiquitin-conjugating enzyme E2Q family-like 1
+50,mmu-miR-300-3p,Prkd3,protein kinase D3
+50,mmu-miR-300-3p,Plxdc2,plexin domain containing 2
+50,mmu-miR-300-3p,Lcp2,lymphocyte cytosolic protein 2
+50,mmu-miR-300-3p,Mmp28,matrix metallopeptidase 28 (epilysin)
+50,mmu-miR-300-3p,Clpx,caseinolytic mitochondrial matrix peptidase chaperone subunit
+50,mmu-miR-300-3p,Zfp438,zinc finger protein 438
+50,mmu-miR-300-3p,Gm14092,predicted gene 14092
+50,mmu-miR-300-3p,Nxpe5,"neurexophilin and PC-esterase domain family, member 5"
+50,mmu-miR-300-3p,Trpv2,"transient receptor potential cation channel, subfamily V, member 2"
+50,mmu-miR-300-3p,Mymk,"myomaker, myoblast fusion factor"

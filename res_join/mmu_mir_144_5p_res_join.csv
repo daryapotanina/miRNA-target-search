@@ -1,0 +1,8 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,mf_d1338,,,,,,,,,,93,mmu-miR-144-5p,Hic1,hypermethylated in cancer 1,ENSMUSG00000043099.4,Hic1,15.381166,2.26253e-08
+,mf_wt,,,,,,,,,,93,mmu-miR-144-5p,Hic1,hypermethylated in cancer 1,ENSMUSG00000043099.4,Hic1,10.83826,7.99331e-19
+,mf_wt,,,,,,,,,,89,mmu-miR-144-5p,Aak1,AP2 associated kinase 1,ENSMUSG00000057230.14,Aak1,7.8759217,2.84665e-34
+wt_d1338,,Tmem202,Tmem202,ENSMUST00000055345.7,transmembrane protein 202 ,mmu-miR-144-5p,-0.41,ENSMUSG00000049526.8,-2.390187,1.33357e-21,,,,,,,,
+mf_d1338,,Kif2c,Kif2c,ENSMUST00000065896.3,kinesin family member 2C ,mmu-miR-144-5p,-0.46,ENSMUSG00000028678.13,9.202674,0.013603096,,,,,,,,
+wt_d1338,,Kif2c,Kif2c,ENSMUST00000065896.3,kinesin family member 2C ,mmu-miR-144-5p,-0.46,ENSMUSG00000028678.13,2.096652,3.81884e-06,,,,,,,,
+wt_d1338,,Pgm2,Pgm2,ENSMUST00000058351.10,phosphoglucomutase 2 ,mmu-miR-144-5p,-0.42,ENSMUSG00000025791.18,-1.7836632,1.92711e-44,,,,,,,,

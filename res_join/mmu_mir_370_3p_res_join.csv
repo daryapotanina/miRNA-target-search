@@ -1,0 +1,31 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+wt_d1338,wt_d1338,Artn,Artn,ENSMUST00000070816.3,artemin ,mmu-miR-370-3p,-0.43,ENSMUSG00000028539.14,4.5389953,4.75098e-06,81,mmu-miR-370-3p,Artn,artemin,ENSMUSG00000028539.14,Artn,4.5389953,4.75098e-06
+,wt_d1338,,,,,,,,,,88,mmu-miR-370-3p,Wnt10b,"wingless-type MMTV integration site family, member 10B",ENSMUSG00000022996.15,Wnt10b,3.4230518,3.9986e-07
+wt_d1338,wt_d1338,Stap1,Stap1,ENSMUST00000031171.7,signal transducing adaptor family member 1 ,mmu-miR-370-3p,-0.53,ENSMUSG00000029254.16,2.8258533,1.63434e-44,95,mmu-miR-370-3p,Stap1,signal transducing adaptor family member 1,ENSMUSG00000029254.16,Stap1,2.8258533,1.63434e-44
+,wt_d1338,,,,,,,,,,80,mmu-miR-370-3p,Adarb1,"adenosine deaminase, RNA-specific, B1",ENSMUSG00000020262.15,Adarb1,1.9660181,8.71939e-38
+,wt_d1338,,,,,,,,,,80,mmu-miR-370-3p,Unc13b,unc-13 homolog B,ENSMUSG00000028456.18,Unc13b,1.6727734,1.22697e-09
+,wt_d1338,,,,,,,,,,84,mmu-miR-370-3p,Igf2bp1,insulin-like growth factor 2 mRNA binding protein 1,ENSMUSG00000013415.9,Igf2bp1,1.6643767,1.12996e-21
+,wt_d1338,,,,,,,,,,80,mmu-miR-370-3p,Nacc2,"nucleus accumbens associated 2, BEN and BTB (POZ) domain containing",ENSMUSG00000026932.14,Nacc2,1.6031616,1.51401e-22
+,mf_d1338,,,,,,,,,,88,mmu-miR-370-3p,Chst11,carbohydrate sulfotransferase 11,ENSMUSG00000034612.7,Chst11,5.6711736,2.66621e-05
+,mf_d1338,,,,,,,,,,80,mmu-miR-370-3p,Unc13b,unc-13 homolog B,ENSMUSG00000028456.18,Unc13b,0.21601471,0.031094772
+,mf_wt,,,,,,,,,,88,mmu-miR-370-3p,Chst11,carbohydrate sulfotransferase 11,ENSMUSG00000034612.7,Chst11,9.712083,5.71155e-19
+,mf_wt,,,,,,,,,,88,mmu-miR-370-3p,Pde7a,phosphodiesterase 7A,ENSMUSG00000069094.12,Pde7a,4.0115166,7.81921e-14
+mf_wt,,Ppp1r3e,Ppp1r3e,ENSMUST00000177403.1,"protein phosphatase 1, regulatory (inhibitor) subunit 3E ",mmu-miR-370-3p,-0.47,ENSMUSG00000072494.7,5.302179,2.7576e-09,,,,,,,,
+mf_d1338,,Mx1,Mx1,ENSMUST00000113768.2,myxovirus (influenza virus) resistance 1 ,mmu-miR-370-3p,-0.4,ENSMUSG00000000386.16,4.98314,0.000367988,,,,,,,,
+mf_wt,,Syne1,Syne1,ENSMUST00000095899.3,"spectrin repeat containing, nuclear envelope 1 ",mmu-miR-370-3p,-0.9,ENSMUSG00000096054.3,49.730957,2.91398e-22,,,,,,,,
+wt_d1338,,Syne1,Syne1,ENSMUST00000095899.3,"spectrin repeat containing, nuclear envelope 1 ",mmu-miR-370-3p,-0.9,ENSMUSG00000096054.3,-2.0718246,1.11984e-34,,,,,,,,
+mf_wt,,Rarres2,Rarres2,ENSMUST00000009425.4,retinoic acid receptor responder (tazarotene induced) 2 ,mmu-miR-370-3p,-0.5,ENSMUSG00000009281.6,12.717346,1.00051e-05,,,,,,,,
+mf_d1338,,Rarres2,Rarres2,ENSMUST00000009425.4,retinoic acid receptor responder (tazarotene induced) 2 ,mmu-miR-370-3p,-0.5,ENSMUSG00000009281.6,82.78887,7.9852e-13,,,,,,,,
+wt_d1338,,Rarres2,Rarres2,ENSMUST00000009425.4,retinoic acid receptor responder (tazarotene induced) 2 ,mmu-miR-370-3p,-0.5,ENSMUSG00000009281.6,-4.744335,4.31782e-11,,,,,,,,
+wt_d1338,,Ahr,Ahr,ENSMUST00000116436.3,aryl-hydrocarbon receptor ,mmu-miR-370-3p,-0.44,ENSMUSG00000019256.17,1.9678265,2.81526e-21,,,,,,,,
+mf_wt,,Mrto4,Mrto4,ENSMUST00000102503.4,"MRT4, mRNA turnover 4, homolog (S. cerevisiae) ",mmu-miR-370-3p,-0.57,ENSMUSG00000028741.13,0.24985558,0.007192107,,,,,,,,
+wt_d1338,,Mrto4,Mrto4,ENSMUST00000102503.4,"MRT4, mRNA turnover 4, homolog (S. cerevisiae) ",mmu-miR-370-3p,-0.57,ENSMUSG00000028741.13,1.5248706,2.46342e-12,,,,,,,,
+wt_d1338,,Ctla2b,Ctla2b,ENSMUST00000171347.2,cytotoxic T lymphocyte-associated protein 2 beta ,mmu-miR-370-3p,-0.41,ENSMUSG00000074874.10,2.3815815,1.01041e-95,,,,,,,,
+mf_wt,,Igfbp6,Igfbp6,ENSMUST00000023807.6,insulin-like growth factor binding protein 6 ,mmu-miR-370-3p,-0.49,ENSMUSG00000023046.6,0.08396342,9.02753e-05,,,,,,,,
+wt_d1338,,H2-M3,H2-M3,ENSMUST00000038580.6,"histocompatibility 2, M region locus 3 ",mmu-miR-370-3p,-0.43,ENSMUSG00000016206.6,-1.9609518,2.3386e-106,,,,,,,,
+mf_wt,,Shisa2,Shisa2,ENSMUST00000053949.5,shisa homolog 2 (Xenopus laevis) ,mmu-miR-370-3p,-0.44,ENSMUSG00000044461.6,100.30951,2.05184e-06,,,,,,,,
+mf_d1338,,Shisa2,Shisa2,ENSMUST00000053949.5,shisa homolog 2 (Xenopus laevis) ,mmu-miR-370-3p,-0.44,ENSMUSG00000044461.6,116.69008,0.000992158,,,,,,,,
+wt_d1338,,Shisa2,Shisa2,ENSMUST00000053949.5,shisa homolog 2 (Xenopus laevis) ,mmu-miR-370-3p,-0.44,ENSMUSG00000044461.6,-2.8319852,8.56591e-07,,,,,,,,
+mf_wt,,Rnf144b,Rnf144b,ENSMUST00000068891.5,ring finger protein 144B ,mmu-miR-370-3p,-0.45,ENSMUSG00000038068.15,0.052930657,1.28065e-15,,,,,,,,
+mf_d1338,,Rnf144b,Rnf144b,ENSMUST00000068891.5,ring finger protein 144B ,mmu-miR-370-3p,-0.45,ENSMUSG00000038068.15,0.037491847,1.88045e-11,,,,,,,,
+wt_d1338,,Rnf144b,Rnf144b,ENSMUST00000068891.5,ring finger protein 144B ,mmu-miR-370-3p,-0.45,ENSMUSG00000038068.15,3.436609,4.44395e-22,,,,,,,,

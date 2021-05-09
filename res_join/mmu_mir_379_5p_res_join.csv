@@ -1,0 +1,9 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,88,mmu-miR-379-5p,Nrarp,Notch-regulated ankyrin repeat protein,ENSMUSG00000078202.3,Nrarp,1.7679855,0.008092349
+,wt_d1338,,,,,,,,,,85,mmu-miR-379-5p,Selp,"selectin, platelet",ENSMUSG00000026580.16,Selp,1.6578609,0.039093544
+,wt_d1338,,,,,,,,,,84,mmu-miR-379-5p,Themis,thymocyte selection associated,ENSMUSG00000049109.15,Themis,-4.311888,7.56438e-48
+,mf_d1338,,,,,,,,,,84,mmu-miR-379-5p,Themis,thymocyte selection associated,ENSMUSG00000049109.15,Themis,18.428442,0.000232218
+,mf_d1338,,,,,,,,,,93,mmu-miR-379-5p,Pde2a,"phosphodiesterase 2A, cGMP-stimulated",ENSMUSG00000110195.1,Pde2a,0.15522254,0.044310987
+,mf_d1338,,,,,,,,,,85,mmu-miR-379-5p,Selp,"selectin, platelet",ENSMUSG00000026580.16,Selp,0.029138213,7.49525e-07
+,mf_wt,,,,,,,,,,84,mmu-miR-379-5p,Themis,thymocyte selection associated,ENSMUSG00000049109.15,Themis,73.091125,1.79094e-38
+,mf_wt,,,,,,,,,,85,mmu-miR-379-5p,Selp,"selectin, platelet",ENSMUSG00000026580.16,Selp,0.02474306,3.71296e-12

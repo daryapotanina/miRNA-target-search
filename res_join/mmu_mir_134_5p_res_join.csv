@@ -1,0 +1,21 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,87,mmu-miR-134-5p,Col18a1,"collagen, type XVIII, alpha 1",ENSMUSG00000001435.15,Col18a1,2.3664892,1.71471e-53
+,wt_d1338,,,,,,,,,,89,mmu-miR-134-5p,Gapt,"Grb2-binding adaptor, transmembrane",ENSMUSG00000046006.6,Gapt,1.6531904,4.23324e-07
+,wt_d1338,,,,,,,,,,83,mmu-miR-134-5p,Tsku,"tsukushi, small leucine rich proteoglycan",ENSMUSG00000049580.12,Tsku,1.5030104,6.46938e-50
+,wt_d1338,,,,,,,,,,89,mmu-miR-134-5p,Itga9,integrin alpha 9,ENSMUSG00000039115.13,Itga9,-1.6053555,4.13767e-83
+mf_wt,wt_d1338,Hyal1,Hyal1,ENSMUST00000010195.8,hyaluronoglucosaminidase 1 ,mmu-miR-134-5p,-0.92,ENSMUSG00000010051.15,6.286996,5.5279e-06,92,mmu-miR-134-5p,Hyal1,hyaluronoglucosaminidase 1,ENSMUSG00000010051.15,Hyal1,-3.6432312,6.86334e-45
+wt_d1338,wt_d1338,Hyal1,Hyal1,ENSMUST00000010195.8,hyaluronoglucosaminidase 1 ,mmu-miR-134-5p,-0.92,ENSMUSG00000010051.15,-3.6432312,6.86334e-45,92,mmu-miR-134-5p,Hyal1,hyaluronoglucosaminidase 1,ENSMUSG00000010051.15,Hyal1,-3.6432312,6.86334e-45
+,wt_d1338,,,,,,,,,,84,mmu-miR-134-5p,Cacna1b,"calcium channel, voltage-dependent, N type, alpha 1B subunit",ENSMUSG00000004113.18,Cacna1b,-3.6580656,2.86661e-24
+,wt_d1338,,,,,,,,,,81,mmu-miR-134-5p,Il21,interleukin 21,ENSMUSG00000027718.8,Il21,-5.024465,4.71787e-05
+,mf_d1338,,,,,,,,,,84,mmu-miR-134-5p,Cacna1b,"calcium channel, voltage-dependent, N type, alpha 1B subunit",ENSMUSG00000004113.18,Cacna1b,31.238316,0.000498494
+,mf_wt,,,,,,,,,,81,mmu-miR-134-5p,Il21,interleukin 21,ENSMUSG00000027718.8,Il21,120.163704,6.30688e-06
+,mf_wt,,,,,,,,,,84,mmu-miR-134-5p,Cacna1b,"calcium channel, voltage-dependent, N type, alpha 1B subunit",ENSMUSG00000004113.18,Cacna1b,40.820587,2.45156e-17
+,mf_wt,,,,,,,,,,89,mmu-miR-134-5p,Zdhhc21,"zinc finger, DHHC domain containing 21",ENSMUSG00000028403.15,Zdhhc21,7.7483325,4.84554e-26
+,mf_wt,,,,,,,,,,84,mmu-miR-134-5p,Ttbk2,tau tubulin kinase 2,ENSMUSG00000090100.7,Ttbk2,7.6741614,1.25335e-11
+mf_wt,mf_wt,Hyal1,Hyal1,ENSMUST00000010195.8,hyaluronoglucosaminidase 1 ,mmu-miR-134-5p,-0.92,ENSMUSG00000010051.15,6.286996,5.5279e-06,92,mmu-miR-134-5p,Hyal1,hyaluronoglucosaminidase 1,ENSMUSG00000010051.15,Hyal1,6.286996,5.5279e-06
+wt_d1338,mf_wt,Hyal1,Hyal1,ENSMUST00000010195.8,hyaluronoglucosaminidase 1 ,mmu-miR-134-5p,-0.92,ENSMUSG00000010051.15,-3.6432312,6.86334e-45,92,mmu-miR-134-5p,Hyal1,hyaluronoglucosaminidase 1,ENSMUSG00000010051.15,Hyal1,6.286996,5.5279e-06
+,mf_wt,,,,,,,,,,82,mmu-miR-134-5p,Myb,myeloblastosis oncogene,ENSMUSG00000019982.15,Myb,4.107791,0.023874431
+,mf_wt,,,,,,,,,,88,mmu-miR-134-5p,Itgb8,integrin beta 8,ENSMUSG00000025321.14,Itgb8,4.0216117,0.025674905
+mf_d1338,,Snx24,Snx24,ENSMUST00000165032.2,sorting nexing 24 ,mmu-miR-134-5p,-0.43,ENSMUSG00000024535.16,0.23825005,0.001008513,,,,,,,,
+mf_wt,,Sptan1,Sptan1,ENSMUST00000113717.2,"spectrin alpha, non-erythrocytic 1 ",mmu-miR-134-5p,-0.44,ENSMUSG00000057738.14,4.4672513,5.54737e-25,,,,,,,,
+mf_wt,,Xcr1,Xcr1,ENSMUST00000182350.1,chemokine (C motif) receptor 1 ,mmu-miR-134-5p,-0.42,ENSMUSG00000060509.5,0.24281712,4.4591e-05,,,,,,,,

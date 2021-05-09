@@ -1,0 +1,147 @@
+Target gene	Representative transcript	Gene name	Representative miRNA	Cumulative weighted context++ score
+Gm12355	ENSMUST00000104933.1	"predicted gene 12355 "	mmu-miR-486a-5p	-1.32
+Srsf3	ENSMUST00000130216.1	"serine/arginine-rich splicing factor 3 "	mmu-miR-486a-5p	-1.27
+Abhd17b	ENSMUST00000052556.3	"abhydrolase domain containing 17B "	mmu-miR-486a-5p	-0.58
+Snrpd1	ENSMUST00000002551.3	"small nuclear ribonucleoprotein D1 "	mmu-miR-486a-5p	-0.56
+Tob1	ENSMUST00000041589.5	"transducer of ErbB-2.1 "	mmu-miR-486a-5p	-0.50
+Agbl5	ENSMUST00000061213.7	"ATP/GTP binding protein-like 5 "	mmu-miR-486a-5p	-0.49
+Glis1	ENSMUST00000046005.3	"GLIS family zinc finger 1 "	mmu-miR-486a-5p	-0.47
+Piga	ENSMUST00000112255.2	"phosphatidylinositol glycan anchor biosynthesis, class A "	mmu-miR-486a-5p	-0.46
+Bivm	ENSMUST00000114709.2	"basic, immunoglobulin-like variable motif containing "	mmu-miR-486a-5p	-0.45
+Ccdc117	ENSMUST00000020776.4	"coiled-coil domain containing 117 "	mmu-miR-486a-5p	-0.43
+Map3k7	ENSMUST00000108183.2	"mitogen-activated protein kinase kinase kinase 7 "	mmu-miR-486a-5p	-0.43
+Skiv2l2	ENSMUST00000022281.3	"superkiller viralicidic activity 2-like 2 (S. cerevisiae) "	mmu-miR-486a-5p	-0.42
+Timm23	ENSMUST00000170331.2	"translocase of inner mitochondrial membrane 23 "	mmu-miR-486a-5p	-0.39
+Gpr153	ENSMUST00000105650.2	"G protein-coupled receptor 153 "	mmu-miR-486a-5p	-0.38
+4930533K18Rik	ENSMUST00000058942.5	"RIKEN cDNA 4930533K18 gene "	mmu-miR-486a-5p	-0.37
+Arl1	ENSMUST00000116234.3	"ADP-ribosylation factor-like 1 "	mmu-miR-486a-5p	-0.36
+Cdh7	ENSMUST00000112701.2	"cadherin 7, type 2 "	mmu-miR-486a-5p	-0.36
+Gab2	ENSMUST00000004622.5	"growth factor receptor bound protein 2-associated protein 2 "	mmu-miR-486a-5p	-0.36
+Gabra1	ENSMUST00000020707.6	"gamma-aminobutyric acid (GABA) A receptor, subunit alpha 1 "	mmu-miR-486a-5p	-0.35
+Cops7b	ENSMUST00000121534.2	"COP9 (constitutive photomorphogenic) homolog, subunit 7b (Arabidopsis thaliana) "	mmu-miR-486a-5p	-0.35
+Wipf3	ENSMUST00000163746.2	"WAS/WASL interacting protein family, member 3 "	mmu-miR-486a-5p	-0.34
+Gucy1a2	ENSMUST00000115733.1	"guanylate cyclase 1, soluble, alpha 2 "	mmu-miR-486a-5p	-0.34
+Sp5	ENSMUST00000100043.2	"trans-acting transcription factor 5 "	mmu-miR-486a-5p	-0.34
+Ankrd13a	ENSMUST00000102578.5	"ankyrin repeat domain 13a "	mmu-miR-486a-5p	-0.34
+Slc10a7	ENSMUST00000034111.8	"solute carrier family 10 (sodium/bile acid cotransporter family), member 7 "	mmu-miR-486a-5p	-0.33
+Dlx3	ENSMUST00000092768.6	"distal-less homeobox 3 "	mmu-miR-486a-5p	-0.33
+Cabp2	ENSMUST00000159556.2	"calcium binding protein 2 "	mmu-miR-486a-5p	-0.33
+Mark1	ENSMUST00000027929.4	"MAP/microtubule affinity-regulating kinase 1 "	mmu-miR-486a-5p	-0.32
+Lmo3	ENSMUST00000162772.2	"LIM domain only 3 "	mmu-miR-486a-5p	-0.31
+Smad2	ENSMUST00000168423.2	"SMAD family member 2 "	mmu-miR-486a-5p	-0.31
+Zfp281	ENSMUST00000047734.9	"zinc finger protein 281 "	mmu-miR-486a-5p	-0.30
+Fgf9	ENSMUST00000165526.2	"fibroblast growth factor 9 "	mmu-miR-486a-5p	-0.30
+Armc8	ENSMUST00000035043.6	"armadillo repeat containing 8 "	mmu-miR-486a-5p	-0.30
+H3f3b	ENSMUST00000106454.2	"H3 histone, family 3B "	mmu-miR-486a-5p	-0.30
+Zc3hav1	ENSMUST00000114900.2	"zinc finger CCCH type, antiviral 1 "	mmu-miR-486a-5p	-0.30
+Irx5	ENSMUST00000034184.10	"Iroquois related homeobox 5 (Drosophila) "	mmu-miR-486a-5p	-0.29
+Pdpk1	ENSMUST00000102927.4	"3-phosphoinositide dependent protein kinase 1 "	mmu-miR-486a-5p	-0.29
+Scn3b	ENSMUST00000171835.3	"sodium channel, voltage-gated, type III, beta "	mmu-miR-486a-5p	-0.29
+Nalcn	ENSMUST00000000201.5	"sodium leak channel, non-selective "	mmu-miR-486a-5p	-0.28
+Rhoq	ENSMUST00000024956.9	"ras homolog gene family, member Q "	mmu-miR-486a-5p	-0.28
+Dcc	ENSMUST00000114943.4	"deleted in colorectal carcinoma "	mmu-miR-486a-5p	-0.28
+Dynll1	ENSMUST00000009157.3	"dynein light chain LC8-type 1 "	mmu-miR-486a-5p	-0.28
+Map9	ENSMUST00000091014.4	"microtubule-associated protein 9 "	mmu-miR-486a-5p	-0.28
+Dock3	ENSMUST00000044532.5	"dedicator of cyto-kinesis 3 "	mmu-miR-486a-5p	-0.28
+Pik3r1	ENSMUST00000055518.7	"phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha) "	mmu-miR-486a-5p	-0.28
+Dnajc21	ENSMUST00000136591.2	"DnaJ (Hsp40) homolog, subfamily C, member 21 "	mmu-miR-486a-5p	-0.28
+Asb4	ENSMUST00000043294.6	"ankyrin repeat and SOCS box-containing 4 "	mmu-miR-486a-5p	-0.28
+Pim1	ENSMUST00000024811.7	"proviral integration site 1 "	mmu-miR-486a-5p	-0.27
+Pitx3	ENSMUST00000026259.10	"paired-like homeodomain transcription factor 3 "	mmu-miR-486a-5p	-0.27
+Tenm2	ENSMUST00000102801.2	"teneurin transmembrane protein 2 "	mmu-miR-486a-5p	-0.25
+Crebrf	ENSMUST00000062519.8	"CREB3 regulatory factor "	mmu-miR-486a-5p	-0.25
+Mamdc2	ENSMUST00000036069.6	"MAM domain containing 2 "	mmu-miR-486a-5p	-0.25
+Ppp3cb	ENSMUST00000159027.2	"protein phosphatase 3, catalytic subunit, beta isoform "	mmu-miR-486a-5p	-0.24
+Phf20l1	ENSMUST00000048188.8	"PHD finger protein 20-like 1 "	mmu-miR-486a-5p	-0.23
+Nr2c2	ENSMUST00000113460.2	"nuclear receptor subfamily 2, group C, member 2 "	mmu-miR-486a-5p	-0.23
+Epha3	ENSMUST00000064405.6	"Eph receptor A3 "	mmu-miR-486a-5p	-0.22
+Tsc22d2	ENSMUST00000099090.2	"TSC22 domain family, member 2 "	mmu-miR-486a-5p	-0.22
+Map7d1	ENSMUST00000122129.2	"MAP7 domain containing 1 "	mmu-miR-486a-5p	-0.22
+Srsf1	ENSMUST00000079866.5	"serine/arginine-rich splicing factor 1 "	mmu-miR-486a-5p	-0.22
+Gabrb3	ENSMUST00000085240.5	"gamma-aminobutyric acid (GABA) A receptor, subunit beta 3 "	mmu-miR-486a-5p	-0.22
+Grhl2	ENSMUST00000022895.9	"grainyhead-like 2 (Drosophila) "	mmu-miR-486a-5p	-0.21
+A230050P20Rik	ENSMUST00000043911.7	"RIKEN cDNA A230050P20 gene "	mmu-miR-486a-5p	-0.21
+Rassf3	ENSMUST00000026902.7	"Ras association (RalGDS/AF-6) domain family member 3 "	mmu-miR-486a-5p	-0.20
+Gzf1	ENSMUST00000028928.7	"GDNF-inducible zinc finger protein 1 "	mmu-miR-486a-5p	-0.20
+Stk35	ENSMUST00000165413.3	"serine/threonine kinase 35 "	mmu-miR-486a-5p	-0.20
+Fgf13	ENSMUST00000033473.6	"fibroblast growth factor 13 "	mmu-miR-486a-5p	-0.20
+Atxn7l3	ENSMUST00000107134.2	"ataxin 7-like 3 "	mmu-miR-486a-5p	-0.19
+Smoc1	ENSMUST00000110347.3	"SPARC related  modular calcium binding 1 "	mmu-miR-486a-5p	-0.19
+Arhgap44	ENSMUST00000047463.9	"Rho GTPase activating protein 44 "	mmu-miR-486a-5p	-0.19
+Ccdc66	ENSMUST00000050480.6	"coiled-coil domain containing 66 "	mmu-miR-486a-5p	-0.19
+Unc5c	ENSMUST00000106236.3	"unc-5 homolog C (C. elegans) "	mmu-miR-486a-5p	-0.18
+Mex3a	ENSMUST00000172699.1	"mex3 homolog A (C. elegans) "	mmu-miR-486a-5p	-0.18
+Col6a6	ENSMUST00000098441.4	"collagen, type VI, alpha 6 "	mmu-miR-486a-5p	-0.18
+Bahcc1	ENSMUST00000044985.8	"BAH domain and coiled-coil containing 1 "	mmu-miR-486a-5p	-0.18
+Siah1a	ENSMUST00000045296.4	"seven in absentia 1A "	mmu-miR-486a-5p	-0.18
+Slc12a5	ENSMUST00000099092.4	"solute carrier family 12, member 5 "	mmu-miR-486a-5p	-0.17
+Pdzrn3	ENSMUST00000075994.7	"PDZ domain containing RING finger 3 "	mmu-miR-486a-5p	-0.17
+Pten	ENSMUST00000013807.7	"phosphatase and tensin homolog "	mmu-miR-486a-5p	-0.17
+Sypl	ENSMUST00000076698.6	"synaptophysin-like protein "	mmu-miR-486a-5p	-0.17
+Copg2	ENSMUST00000048774.7	"coatomer protein complex, subunit gamma 2 "	mmu-miR-486a-5p	-0.17
+Elavl2	ENSMUST00000107110.2	"ELAV (embryonic lethal, abnormal vision, Drosophila)-like 2 (Hu antigen B) "	mmu-miR-486a-5p	-0.17
+Btaf1	ENSMUST00000099494.3	"BTAF1 RNA polymerase II, B-TFIID transcription factor-associated, (Mot1 homolog, S. cerevisiae) "	mmu-miR-486a-5p	-0.16
+Dll4	ENSMUST00000102517.3	"delta-like 4 (Drosophila) "	mmu-miR-486a-5p	-0.16
+Celf2	ENSMUST00000170438.2	"CUGBP, Elav-like family member 2 "	mmu-miR-486a-5p	-0.16
+Ptpn12	ENSMUST00000030556.7	"protein tyrosine phosphatase, non-receptor type 12 "	mmu-miR-486a-5p	-0.16
+Stk4	ENSMUST00000018353.8	"serine/threonine kinase 4 "	mmu-miR-486a-5p	-0.16
+Slain2	ENSMUST00000144843.2	"SLAIN motif family, member 2 "	mmu-miR-486a-5p	-0.15
+Cadm1	ENSMUST00000114548.2	"cell adhesion molecule 1 "	mmu-miR-486a-5p	-0.15
+B3gat2	ENSMUST00000063663.5	"beta-1,3-glucuronyltransferase 2 (glucuronosyltransferase S) "	mmu-miR-486a-5p	-0.15
+Mettl1	ENSMUST00000120542.2	"methyltransferase like 1 "	mmu-miR-486a-5p	-0.13
+Fam83g	ENSMUST00000093019.5	"family with sequence similarity 83, member G "	mmu-miR-486a-5p	-0.12
+Chst3	ENSMUST00000135158.3	"carbohydrate (chondroitin 6/keratan) sulfotransferase 3 "	mmu-miR-486a-5p	-0.12
+Sox12	ENSMUST00000182625.1	"SRY (sex determining region Y)-box 12 "	mmu-miR-486a-5p	-0.12
+D1Ertd622e	ENSMUST00000053033.8	"DNA segment, Chr 1, ERATO Doi 622, expressed "	mmu-miR-486a-5p	-0.12
+Prrc2c	ENSMUST00000182149.2	"proline-rich coiled-coil 2C "	mmu-miR-486a-5p	-0.12
+Naa15	ENSMUST00000029303.7	"N(alpha)-acetyltransferase 15, NatA auxiliary subunit "	mmu-miR-486a-5p	-0.11
+Arhgap5	ENSMUST00000110725.1	"Rho GTPase activating protein 5 "	mmu-miR-486a-5p	-0.11
+Tmem115	ENSMUST00000010189.1	"transmembrane protein 115 "	mmu-miR-486a-5p	-0.11
+Cnksr2	ENSMUST00000026750.9	"connector enhancer of kinase suppressor of Ras 2 "	mmu-miR-486a-5p	-0.10
+Nfat5	ENSMUST00000169453.2	"nuclear factor of activated T cells 5 "	mmu-miR-486a-5p	-0.10
+Itgb3bp	ENSMUST00000146258.1	"integrin beta 3 binding protein (beta3-endonexin) "	mmu-miR-486a-5p	-0.10
+Aff3	ENSMUST00000095027.3	"AF4/FMR2 family, member 3 "	mmu-miR-486a-5p	-0.09
+Bcorl1	ENSMUST00000136348.2	"BCL6 co-repressor-like 1 "	mmu-miR-486a-5p	-0.09
+Kctd1	ENSMUST00000168989.2	"potassium channel tetramerisation domain containing 1 "	mmu-miR-486a-5p	-0.09
+Tanc1	ENSMUST00000037526.5	"tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1 "	mmu-miR-486a-5p	-0.08
+Gxylt1	ENSMUST00000057896.4	"glucoside xylosyltransferase 1 "	mmu-miR-486a-5p	-0.08
+March4	ENSMUST00000047786.5	"membrane-associated ring finger (C3HC4) 4 "	mmu-miR-486a-5p	-0.08
+Nkx2-3	ENSMUST00000057178.10	"NK2 homeobox 3 "	mmu-miR-486a-5p	-0.08
+Ar	ENSMUST00000052837.7	"androgen receptor "	mmu-miR-486a-5p	-0.08
+Ipo7	ENSMUST00000084731.3	"importin 7 "	mmu-miR-486a-5p	-0.07
+Dkk2	ENSMUST00000029665.5	"dickkopf homolog 2 (Xenopus laevis) "	mmu-miR-486a-5p	-0.07
+Tbx2	ENSMUST00000000095.6	"T-box 2 "	mmu-miR-486a-5p	-0.07
+Zfp644	ENSMUST00000112696.2	"zinc finger protein 644 "	mmu-miR-486a-5p	-0.07
+Slc8a1	ENSMUST00000163680.3	"solute carrier family 8 (sodium/calcium exchanger), member 1 "	mmu-miR-486a-5p	-0.06
+Plagl2	ENSMUST00000056924.8	"pleiomorphic adenoma gene-like 2 "	mmu-miR-486a-5p	-0.06
+Maml2	ENSMUST00000177755.1	"mastermind like 2 (Drosophila) "	mmu-miR-486a-5p	-0.06
+Hnrnpa2b1	ENSMUST00000114459.2	"heterogeneous nuclear ribonucleoprotein A2/B1 "	mmu-miR-486a-5p	-0.06
+Kdm5b	ENSMUST00000112198.2	"lysine (K)-specific demethylase 5B "	mmu-miR-486a-5p	-0.06
+Ccdc47	ENSMUST00000002043.4	"coiled-coil domain containing 47 "	mmu-miR-486a-5p	-0.06
+8430419L09Rik	ENSMUST00000111915.2	"RIKEN cDNA 8430419L09 gene "	mmu-miR-486a-5p	-0.05
+Maml3	ENSMUST00000121440.2	"mastermind like 3 (Drosophila) "	mmu-miR-486a-5p	-0.04
+Tet3	ENSMUST00000089622.5	"tet methylcytosine dioxygenase 3 "	mmu-miR-486a-5p	-0.04
+Hpse2	ENSMUST00000099428.3	"heparanase 2 "	mmu-miR-486a-5p	-0.04
+Stau1	ENSMUST00000049412.6	"staufen (RNA binding protein) homolog 1 (Drosophila) "	mmu-miR-486a-5p	-0.04
+Zfp507	ENSMUST00000061586.5	"zinc finger protein 507 "	mmu-miR-486a-5p	-0.03
+Nr3c1	ENSMUST00000115567.2	"nuclear receptor subfamily 3, group C, member 1 "	mmu-miR-486a-5p	-0.03
+3222401L13Rik	ENSMUST00000097608.2	"RIKEN cDNA 3222401L13 gene "	mmu-miR-486a-5p	-0.03
+Aak1	ENSMUST00000089519.7	"AP2 associated kinase 1 "	mmu-miR-486a-5p	-0.03
+Golga3	ENSMUST00000112512.2	"golgi autoantigen, golgin subfamily a, 3 "	mmu-miR-486a-5p	-0.03
+Mpv17l2	ENSMUST00000038626.8	"MPV17 mitochondrial membrane protein-like 2 "	mmu-miR-486a-5p	-0.02
+Ctu2	ENSMUST00000116412.2	"cytosolic thiouridylase subunit 2 homolog (S. pombe) "	mmu-miR-486a-5p	-0.02
+Phc3	ENSMUST00000064718.6	"polyhomeotic-like 3 (Drosophila) "	mmu-miR-486a-5p	-0.01
+Psmb5	ENSMUST00000022803.4	"proteasome (prosome, macropain) subunit, beta type 5 "	mmu-miR-486a-5p	-0.01
+Ccnt2	ENSMUST00000112570.1	"cyclin T2 "	mmu-miR-486a-5p	-0.01
+Surf2	ENSMUST00000015017.7	"surfeit gene 2 "	mmu-miR-486a-5p	0
+1810022K09Rik	ENSMUST00000186870.1	"RIKEN cDNA 1810022K09 gene "	mmu-miR-486a-5p	0
+Chd1	ENSMUST00000024620.6	"chromodomain helicase DNA binding protein 1 "	mmu-miR-486a-5p	0
+Rnf34	ENSMUST00000031434.6	"ring finger protein 34 "	mmu-miR-486a-5p	0
+Pawr	ENSMUST00000095313.3	"PRKC, apoptosis, WT1, regulator "	mmu-miR-486a-5p	0
+Idh2	ENSMUST00000107384.4	"isocitrate dehydrogenase 2 (NADP+), mitochondrial "	mmu-miR-486a-5p	0
+Elfn2	ENSMUST00000088592.4	"leucine rich repeat and fibronectin type III, extracellular 2 "	mmu-miR-486a-5p	0
+Aldh1a1	ENSMUST00000087638.3	"aldehyde dehydrogenase family 1, subfamily A1 "	mmu-miR-486a-5p	0
+Rpl37a	ENSMUST00000059980.9	"ribosomal protein L37a "	mmu-miR-486a-5p	0
+Zfp827	ENSMUST00000119254.2	"zinc finger protein 827 "	mmu-miR-486a-5p	0
+Tmub2	ENSMUST00000036376.7	"transmembrane and ubiquitin-like domain containing 2 "	mmu-miR-486a-5p	0
+Rufy2	ENSMUST00000119567.2	"RUN and FYVE domain-containing 2 "	mmu-miR-486a-5p	0

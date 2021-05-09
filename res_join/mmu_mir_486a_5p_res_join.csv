@@ -1,0 +1,14 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,91,mmu-miR-486a-5p,Draxin,dorsal inhibitory axon guidance protein,ENSMUSG00000029005.4,Draxin,2.20274,0.017283989
+,wt_d1338,,,,,,,,,,87,mmu-miR-486a-5p,Bahcc1,BAH domain and coiled-coil containing 1,ENSMUSG00000039741.15,Bahcc1,1.7054564,4.84725e-05
+,wt_d1338,,,,,,,,,,89,mmu-miR-486a-5p,Slc12a5,"solute carrier family 12, member 5",ENSMUSG00000017740.17,Slc12a5,1.5292381,1.29932e-06
+,wt_d1338,,,,,,,,,,93,mmu-miR-486a-5p,Il1a,interleukin 1 alpha,ENSMUSG00000027399.1,Il1a,-2.4803011,1.4908e-07
+,mf_d1338,,,,,,,,,,93,mmu-miR-486a-5p,Il1a,interleukin 1 alpha,ENSMUSG00000027399.1,Il1a,28.983927,3.7486e-07
+,mf_d1338,,,,,,,,,,94,mmu-miR-486a-5p,Baiap2l1,BAI1-associated protein 2-like 1,ENSMUSG00000038859.7,Baiap2l1,18.133505,0.048710663
+,mf_d1338,,,,,,,,,,89,mmu-miR-486a-5p,Slc12a5,"solute carrier family 12, member 5",ENSMUSG00000017740.17,Slc12a5,0.24574924,0.018617283
+,mf_wt,,,,,,,,,,88,mmu-miR-486a-5p,Gm14440,predicted gene 14440,ENSMUSG00000078901.8,Gm14440,46.46854,0.023874431
+,mf_wt,,,,,,,,,,93,mmu-miR-486a-5p,Il1a,interleukin 1 alpha,ENSMUSG00000027399.1,Il1a,34.839043,1.10717e-23
+,mf_wt,,,,,,,,,,89,mmu-miR-486a-5p,Osbpl8,oxysterol binding protein-like 8,ENSMUSG00000020189.15,Osbpl8,6.433773,2.40391e-12
+,mf_wt,,,,,,,,,,96,mmu-miR-486a-5p,Rpgrip1l,Rpgrip1-like,ENSMUSG00000033282.14,Rpgrip1l,4.3256483,0.040802214
+,mf_wt,,,,,,,,,,96,mmu-miR-486a-5p,Epha5,Eph receptor A5,ENSMUSG00000029245.16,Epha5,0.022208545,2.33353e-17
+mf_wt,,Bivm,Bivm,ENSMUST00000114709.2,"basic, immunoglobulin-like variable motif containing ",mmu-miR-486a-5p,-0.45,ENSMUSG00000041684.11,6.762164,1.69081e-11,,,,,,,,

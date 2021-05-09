@@ -1,0 +1,13 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,85,mmu-miR-409-3p,Slc16a7,"solute carrier family 16 (monocarboxylic acid transporters), member 7",ENSMUSG00000020102.15,Slc16a7,1.5807278,2.50103e-09
+,wt_d1338,,,,,,,,,,87,mmu-miR-409-3p,Fam135a,"family with sequence similarity 135, member A",ENSMUSG00000026153.15,Fam135a,1.5566404,4.16653e-14
+,wt_d1338,,,,,,,,,,81,mmu-miR-409-3p,Plpp3,phospholipid phosphatase 3,ENSMUSG00000028517.8,Plpp3,-1.759629,5.42981e-60
+,wt_d1338,,,,,,,,,,83,mmu-miR-409-3p,Slc7a2,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 2",ENSMUSG00000031596.15,Slc7a2,-2.1538389,1.39212e-43
+,mf_d1338,,,,,,,,,,81,mmu-miR-409-3p,Scimp,SLP adaptor and CSK interacting membrane protein,ENSMUSG00000057135.12,Scimp,21.136496,1.02506e-06
+,mf_d1338,,,,,,,,,,85,mmu-miR-409-3p,Dclk1,doublecortin-like kinase 1,ENSMUSG00000027797.15,Dclk1,15.185786,0.029874759
+,mf_d1338,,,,,,,,,,81,mmu-miR-409-3p,Plpp3,phospholipid phosphatase 3,ENSMUSG00000028517.8,Plpp3,8.107046,0.000297698
+,mf_d1338,,,,,,,,,,83,mmu-miR-409-3p,Slc7a2,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 2",ENSMUSG00000031596.15,Slc7a2,6.0004177,0.028333687
+,mf_wt,,,,,,,,,,83,mmu-miR-409-3p,Slc7a2,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 2",ENSMUSG00000031596.15,Slc7a2,20.260065,8.61299e-09
+,mf_wt,,,,,,,,,,81,mmu-miR-409-3p,Plpp3,phospholipid phosphatase 3,ENSMUSG00000028517.8,Plpp3,13.127325,5.72823e-12
+,mf_wt,,,,,,,,,,88,mmu-miR-409-3p,Rcor2,REST corepressor 2,ENSMUSG00000024968.14,Rcor2,8.435598,2.9457e-05
+,mf_wt,,,,,,,,,,81,mmu-miR-409-3p,Mrpl57,mitochondrial ribosomal protein L57,ENSMUSG00000021967.4,Mrpl57,0.23343953,9.43481e-19

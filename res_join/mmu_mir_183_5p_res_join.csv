@@ -1,0 +1,37 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,85,mmu-miR-183-5p,Ppm1e,protein phosphatase 1E (PP2C domain containing),ENSMUSG00000046442.4,Ppm1e,2.6911047,3.82137e-06
+mf_wt,wt_d1338,Idh2,Idh2,ENSMUST00000107384.4,"isocitrate dehydrogenase 2 (NADP+), mitochondrial ",mmu-miR-183-5p,-0.6,ENSMUSG00000030541.16,0.1859179,2.03142e-19,92,mmu-miR-183-5p,Idh2,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",ENSMUSG00000030541.16,Idh2,2.611624,1.9991e-99
+wt_d1338,wt_d1338,Idh2,Idh2,ENSMUST00000107384.4,"isocitrate dehydrogenase 2 (NADP+), mitochondrial ",mmu-miR-183-5p,-0.6,ENSMUSG00000030541.16,2.611624,1.9991e-99,92,mmu-miR-183-5p,Idh2,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",ENSMUSG00000030541.16,Idh2,2.611624,1.9991e-99
+,wt_d1338,,,,,,,,,,80,mmu-miR-183-5p,Trim2,tripartite motif-containing 2,ENSMUSG00000027993.16,Trim2,2.1923969,2.38475e-05
+wt_d1338,wt_d1338,Ctdspl,Ctdspl,ENSMUST00000073109.6,"CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like ",mmu-miR-183-5p,-0.4,ENSMUSG00000047409.13,2.1678064,3.716e-10,93,mmu-miR-183-5p,Ctdspl,"CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like",ENSMUSG00000047409.13,Ctdspl,2.1678064,3.716e-10
+,wt_d1338,,,,,,,,,,82,mmu-miR-183-5p,Cnr2,cannabinoid receptor 2 (macrophage),ENSMUSG00000062585.11,Cnr2,1.9797155,4.35275e-07
+mf_d1338,wt_d1338,Unc13b,Unc13b,ENSMUST00000079978.7,unc-13 homolog B (C. elegans) ,mmu-miR-183-5p,-0.64,ENSMUSG00000028456.18,0.21601471,0.031094772,100,mmu-miR-183-5p,Unc13b,unc-13 homolog B,ENSMUSG00000028456.18,Unc13b,1.6727734,1.22697e-09
+wt_d1338,wt_d1338,Unc13b,Unc13b,ENSMUST00000079978.7,unc-13 homolog B (C. elegans) ,mmu-miR-183-5p,-0.64,ENSMUSG00000028456.18,1.6727734,1.22697e-09,100,mmu-miR-183-5p,Unc13b,unc-13 homolog B,ENSMUSG00000028456.18,Unc13b,1.6727734,1.22697e-09
+,wt_d1338,,,,,,,,,,80,mmu-miR-183-5p,Flrt3,fibronectin leucine rich transmembrane protein 3,ENSMUSG00000051379.12,Flrt3,1.6704895,0.001032025
+,wt_d1338,,,,,,,,,,89,mmu-miR-183-5p,Gng4,"guanine nucleotide binding protein (G protein), gamma 4",ENSMUSG00000021303.14,Gng4,-1.5029591,0.024720979
+,wt_d1338,,,,,,,,,,82,mmu-miR-183-5p,Samd4,sterile alpha motif domain containing 4,ENSMUSG00000021838.17,Samd4,-1.5511682,0.003740926
+,wt_d1338,,,,,,,,,,91,mmu-miR-183-5p,Atp2b4,"ATPase, Ca++ transporting, plasma membrane 4",ENSMUSG00000026463.17,Atp2b4,-1.6203853,4.23193e-34
+,wt_d1338,,,,,,,,,,83,mmu-miR-183-5p,Cd3d,"CD3 antigen, delta polypeptide",ENSMUSG00000032094.8,Cd3d,-1.9834012,2.93558e-10
+,wt_d1338,,,,,,,,,,81,mmu-miR-183-5p,Sema3e,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E",ENSMUSG00000063531.7,Sema3e,-4.3594503,6.2725e-05
+mf_d1338,mf_d1338,Grem2,Grem2,ENSMUST00000055294.3,"gremlin 2 homolog, cysteine knot superfamily (Xenopus laevis) ",mmu-miR-183-5p,-0.41,ENSMUSG00000050069.3,86.15537,0.000373456,82,mmu-miR-183-5p,Grem2,"gremlin 2, DAN family BMP antagonist",ENSMUSG00000050069.3,Grem2,86.15537,0.000373456
+,mf_d1338,,,,,,,,,,92,mmu-miR-183-5p,Enah,ENAH actin regulator,ENSMUSG00000022995.16,Enah,10.160637,0.01277775
+mf_d1338,mf_d1338,Unc13b,Unc13b,ENSMUST00000079978.7,unc-13 homolog B (C. elegans) ,mmu-miR-183-5p,-0.64,ENSMUSG00000028456.18,0.21601471,0.031094772,100,mmu-miR-183-5p,Unc13b,unc-13 homolog B,ENSMUSG00000028456.18,Unc13b,0.21601471,0.031094772
+wt_d1338,mf_d1338,Unc13b,Unc13b,ENSMUST00000079978.7,unc-13 homolog B (C. elegans) ,mmu-miR-183-5p,-0.64,ENSMUSG00000028456.18,1.6727734,1.22697e-09,100,mmu-miR-183-5p,Unc13b,unc-13 homolog B,ENSMUSG00000028456.18,Unc13b,0.21601471,0.031094772
+,mf_d1338,,,,,,,,,,85,mmu-miR-183-5p,Ppm1e,protein phosphatase 1E (PP2C domain containing),ENSMUSG00000046442.4,Ppm1e,0.061890874,0.004063007
+,mf_wt,,,,,,,,,,81,mmu-miR-183-5p,Sema3e,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E",ENSMUSG00000063531.7,Sema3e,61.19688,9.58918e-05
+,mf_wt,,,,,,,,,,92,mmu-miR-183-5p,Osbpl8,oxysterol binding protein-like 8,ENSMUSG00000020189.15,Osbpl8,6.433773,2.40391e-12
+,mf_wt,,,,,,,,,,84,mmu-miR-183-5p,Nrp2,neuropilin 2,ENSMUSG00000025969.15,Nrp2,6.414652,4.37064e-15
+mf_wt,mf_wt,Frmd6,Frmd6,ENSMUST00000057859.7,FERM domain containing 6 ,mmu-miR-183-5p,-0.48,ENSMUSG00000048285.9,5.21253,6.56075e-20,97,mmu-miR-183-5p,Frmd6,FERM domain containing 6,ENSMUSG00000048285.9,Frmd6,5.21253,6.56075e-20
+,mf_wt,,,,,,,,,,88,mmu-miR-183-5p,Atm,ataxia telangiectasia mutated,ENSMUSG00000034218.16,Atm,4.936827,3.57789e-06
+,mf_wt,,,,,,,,,,90,mmu-miR-183-5p,Dmxl1,Dmx-like 1,ENSMUSG00000037416.13,Dmxl1,4.8044386,6.41729e-28
+,mf_wt,,,,,,,,,,85,mmu-miR-183-5p,Rpia,ribose 5-phosphate isomerase A,ENSMUSG00000053604.5,Rpia,0.21431015,2.16315e-20
+mf_wt,mf_wt,Idh2,Idh2,ENSMUST00000107384.4,"isocitrate dehydrogenase 2 (NADP+), mitochondrial ",mmu-miR-183-5p,-0.6,ENSMUSG00000030541.16,0.1859179,2.03142e-19,92,mmu-miR-183-5p,Idh2,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",ENSMUSG00000030541.16,Idh2,0.1859179,2.03142e-19
+wt_d1338,mf_wt,Idh2,Idh2,ENSMUST00000107384.4,"isocitrate dehydrogenase 2 (NADP+), mitochondrial ",mmu-miR-183-5p,-0.6,ENSMUSG00000030541.16,2.611624,1.9991e-99,92,mmu-miR-183-5p,Idh2,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",ENSMUSG00000030541.16,Idh2,0.1859179,2.03142e-19
+,mf_wt,,,,,,,,,,85,mmu-miR-183-5p,Ppm1e,protein phosphatase 1E (PP2C domain containing),ENSMUSG00000046442.4,Ppm1e,0.057298105,2.42175e-07
+wt_d1338,,Tmem150a,Tmem150a,ENSMUST00000132243.1,transmembrane protein 150A ,mmu-miR-183-5p,-0.53,ENSMUSG00000055912.8,2.5255647,8.12637e-18,,,,,,,,
+mf_wt,,Plekha5,Plekha5,ENSMUST00000087622.3,"pleckstrin homology domain containing, family A member 5 ",mmu-miR-183-5p,-0.46,ENSMUSG00000030231.11,8.728998,4.69597e-13,,,,,,,,
+mf_d1338,,Plekha5,Plekha5,ENSMUST00000087622.3,"pleckstrin homology domain containing, family A member 5 ",mmu-miR-183-5p,-0.46,ENSMUSG00000030231.11,4.7858515,0.011871939,,,,,,,,
+wt_d1338,,Cx3cl1,Cx3cl1,ENSMUST00000034230.5,chemokine (C-X3-C motif) ligand 1 ,mmu-miR-183-5p,-0.4,ENSMUSG00000031778.13,1.8593667,0.015524369,,,,,,,,
+wt_d1338,,Hectd2,Hectd2,ENSMUST00000047247.6,HECT domain containing 2 ,mmu-miR-183-5p,-0.43,ENSMUSG00000041180.13,1.6424818,3.69441e-08,,,,,,,,
+wt_d1338,,Btg1,Btg1,ENSMUST00000038377.7,"B cell translocation gene 1, anti-proliferative ",mmu-miR-183-5p,-0.68,ENSMUSG00000036478.8,-1.5864989,1.9961e-160,,,,,,,,
+mf_wt,,Ap3m1,Ap3m1,ENSMUST00000154460.2,"adaptor-related protein complex 3, mu 1 subunit ",mmu-miR-183-5p,-0.4,ENSMUSG00000021824.13,6.044366,6.71362e-28,,,,,,,,

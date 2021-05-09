@@ -1,0 +1,134 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,88,mmu-miR-96-5p,Ppbp,pro-platelet basic protein,ENSMUSG00000029372.7,Ppbp,4.330742,5.54047e-44
+,wt_d1338,,,,,,,,,,86,mmu-miR-96-5p,Pard3b,par-3 family cell polarity regulator beta,ENSMUSG00000052062.14,Pard3b,3.4862664,2.54499e-08
+,wt_d1338,,,,,,,,,,84,mmu-miR-96-5p,Deptor,DEP domain containing MTOR-interacting protein,ENSMUSG00000022419.16,Deptor,2.949018,3.03414e-29
+,wt_d1338,,,,,,,,,,87,mmu-miR-96-5p,Camkk2,"calcium/calmodulin-dependent protein kinase kinase 2, beta",ENSMUSG00000029471.13,Camkk2,2.9079905,2.96697e-86
+mf_wt,wt_d1338,Foxq1,Foxq1,ENSMUST00000042118.9,forkhead box Q1 ,mmu-miR-96-5p,-0.57,ENSMUSG00000038415.10,0.08525521,1.09025e-05,95,mmu-miR-96-5p,Foxq1,forkhead box Q1,ENSMUSG00000038415.10,Foxq1,2.81121,0.000576452
+wt_d1338,wt_d1338,Foxq1,Foxq1,ENSMUST00000042118.9,forkhead box Q1 ,mmu-miR-96-5p,-0.57,ENSMUSG00000038415.10,2.81121,0.000576452,95,mmu-miR-96-5p,Foxq1,forkhead box Q1,ENSMUSG00000038415.10,Foxq1,2.81121,0.000576452
+,wt_d1338,,,,,,,,,,85,mmu-miR-96-5p,Vangl2,VANGL planar cell polarity 2,ENSMUSG00000026556.15,Vangl2,2.74762,1.9671e-07
+,wt_d1338,,,,,,,,,,87,mmu-miR-96-5p,Olfm1,olfactomedin 1,ENSMUSG00000026833.18,Olfm1,2.6780128,2.1087e-153
+wt_d1338,wt_d1338,Serpinb2,Serpinb2,ENSMUST00000009356.5,"serine (or cysteine) peptidase inhibitor, clade B, member 2 ",mmu-miR-96-5p,-0.49,ENSMUSG00000062345.10,2.6631632,1.52511e-38,95,mmu-miR-96-5p,Serpinb2,"serine (or cysteine) peptidase inhibitor, clade B, member 2",ENSMUSG00000062345.10,Serpinb2,2.6631632,1.52511e-38
+mf_wt,wt_d1338,Ntn4,Ntn4,ENSMUST00000020204.4,netrin 4 ,mmu-miR-96-5p,-0.62,ENSMUSG00000020019.4,0.1531355,0.023459446,97,mmu-miR-96-5p,Ntn4,netrin 4,ENSMUSG00000020019.4,Ntn4,2.5042953,0.016691286
+wt_d1338,wt_d1338,Ntn4,Ntn4,ENSMUST00000020204.4,netrin 4 ,mmu-miR-96-5p,-0.62,ENSMUSG00000020019.4,2.5042953,0.016691286,97,mmu-miR-96-5p,Ntn4,netrin 4,ENSMUSG00000020019.4,Ntn4,2.5042953,0.016691286
+,wt_d1338,,,,,,,,,,82,mmu-miR-96-5p,Fam43a,"family with sequence similarity 43, member A",ENSMUSG00000046546.3,Fam43a,2.3380256,1.7273e-39
+mf_wt,wt_d1338,Lrrc3,Lrrc3,ENSMUST00000057608.4,leucine rich repeat containing 3 ,mmu-miR-96-5p,-0.52,ENSMUSG00000051652.4,0.11950561,8.41239e-07,84,mmu-miR-96-5p,Lrrc3,leucine rich repeat containing 3,ENSMUSG00000051652.4,Lrrc3,2.320725,3.57718e-06
+wt_d1338,wt_d1338,Lrrc3,Lrrc3,ENSMUST00000057608.4,leucine rich repeat containing 3 ,mmu-miR-96-5p,-0.52,ENSMUSG00000051652.4,2.320725,3.57718e-06,84,mmu-miR-96-5p,Lrrc3,leucine rich repeat containing 3,ENSMUSG00000051652.4,Lrrc3,2.320725,3.57718e-06
+,wt_d1338,,,,,,,,,,93,mmu-miR-96-5p,Slc16a9,"solute carrier family 16 (monocarboxylic acid transporters), member 9",ENSMUSG00000037762.6,Slc16a9,2.184955,1.37581e-13
+,wt_d1338,,,,,,,,,,82,mmu-miR-96-5p,Sort1,sortilin 1,ENSMUSG00000068747.14,Sort1,2.0671551,1.02701e-71
+,wt_d1338,,,,,,,,,,82,mmu-miR-96-5p,Celsr2,"cadherin, EGF LAG seven-pass G-type receptor 2",ENSMUSG00000068740.13,Celsr2,2.0626996,0.008913037
+,wt_d1338,,,,,,,,,,91,mmu-miR-96-5p,Uck2,uridine-cytidine kinase 2,ENSMUSG00000026558.13,Uck2,1.9961187,4.15732e-17
+,wt_d1338,,,,,,,,,,95,mmu-miR-96-5p,Ahr,aryl-hydrocarbon receptor,ENSMUSG00000019256.17,Ahr,1.9678265,2.81526e-21
+,wt_d1338,,,,,,,,,,84,mmu-miR-96-5p,Reps2,RALBP1 associated Eps domain containing protein 2,ENSMUSG00000040855.15,Reps2,1.9631511,8.05665e-05
+,wt_d1338,,,,,,,,,,89,mmu-miR-96-5p,Epb41l3,erythrocyte membrane protein band 4.1 like 3,ENSMUSG00000024044.19,Epb41l3,1.9622568,5.85543e-19
+,wt_d1338,,,,,,,,,,81,mmu-miR-96-5p,Adgrl2,adhesion G protein-coupled receptor L2,ENSMUSG00000028184.12,Adgrl2,1.8003387,1.26328e-14
+mf_wt,wt_d1338,Rgs2,Rgs2,ENSMUST00000127206.2,regulator of G-protein signaling 2 ,mmu-miR-96-5p,-0.59,ENSMUSG00000026360.9,0.05254826,2.0345e-08,83,mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,1.7544854,1.99981e-11
+mf_d1338,wt_d1338,Rgs2,Rgs2,ENSMUST00000127206.2,regulator of G-protein signaling 2 ,mmu-miR-96-5p,-0.59,ENSMUSG00000026360.9,0.09542484,0.001065973,83,mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,1.7544854,1.99981e-11
+wt_d1338,wt_d1338,Rgs2,Rgs2,ENSMUST00000127206.2,regulator of G-protein signaling 2 ,mmu-miR-96-5p,-0.59,ENSMUSG00000026360.9,1.7544854,1.99981e-11,83,mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,1.7544854,1.99981e-11
+wt_d1338,wt_d1338,Ttyh3,Ttyh3,ENSMUST00000042661.3,tweety homolog 3 (Drosophila) ,mmu-miR-96-5p,-0.44,ENSMUSG00000036565.7,1.7079923,7.69506e-20,98,mmu-miR-96-5p,Ttyh3,tweety family member 3,ENSMUSG00000036565.7,Ttyh3,1.7079923,7.69506e-20
+wt_d1338,wt_d1338,Sox5,Sox5,ENSMUST00000111748.2,SRY (sex determining region Y)-box 5 ,mmu-miR-96-5p,-0.47,ENSMUSG00000041540.16,1.6654336,0.002384457,85,mmu-miR-96-5p,Sox5,SRY (sex determining region Y)-box 5,ENSMUSG00000041540.16,Sox5,1.6654336,0.002384457
+,wt_d1338,,,,,,,,,,82,mmu-miR-96-5p,Igf2bp1,insulin-like growth factor 2 mRNA binding protein 1,ENSMUSG00000013415.9,Igf2bp1,1.6643767,1.12996e-21
+wt_d1338,wt_d1338,Slc6a9,Slc6a9,ENSMUST00000030269.8,"solute carrier family 6 (neurotransmitter transporter, glycine), member 9 ",mmu-miR-96-5p,-0.5,ENSMUSG00000028542.17,1.6587117,1.28566e-10,98,mmu-miR-96-5p,Slc6a9,"solute carrier family 6 (neurotransmitter transporter, glycine), member 9",ENSMUSG00000028542.17,Slc6a9,1.6587117,1.28566e-10
+,wt_d1338,,,,,,,,,,85,mmu-miR-96-5p,Tarbp1,TAR RNA binding protein 1,ENSMUSG00000090290.2,Tarbp1,1.5433986,1.09705e-17
+,wt_d1338,,,,,,,,,,81,mmu-miR-96-5p,Ednrb,endothelin receptor type B,ENSMUSG00000022122.15,Ednrb,1.5299419,4.1898e-143
+,wt_d1338,,,,,,,,,,81,mmu-miR-96-5p,Slc12a5,"solute carrier family 12, member 5",ENSMUSG00000017740.17,Slc12a5,1.5292381,1.29932e-06
+wt_d1338,wt_d1338,Sh3bp5,Sh3bp5,ENSMUST00000100730.4,SH3-domain binding protein 5 (BTK-associated) ,mmu-miR-96-5p,-0.47,ENSMUSG00000021892.14,1.5192605,6.92027e-33,85,mmu-miR-96-5p,Sh3bp5,SH3-domain binding protein 5 (BTK-associated),ENSMUSG00000021892.14,Sh3bp5,1.5192605,6.92027e-33
+,wt_d1338,,,,,,,,,,87,mmu-miR-96-5p,Gcnt1,"glucosaminyl (N-acetyl) transferase 1, core 2",ENSMUSG00000038843.18,Gcnt1,1.5118853,6.30248e-13
+wt_d1338,wt_d1338,Tsku,Tsku,ENSMUST00000165257.2,tsukushi ,mmu-miR-96-5p,-0.47,ENSMUSG00000049580.12,1.5030104,6.46938e-50,97,mmu-miR-96-5p,Tsku,"tsukushi, small leucine rich proteoglycan",ENSMUSG00000049580.12,Tsku,1.5030104,6.46938e-50
+mf_wt,wt_d1338,Slc12a6,Slc12a6,ENSMUST00000028549.8,"solute carrier family 12, member 6 ",mmu-miR-96-5p,-0.45,ENSMUSG00000096764.1,367.3522,1.36258e-13,95,mmu-miR-96-5p,Slc12a6,"solute carrier family 12, member 6",ENSMUSG00000096764.1,Slc12a6,-1.6085275,5.27564e-05
+wt_d1338,wt_d1338,Slc12a6,Slc12a6,ENSMUST00000028549.8,"solute carrier family 12, member 6 ",mmu-miR-96-5p,-0.45,ENSMUSG00000096764.1,-1.6085275,5.27564e-05,95,mmu-miR-96-5p,Slc12a6,"solute carrier family 12, member 6",ENSMUSG00000096764.1,Slc12a6,-1.6085275,5.27564e-05
+,wt_d1338,,,,,,,,,,88,mmu-miR-96-5p,Nanos1,nanos C2HC-type zinc finger 1,ENSMUSG00000072437.4,Nanos1,-1.7668561,0.008075571
+,wt_d1338,,,,,,,,,,96,mmu-miR-96-5p,Pde8b,phosphodiesterase 8B,ENSMUSG00000021684.17,Pde8b,-1.9191025,9.72909e-15
+mf_wt,wt_d1338,Prrx1,Prrx1,ENSMUST00000075805.7,paired related homeobox 1 ,mmu-miR-96-5p,-0.47,ENSMUSG00000026586.16,4.234698,7.76947e-05,89,mmu-miR-96-5p,Prrx1,paired related homeobox 1,ENSMUSG00000026586.16,Prrx1,-1.9865,2.35867e-05
+mf_d1338,wt_d1338,Prrx1,Prrx1,ENSMUST00000075805.7,paired related homeobox 1 ,mmu-miR-96-5p,-0.47,ENSMUSG00000026586.16,7.3707433,0.004047565,89,mmu-miR-96-5p,Prrx1,paired related homeobox 1,ENSMUSG00000026586.16,Prrx1,-1.9865,2.35867e-05
+wt_d1338,wt_d1338,Prrx1,Prrx1,ENSMUST00000075805.7,paired related homeobox 1 ,mmu-miR-96-5p,-0.47,ENSMUSG00000026586.16,-1.9865,2.35867e-05,89,mmu-miR-96-5p,Prrx1,paired related homeobox 1,ENSMUSG00000026586.16,Prrx1,-1.9865,2.35867e-05
+,wt_d1338,,,,,,,,,,84,mmu-miR-96-5p,Slco3a1,"solute carrier organic anion transporter family, member 3a1",ENSMUSG00000025790.14,Slco3a1,-2.0547116,4.05741e-78
+,wt_d1338,,,,,,,,,,89,mmu-miR-96-5p,Rundc3b,RUN domain containing 3B,ENSMUSG00000040570.14,Rundc3b,-2.0895534,0.001431057
+,wt_d1338,,,,,,,,,,92,mmu-miR-96-5p,Celsr1,"cadherin, EGF LAG seven-pass G-type receptor 1",ENSMUSG00000016028.10,Celsr1,-2.2352169,1.11524e-06
+mf_wt,wt_d1338,Hbegf,Hbegf,ENSMUST00000025363.5,heparin-binding EGF-like growth factor ,mmu-miR-96-5p,-0.52,ENSMUSG00000024486.6,12.590953,2.37534e-21,95,mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,-2.2722616,6.87939e-22
+mf_d1338,wt_d1338,Hbegf,Hbegf,ENSMUST00000025363.5,heparin-binding EGF-like growth factor ,mmu-miR-96-5p,-0.52,ENSMUSG00000024486.6,29.866495,5.52e-17,95,mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,-2.2722616,6.87939e-22
+wt_d1338,wt_d1338,Hbegf,Hbegf,ENSMUST00000025363.5,heparin-binding EGF-like growth factor ,mmu-miR-96-5p,-0.52,ENSMUSG00000024486.6,-2.2722616,6.87939e-22,95,mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,-2.2722616,6.87939e-22
+,wt_d1338,,,,,,,,,,83,mmu-miR-96-5p,Bnip3,BCL2/adenovirus E1B interacting protein 3,ENSMUSG00000078566.8,Bnip3,-2.277343,1.52851e-37
+,wt_d1338,,,,,,,,,,84,mmu-miR-96-5p,Slc38a4,"solute carrier family 38, member 4",ENSMUSG00000022464.14,Slc38a4,-2.300892,0.001922114
+,wt_d1338,,,,,,,,,,92,mmu-miR-96-5p,Abhd18,abhydrolase domain containing 18,ENSMUSG00000037818.16,Abhd18,-2.5933652,4.01317e-28
+,wt_d1338,,,,,,,,,,94,mmu-miR-96-5p,St6galnac3,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3",ENSMUSG00000052544.9,St6galnac3,-2.662832,0.003986472
+mf_wt,wt_d1338,Farp1,Farp1,ENSMUST00000026635.7,"FERM, RhoGEF (Arhgef) and pleckstrin domain protein 1 (chondrocyte-derived) ",mmu-miR-96-5p,-0.5,ENSMUSG00000025555.14,10.585465,2.45668e-05,93,mmu-miR-96-5p,Farp1,"FERM, RhoGEF (Arhgef) and pleckstrin domain protein 1 (chondrocyte-derived)",ENSMUSG00000025555.14,Farp1,-2.688648,3.02392e-07
+wt_d1338,wt_d1338,Farp1,Farp1,ENSMUST00000026635.7,"FERM, RhoGEF (Arhgef) and pleckstrin domain protein 1 (chondrocyte-derived) ",mmu-miR-96-5p,-0.5,ENSMUSG00000025555.14,-2.688648,3.02392e-07,93,mmu-miR-96-5p,Farp1,"FERM, RhoGEF (Arhgef) and pleckstrin domain protein 1 (chondrocyte-derived)",ENSMUSG00000025555.14,Farp1,-2.688648,3.02392e-07
+,wt_d1338,,,,,,,,,,83,mmu-miR-96-5p,H2-Q1,"histocompatibility 2, Q region locus 1",ENSMUSG00000079507.10,H2-Q1,-2.8023396,1.09723e-07
+,wt_d1338,,,,,,,,,,95,mmu-miR-96-5p,Cnn3,"calponin 3, acidic",ENSMUSG00000053931.11,Cnn3,-3.5920794,1.5985e-238
+wt_d1338,wt_d1338,Trib3,Trib3,ENSMUST00000040312.6,tribbles homolog 3 (Drosophila) ,mmu-miR-96-5p,-0.52,ENSMUSG00000032715.9,-3.610622,1.2974e-78,95,mmu-miR-96-5p,Trib3,tribbles pseudokinase 3,ENSMUSG00000032715.9,Trib3,-3.610622,1.2974e-78
+,wt_d1338,,,,,,,,,,94,mmu-miR-96-5p,Plod2,"procollagen lysine, 2-oxoglutarate 5-dioxygenase 2",ENSMUSG00000032374.14,Plod2,-4.092765,1.924e-119
+,mf_d1338,,,,,,,,,,93,mmu-miR-96-5p,Has2,hyaluronan synthase 2,ENSMUSG00000022367.7,Has2,77.35794,0.010373781
+mf_wt,mf_d1338,Hbegf,Hbegf,ENSMUST00000025363.5,heparin-binding EGF-like growth factor ,mmu-miR-96-5p,-0.52,ENSMUSG00000024486.6,12.590953,2.37534e-21,95,mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,29.866495,5.52e-17
+mf_d1338,mf_d1338,Hbegf,Hbegf,ENSMUST00000025363.5,heparin-binding EGF-like growth factor ,mmu-miR-96-5p,-0.52,ENSMUSG00000024486.6,29.866495,5.52e-17,95,mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,29.866495,5.52e-17
+wt_d1338,mf_d1338,Hbegf,Hbegf,ENSMUST00000025363.5,heparin-binding EGF-like growth factor ,mmu-miR-96-5p,-0.52,ENSMUSG00000024486.6,-2.2722616,6.87939e-22,95,mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,29.866495,5.52e-17
+,mf_d1338,,,,,,,,,,85,mmu-miR-96-5p,Inava,innate immunity activator,ENSMUSG00000041605.16,Inava,17.35758,0.031286414
+,mf_d1338,,,,,,,,,,90,mmu-miR-96-5p,Adgra2,adhesion G protein-coupled receptor A2,ENSMUSG00000031486.15,Adgra2,17.088104,0.022902363
+,mf_d1338,,,,,,,,,,84,mmu-miR-96-5p,Slco3a1,"solute carrier organic anion transporter family, member 3a1",ENSMUSG00000025790.14,Slco3a1,11.04612,1.72848e-05
+,mf_d1338,,,,,,,,,,87,mmu-miR-96-5p,Lrig1,leucine-rich repeats and immunoglobulin-like domains 1,ENSMUSG00000030029.14,Lrig1,9.912486,0.024014298
+mf_wt,mf_d1338,Prrx1,Prrx1,ENSMUST00000075805.7,paired related homeobox 1 ,mmu-miR-96-5p,-0.47,ENSMUSG00000026586.16,4.234698,7.76947e-05,89,mmu-miR-96-5p,Prrx1,paired related homeobox 1,ENSMUSG00000026586.16,Prrx1,7.3707433,0.004047565
+mf_d1338,mf_d1338,Prrx1,Prrx1,ENSMUST00000075805.7,paired related homeobox 1 ,mmu-miR-96-5p,-0.47,ENSMUSG00000026586.16,7.3707433,0.004047565,89,mmu-miR-96-5p,Prrx1,paired related homeobox 1,ENSMUSG00000026586.16,Prrx1,7.3707433,0.004047565
+wt_d1338,mf_d1338,Prrx1,Prrx1,ENSMUST00000075805.7,paired related homeobox 1 ,mmu-miR-96-5p,-0.47,ENSMUSG00000026586.16,-1.9865,2.35867e-05,89,mmu-miR-96-5p,Prrx1,paired related homeobox 1,ENSMUSG00000026586.16,Prrx1,7.3707433,0.004047565
+,mf_d1338,,,,,,,,,,81,mmu-miR-96-5p,Itga3,integrin alpha 3,ENSMUSG00000001507.16,Itga3,6.644418,0.013444616
+,mf_d1338,,,,,,,,,,98,mmu-miR-96-5p,Palld,"palladin, cytoskeletal associated protein",ENSMUSG00000058056.16,Palld,6.543422,8.71218e-11
+,mf_d1338,,,,,,,,,,95,mmu-miR-96-5p,Bcr,breakpoint cluster region,ENSMUSG00000009681.10,Bcr,4.9732203,1.39788e-05
+,mf_d1338,,,,,,,,,,86,mmu-miR-96-5p,Slc7a8,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 8",ENSMUSG00000022180.7,Slc7a8,4.3369246,0.004559394
+,mf_d1338,,,,,,,,,,81,mmu-miR-96-5p,Mfap3l,microfibrillar-associated protein 3-like,ENSMUSG00000031647.10,Mfap3l,4.3328733,0.001115116
+,mf_d1338,,,,,,,,,,90,mmu-miR-96-5p,Tnfrsf1b,"tumor necrosis factor receptor superfamily, member 1b",ENSMUSG00000028599.10,Tnfrsf1b,4.203112,0.001339069
+,mf_d1338,,,,,,,,,,82,mmu-miR-96-5p,Sort1,sortilin 1,ENSMUSG00000068747.14,Sort1,0.24970484,0.000506706
+,mf_d1338,,,,,,,,,,81,mmu-miR-96-5p,Slc12a5,"solute carrier family 12, member 5",ENSMUSG00000017740.17,Slc12a5,0.24574924,0.018617283
+,mf_d1338,,,,,,,,,,88,mmu-miR-96-5p,Kif19a,kinesin family member 19A,ENSMUSG00000010021.13,Kif19a,0.2361867,0.043195908
+mf_d1338,mf_d1338,Adcy6,Adcy6,ENSMUST00000096224.4,adenylate cyclase 6 ,mmu-miR-96-5p,-0.58,ENSMUSG00000022994.9,0.2297701,0.007001797,99,mmu-miR-96-5p,Adcy6,adenylate cyclase 6,ENSMUSG00000022994.9,Adcy6,0.2297701,0.007001797
+,mf_d1338,,,,,,,,,,84,mmu-miR-96-5p,Reps2,RALBP1 associated Eps domain containing protein 2,ENSMUSG00000040855.15,Reps2,0.19422607,0.036471662
+,mf_d1338,,,,,,,,,,95,mmu-miR-96-5p,Fam171a1,"family with sequence similarity 171, member A1",ENSMUSG00000050530.14,Fam171a1,0.13810617,0.004040881
+,mf_d1338,,,,,,,,,,81,mmu-miR-96-5p,Ednrb,endothelin receptor type B,ENSMUSG00000022122.15,Ednrb,0.11992334,2.01004e-10
+mf_wt,mf_d1338,Rgs2,Rgs2,ENSMUST00000127206.2,regulator of G-protein signaling 2 ,mmu-miR-96-5p,-0.59,ENSMUSG00000026360.9,0.05254826,2.0345e-08,83,mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,0.09542484,0.001065973
+mf_d1338,mf_d1338,Rgs2,Rgs2,ENSMUST00000127206.2,regulator of G-protein signaling 2 ,mmu-miR-96-5p,-0.59,ENSMUSG00000026360.9,0.09542484,0.001065973,83,mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,0.09542484,0.001065973
+wt_d1338,mf_d1338,Rgs2,Rgs2,ENSMUST00000127206.2,regulator of G-protein signaling 2 ,mmu-miR-96-5p,-0.59,ENSMUSG00000026360.9,1.7544854,1.99981e-11,83,mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,0.09542484,0.001065973
+,mf_d1338,,,,,,,,,,84,mmu-miR-96-5p,Deptor,DEP domain containing MTOR-interacting protein,ENSMUSG00000022419.16,Deptor,0.09011155,1.09605e-09
+mf_wt,mf_wt,Slc12a6,Slc12a6,ENSMUST00000028549.8,"solute carrier family 12, member 6 ",mmu-miR-96-5p,-0.45,ENSMUSG00000096764.1,367.3522,1.36258e-13,95,mmu-miR-96-5p,Slc12a6,"solute carrier family 12, member 6",ENSMUSG00000096764.1,Slc12a6,367.3522,1.36258e-13
+wt_d1338,mf_wt,Slc12a6,Slc12a6,ENSMUST00000028549.8,"solute carrier family 12, member 6 ",mmu-miR-96-5p,-0.45,ENSMUSG00000096764.1,-1.6085275,5.27564e-05,95,mmu-miR-96-5p,Slc12a6,"solute carrier family 12, member 6",ENSMUSG00000096764.1,Slc12a6,367.3522,1.36258e-13
+,mf_wt,,,,,,,,,,92,mmu-miR-96-5p,Celsr1,"cadherin, EGF LAG seven-pass G-type receptor 1",ENSMUSG00000016028.10,Celsr1,20.578611,5.73205e-06
+mf_wt,mf_wt,Hbegf,Hbegf,ENSMUST00000025363.5,heparin-binding EGF-like growth factor ,mmu-miR-96-5p,-0.52,ENSMUSG00000024486.6,12.590953,2.37534e-21,95,mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,12.590953,2.37534e-21
+mf_d1338,mf_wt,Hbegf,Hbegf,ENSMUST00000025363.5,heparin-binding EGF-like growth factor ,mmu-miR-96-5p,-0.52,ENSMUSG00000024486.6,29.866495,5.52e-17,95,mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,12.590953,2.37534e-21
+wt_d1338,mf_wt,Hbegf,Hbegf,ENSMUST00000025363.5,heparin-binding EGF-like growth factor ,mmu-miR-96-5p,-0.52,ENSMUSG00000024486.6,-2.2722616,6.87939e-22,95,mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,ENSMUSG00000024486.6,Hbegf,12.590953,2.37534e-21
+,mf_wt,,,,,,,,,,84,mmu-miR-96-5p,Slc38a4,"solute carrier family 38, member 4",ENSMUSG00000022464.14,Slc38a4,11.703803,0.000142425
+mf_wt,mf_wt,Farp1,Farp1,ENSMUST00000026635.7,"FERM, RhoGEF (Arhgef) and pleckstrin domain protein 1 (chondrocyte-derived) ",mmu-miR-96-5p,-0.5,ENSMUSG00000025555.14,10.585465,2.45668e-05,93,mmu-miR-96-5p,Farp1,"FERM, RhoGEF (Arhgef) and pleckstrin domain protein 1 (chondrocyte-derived)",ENSMUSG00000025555.14,Farp1,10.585465,2.45668e-05
+wt_d1338,mf_wt,Farp1,Farp1,ENSMUST00000026635.7,"FERM, RhoGEF (Arhgef) and pleckstrin domain protein 1 (chondrocyte-derived) ",mmu-miR-96-5p,-0.5,ENSMUSG00000025555.14,-2.688648,3.02392e-07,93,mmu-miR-96-5p,Farp1,"FERM, RhoGEF (Arhgef) and pleckstrin domain protein 1 (chondrocyte-derived)",ENSMUSG00000025555.14,Farp1,10.585465,2.45668e-05
+,mf_wt,,,,,,,,,,84,mmu-miR-96-5p,Slco3a1,"solute carrier organic anion transporter family, member 3a1",ENSMUSG00000025790.14,Slco3a1,8.877481,1.28384e-07
+,mf_wt,,,,,,,,,,95,mmu-miR-96-5p,Cnn3,"calponin 3, acidic",ENSMUSG00000053931.11,Cnn3,6.28766,1.25527e-16
+,mf_wt,,,,,,,,,,91,mmu-miR-96-5p,Ankib1,ankyrin repeat and IBR domain containing 1,ENSMUSG00000040351.11,Ankib1,6.148296,2.65423e-63
+,mf_wt,,,,,,,,,,98,mmu-miR-96-5p,Tns3,tensin 3,ENSMUSG00000020422.14,Tns3,5.8486843,5.51533e-36
+,mf_wt,,,,,,,,,,86,mmu-miR-96-5p,Slc7a8,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 8",ENSMUSG00000022180.7,Slc7a8,5.762703,6.3213e-08
+,mf_wt,,,,,,,,,,87,mmu-miR-96-5p,Lrig1,leucine-rich repeats and immunoglobulin-like domains 1,ENSMUSG00000030029.14,Lrig1,5.4169044,0.005476207
+,mf_wt,,,,,,,,,,90,mmu-miR-96-5p,Tnfrsf1b,"tumor necrosis factor receptor superfamily, member 1b",ENSMUSG00000028599.10,Tnfrsf1b,4.9060173,2.74129e-08
+,mf_wt,,,,,,,,,,94,mmu-miR-96-5p,Plod2,"procollagen lysine, 2-oxoglutarate 5-dioxygenase 2",ENSMUSG00000032374.14,Plod2,4.8263445,0.000916887
+,mf_wt,,,,,,,,,,89,mmu-miR-96-5p,Fem1b,feminization 1 homolog b (C. elegans),ENSMUSG00000032244.9,Fem1b,4.6143565,1.67968e-50
+,mf_wt,,,,,,,,,,81,mmu-miR-96-5p,Mfap3l,microfibrillar-associated protein 3-like,ENSMUSG00000031647.10,Mfap3l,4.541962,9.31089e-08
+,mf_wt,,,,,,,,,,81,mmu-miR-96-5p,Itga3,integrin alpha 3,ENSMUSG00000001507.16,Itga3,4.5036607,0.000441507
+,mf_wt,,,,,,,,,,97,mmu-miR-96-5p,Sh3pxd2b,SH3 and PX domains 2B,ENSMUSG00000040711.8,Sh3pxd2b,4.3577743,6.49554e-40
+,mf_wt,,,,,,,,,,82,mmu-miR-96-5p,B3gnt2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",ENSMUSG00000051650.11,B3gnt2,4.2962914,8.02907e-05
+mf_wt,mf_wt,Prrx1,Prrx1,ENSMUST00000075805.7,paired related homeobox 1 ,mmu-miR-96-5p,-0.47,ENSMUSG00000026586.16,4.234698,7.76947e-05,89,mmu-miR-96-5p,Prrx1,paired related homeobox 1,ENSMUSG00000026586.16,Prrx1,4.234698,7.76947e-05
+mf_d1338,mf_wt,Prrx1,Prrx1,ENSMUST00000075805.7,paired related homeobox 1 ,mmu-miR-96-5p,-0.47,ENSMUSG00000026586.16,7.3707433,0.004047565,89,mmu-miR-96-5p,Prrx1,paired related homeobox 1,ENSMUSG00000026586.16,Prrx1,4.234698,7.76947e-05
+wt_d1338,mf_wt,Prrx1,Prrx1,ENSMUST00000075805.7,paired related homeobox 1 ,mmu-miR-96-5p,-0.47,ENSMUSG00000026586.16,-1.9865,2.35867e-05,89,mmu-miR-96-5p,Prrx1,paired related homeobox 1,ENSMUSG00000026586.16,Prrx1,4.234698,7.76947e-05
+,mf_wt,,,,,,,,,,87,mmu-miR-96-5p,Olfm1,olfactomedin 1,ENSMUSG00000026833.18,Olfm1,0.23570313,3.97837e-19
+,mf_wt,,,,,,,,,,87,mmu-miR-96-5p,Camkk2,"calcium/calmodulin-dependent protein kinase kinase 2, beta",ENSMUSG00000029471.13,Camkk2,0.23560254,2.98758e-18
+,mf_wt,,,,,,,,,,90,mmu-miR-96-5p,Adam28,a disintegrin and metallopeptidase domain 28,ENSMUSG00000014725.16,Adam28,0.19838616,1.54136e-05
+,mf_wt,,,,,,,,,,82,mmu-miR-96-5p,Fam43a,"family with sequence similarity 43, member A",ENSMUSG00000046546.3,Fam43a,0.1544825,6.43842e-08
+mf_wt,mf_wt,Ntn4,Ntn4,ENSMUST00000020204.4,netrin 4 ,mmu-miR-96-5p,-0.62,ENSMUSG00000020019.4,0.1531355,0.023459446,97,mmu-miR-96-5p,Ntn4,netrin 4,ENSMUSG00000020019.4,Ntn4,0.1531355,0.023459446
+wt_d1338,mf_wt,Ntn4,Ntn4,ENSMUST00000020204.4,netrin 4 ,mmu-miR-96-5p,-0.62,ENSMUSG00000020019.4,2.5042953,0.016691286,97,mmu-miR-96-5p,Ntn4,netrin 4,ENSMUSG00000020019.4,Ntn4,0.1531355,0.023459446
+,mf_wt,,,,,,,,,,88,mmu-miR-96-5p,Kif19a,kinesin family member 19A,ENSMUSG00000010021.13,Kif19a,0.14441921,1.11481e-09
+mf_wt,mf_wt,Lrrc3,Lrrc3,ENSMUST00000057608.4,leucine rich repeat containing 3 ,mmu-miR-96-5p,-0.52,ENSMUSG00000051652.4,0.11950561,8.41239e-07,84,mmu-miR-96-5p,Lrrc3,leucine rich repeat containing 3,ENSMUSG00000051652.4,Lrrc3,0.11950561,8.41239e-07
+wt_d1338,mf_wt,Lrrc3,Lrrc3,ENSMUST00000057608.4,leucine rich repeat containing 3 ,mmu-miR-96-5p,-0.52,ENSMUSG00000051652.4,2.320725,3.57718e-06,84,mmu-miR-96-5p,Lrrc3,leucine rich repeat containing 3,ENSMUSG00000051652.4,Lrrc3,0.11950561,8.41239e-07
+,mf_wt,,,,,,,,,,86,mmu-miR-96-5p,Pard3b,par-3 family cell polarity regulator beta,ENSMUSG00000052062.14,Pard3b,0.10803811,8.75048e-05
+,mf_wt,,,,,,,,,,84,mmu-miR-96-5p,Deptor,DEP domain containing MTOR-interacting protein,ENSMUSG00000022419.16,Deptor,0.095861465,2.97462e-21
+mf_wt,mf_wt,Foxq1,Foxq1,ENSMUST00000042118.9,forkhead box Q1 ,mmu-miR-96-5p,-0.57,ENSMUSG00000038415.10,0.08525521,1.09025e-05,95,mmu-miR-96-5p,Foxq1,forkhead box Q1,ENSMUSG00000038415.10,Foxq1,0.08525521,1.09025e-05
+wt_d1338,mf_wt,Foxq1,Foxq1,ENSMUST00000042118.9,forkhead box Q1 ,mmu-miR-96-5p,-0.57,ENSMUSG00000038415.10,2.81121,0.000576452,95,mmu-miR-96-5p,Foxq1,forkhead box Q1,ENSMUSG00000038415.10,Foxq1,0.08525521,1.09025e-05
+mf_wt,mf_wt,Rab3c,Rab3c,ENSMUST00000167824.1,"RAB3C, member RAS oncogene family ",mmu-miR-96-5p,-0.4,ENSMUSG00000021700.10,0.06359235,1.06875e-13,99,mmu-miR-96-5p,Rab3c,"RAB3C, member RAS oncogene family",ENSMUSG00000021700.10,Rab3c,0.06359235,1.06875e-13
+mf_wt,mf_wt,Rgs2,Rgs2,ENSMUST00000127206.2,regulator of G-protein signaling 2 ,mmu-miR-96-5p,-0.59,ENSMUSG00000026360.9,0.05254826,2.0345e-08,83,mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,0.05254826,2.0345e-08
+mf_d1338,mf_wt,Rgs2,Rgs2,ENSMUST00000127206.2,regulator of G-protein signaling 2 ,mmu-miR-96-5p,-0.59,ENSMUSG00000026360.9,0.09542484,0.001065973,83,mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,0.05254826,2.0345e-08
+wt_d1338,mf_wt,Rgs2,Rgs2,ENSMUST00000127206.2,regulator of G-protein signaling 2 ,mmu-miR-96-5p,-0.59,ENSMUSG00000026360.9,1.7544854,1.99981e-11,83,mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,ENSMUSG00000026360.9,Rgs2,0.05254826,2.0345e-08
+mf_wt,,Tspan4,Tspan4,ENSMUST00000026585.8,tetraspanin 4 ,mmu-miR-96-5p,-0.54,ENSMUSG00000025511.15,0.16114785,7.19049e-26,,,,,,,,
+wt_d1338,,Rnf183,Rnf183,ENSMUST00000107455.2,ring finger protein 183 ,mmu-miR-96-5p,-0.54,ENSMUSG00000063851.12,-1.6025928,0.019367445,,,,,,,,
+wt_d1338,,Rnf152,Rnf152,ENSMUST00000058688.6,ring finger protein 152 ,mmu-miR-96-5p,-0.42,ENSMUSG00000047496.6,-2.10623,0.035791738,,,,,,,,
+mf_wt,,Htr1b,Htr1b,ENSMUST00000183482.1,5-hydroxytryptamine (serotonin) receptor 1B ,mmu-miR-96-5p,-0.45,ENSMUSG00000049511.5,75.77835,2.72537e-05,,,,,,,,
+wt_d1338,,Htr1b,Htr1b,ENSMUST00000183482.1,5-hydroxytryptamine (serotonin) receptor 1B ,mmu-miR-96-5p,-0.45,ENSMUSG00000049511.5,-4.7675056,6.3786e-06,,,,,,,,

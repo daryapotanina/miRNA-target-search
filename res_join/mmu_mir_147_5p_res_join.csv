@@ -1,0 +1,67 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+wt_d1338,wt_d1338,Ppbp,Ppbp,ENSMUST00000031319.6,pro-platelet basic protein ,mmu-miR-147-5p,-0.45,ENSMUSG00000029372.7,4.330742,5.54047e-44,81,mmu-miR-147-5p,Ppbp,pro-platelet basic protein,ENSMUSG00000029372.7,Ppbp,4.330742,5.54047e-44
+,wt_d1338,,,,,,,,,,86,mmu-miR-147-5p,Robo2,roundabout guidance receptor 2,ENSMUSG00000052516.19,Robo2,2.386207,0.004596091
+,wt_d1338,,,,,,,,,,94,mmu-miR-147-5p,Il1rap,interleukin 1 receptor accessory protein,ENSMUSG00000022514.14,Il1rap,2.1643806,1.08022e-56
+,wt_d1338,,,,,,,,,,83,mmu-miR-147-5p,Tgfb2,"transforming growth factor, beta 2",ENSMUSG00000039239.14,Tgfb2,2.0330248,1.84072e-34
+,wt_d1338,,,,,,,,,,89,mmu-miR-147-5p,Igsf3,"immunoglobulin superfamily, member 3",ENSMUSG00000042035.11,Igsf3,1.8527623,9.88703e-09
+,wt_d1338,,,,,,,,,,92,mmu-miR-147-5p,Ttc41,tetratricopeptide repeat domain 41,ENSMUSG00000044937.15,Ttc41,-1.528947,0.00869991
+,wt_d1338,,,,,,,,,,84,mmu-miR-147-5p,Fam161b,"family with sequence similarity 161, member B",ENSMUSG00000021234.9,Fam161b,-1.5490395,0.000381289
+,wt_d1338,,,,,,,,,,86,mmu-miR-147-5p,Pced1b,PC-esterase domain containing 1B,ENSMUSG00000044250.8,Pced1b,-1.6109811,5.24574e-28
+,wt_d1338,,,,,,,,,,87,mmu-miR-147-5p,Smg6,"Smg-6 homolog, nonsense mediated mRNA decay factor (C. elegans)",ENSMUSG00000038290.15,Smg6,-1.6398958,1.0732e-78
+,wt_d1338,,,,,,,,,,90,mmu-miR-147-5p,1700025G04Rik,RIKEN cDNA 1700025G04 gene,ENSMUSG00000032666.16,1700025G04Rik,-1.7199678,7.29718e-06
+,wt_d1338,,,,,,,,,,88,mmu-miR-147-5p,Otud1,OTU domain containing 1,ENSMUSG00000043415.5,Otud1,-1.78022,1.46161e-25
+,wt_d1338,,,,,,,,,,80,mmu-miR-147-5p,Dtx4,"deltex 4, E3 ubiquitin ligase",ENSMUSG00000039982.8,Dtx4,-1.7960669,6.9838e-148
+,wt_d1338,,,,,,,,,,81,mmu-miR-147-5p,4931428F04Rik,RIKEN cDNA 4931428F04 gene,ENSMUSG00000014837.15,4931428F04Rik,-2.0994418,5.5353e-27
+,wt_d1338,,,,,,,,,,85,mmu-miR-147-5p,Rnf152,ring finger protein 152,ENSMUSG00000047496.6,Rnf152,-2.10623,0.035791738
+mf_wt,wt_d1338,Cd200,Cd200,ENSMUST00000163230.2,CD200 antigen ,mmu-miR-147-5p,-0.48,ENSMUSG00000022661.14,19.326265,2.19209e-63,92,mmu-miR-147-5p,Cd200,CD200 antigen,ENSMUSG00000022661.14,Cd200,-3.1905859,0
+mf_d1338,wt_d1338,Cd200,Cd200,ENSMUST00000163230.2,CD200 antigen ,mmu-miR-147-5p,-0.48,ENSMUSG00000022661.14,10.052778,4.27065e-14,92,mmu-miR-147-5p,Cd200,CD200 antigen,ENSMUSG00000022661.14,Cd200,-3.1905859,0
+wt_d1338,wt_d1338,Cd200,Cd200,ENSMUST00000163230.2,CD200 antigen ,mmu-miR-147-5p,-0.48,ENSMUSG00000022661.14,-3.1905859,0,92,mmu-miR-147-5p,Cd200,CD200 antigen,ENSMUSG00000022661.14,Cd200,-3.1905859,0
+wt_d1338,wt_d1338,Rab33a,Rab33a,ENSMUST00000033430.2,"RAB33A, member RAS oncogene family ",mmu-miR-147-5p,-0.61,ENSMUSG00000031104.2,-4.6136117,1.21534e-15,87,mmu-miR-147-5p,Rab33a,"RAB33A, member RAS oncogene family",ENSMUSG00000031104.2,Rab33a,-4.6136117,1.21534e-15
+,wt_d1338,,,,,,,,,,89,mmu-miR-147-5p,Gbp4,guanylate binding protein 4,ENSMUSG00000079363.7,Gbp4,-6.444429,0
+,mf_d1338,,,,,,,,,,82,mmu-miR-147-5p,Tpm2,"tropomyosin 2, beta",ENSMUSG00000028464.16,Tpm2,24.566425,7.85346e-08
+,mf_d1338,,,,,,,,,,85,mmu-miR-147-5p,Ncam1,neural cell adhesion molecule 1,ENSMUSG00000039542.16,Ncam1,20.250565,0.042764871
+,mf_d1338,,,,,,,,,,87,mmu-miR-147-5p,Pcdh7,protocadherin 7,ENSMUSG00000029108.14,Pcdh7,18.69401,0.000120312
+,mf_d1338,,,,,,,,,,96,mmu-miR-147-5p,Dclk1,doublecortin-like kinase 1,ENSMUSG00000027797.15,Dclk1,15.185786,0.029874759
+mf_d1338,mf_d1338,Tmem98,Tmem98,ENSMUST00000040865.8,transmembrane protein 98 ,mmu-miR-147-5p,-0.72,ENSMUSG00000035413.8,12.019561,0.042771041,96,mmu-miR-147-5p,Tmem98,transmembrane protein 98,ENSMUSG00000035413.8,Tmem98,12.019561,0.042771041
+,mf_d1338,,,,,,,,,,90,mmu-miR-147-5p,Stil,Scl/Tal1 interrupting locus,ENSMUSG00000028718.16,Stil,10.198445,0.022820183
+mf_wt,mf_d1338,Cd200,Cd200,ENSMUST00000163230.2,CD200 antigen ,mmu-miR-147-5p,-0.48,ENSMUSG00000022661.14,19.326265,2.19209e-63,92,mmu-miR-147-5p,Cd200,CD200 antigen,ENSMUSG00000022661.14,Cd200,10.052778,4.27065e-14
+mf_d1338,mf_d1338,Cd200,Cd200,ENSMUST00000163230.2,CD200 antigen ,mmu-miR-147-5p,-0.48,ENSMUSG00000022661.14,10.052778,4.27065e-14,92,mmu-miR-147-5p,Cd200,CD200 antigen,ENSMUSG00000022661.14,Cd200,10.052778,4.27065e-14
+wt_d1338,mf_d1338,Cd200,Cd200,ENSMUST00000163230.2,CD200 antigen ,mmu-miR-147-5p,-0.48,ENSMUSG00000022661.14,-3.1905859,0,92,mmu-miR-147-5p,Cd200,CD200 antigen,ENSMUSG00000022661.14,Cd200,10.052778,4.27065e-14
+,mf_d1338,,,,,,,,,,97,mmu-miR-147-5p,Emp2,epithelial membrane protein 2,ENSMUSG00000022505.9,Emp2,7.0285974,0.002510136
+,mf_d1338,,,,,,,,,,99,mmu-miR-147-5p,Map1b,microtubule-associated protein 1B,ENSMUSG00000052727.6,Map1b,4.368727,0.006228628
+,mf_d1338,,,,,,,,,,95,mmu-miR-147-5p,Mfap3l,microfibrillar-associated protein 3-like,ENSMUSG00000031647.10,Mfap3l,4.3328733,0.001115116
+,mf_d1338,,,,,,,,,,83,mmu-miR-147-5p,Adcy6,adenylate cyclase 6,ENSMUSG00000022994.9,Adcy6,0.2297701,0.007001797
+mf_d1338,mf_d1338,Mylip,Mylip,ENSMUST00000038275.9,myosin regulatory light chain interacting protein ,mmu-miR-147-5p,-0.68,ENSMUSG00000038175.10,0.19357686,0.000360407,95,mmu-miR-147-5p,Mylip,myosin regulatory light chain interacting protein,ENSMUSG00000038175.10,Mylip,0.19357686,0.000360407
+,mf_d1338,,,,,,,,,,92,mmu-miR-147-5p,Ttc41,tetratricopeptide repeat domain 41,ENSMUSG00000044937.15,Ttc41,0.0733651,0.010101719
+,mf_d1338,,,,,,,,,,86,mmu-miR-147-5p,Robo2,roundabout guidance receptor 2,ENSMUSG00000052516.19,Robo2,0.058413208,0.000333193
+,mf_wt,,,,,,,,,,89,mmu-miR-147-5p,Gbp4,guanylate binding protein 4,ENSMUSG00000079363.7,Gbp4,128.0759,3.94743e-08
+mf_wt,mf_wt,Cd200,Cd200,ENSMUST00000163230.2,CD200 antigen ,mmu-miR-147-5p,-0.48,ENSMUSG00000022661.14,19.326265,2.19209e-63,92,mmu-miR-147-5p,Cd200,CD200 antigen,ENSMUSG00000022661.14,Cd200,19.326265,2.19209e-63
+mf_d1338,mf_wt,Cd200,Cd200,ENSMUST00000163230.2,CD200 antigen ,mmu-miR-147-5p,-0.48,ENSMUSG00000022661.14,10.052778,4.27065e-14,92,mmu-miR-147-5p,Cd200,CD200 antigen,ENSMUSG00000022661.14,Cd200,19.326265,2.19209e-63
+wt_d1338,mf_wt,Cd200,Cd200,ENSMUST00000163230.2,CD200 antigen ,mmu-miR-147-5p,-0.48,ENSMUSG00000022661.14,-3.1905859,0,92,mmu-miR-147-5p,Cd200,CD200 antigen,ENSMUSG00000022661.14,Cd200,19.326265,2.19209e-63
+,mf_wt,,,,,,,,,,87,mmu-miR-147-5p,Pcdh7,protocadherin 7,ENSMUSG00000029108.14,Pcdh7,15.841164,3.18073e-07
+,mf_wt,,,,,,,,,,95,mmu-miR-147-5p,Aak1,AP2 associated kinase 1,ENSMUSG00000057230.14,Aak1,7.8759217,2.84665e-34
+,mf_wt,,,,,,,,,,90,mmu-miR-147-5p,Stil,Scl/Tal1 interrupting locus,ENSMUSG00000028718.16,Stil,7.6171403,0.0003147
+,mf_wt,,,,,,,,,,83,mmu-miR-147-5p,Zfp148,zinc finger protein 148,ENSMUSG00000022811.17,Zfp148,5.6350226,2.83119e-35
+,mf_wt,,,,,,,,,,97,mmu-miR-147-5p,Emp2,epithelial membrane protein 2,ENSMUSG00000022505.9,Emp2,5.1187706,0.000207005
+mf_wt,mf_wt,Ammecr1l,Ammecr1l,ENSMUST00000115808.2,AMME chromosomal region gene 1-like ,mmu-miR-147-5p,-0.5,ENSMUSG00000041915.9,4.874313,2.92039e-17,89,mmu-miR-147-5p,Ammecr1l,AMME chromosomal region gene 1-like,ENSMUSG00000041915.9,Ammecr1l,4.874313,2.92039e-17
+,mf_wt,,,,,,,,,,95,mmu-miR-147-5p,Mfap3l,microfibrillar-associated protein 3-like,ENSMUSG00000031647.10,Mfap3l,4.541962,9.31089e-08
+,mf_wt,,,,,,,,,,95,mmu-miR-147-5p,Mbnl3,muscleblind like splicing factor 3,ENSMUSG00000036109.17,Mbnl3,4.480132,0.009842148
+,mf_wt,,,,,,,,,,90,mmu-miR-147-5p,Zc3h12c,zinc finger CCCH type containing 12C,ENSMUSG00000035164.8,Zc3h12c,4.3467355,7.67705e-24
+,mf_wt,,,,,,,,,,94,mmu-miR-147-5p,Cmtr1,cap methyltransferase 1,ENSMUSG00000024019.18,Cmtr1,4.0945807,1.00007e-18
+,mf_wt,,,,,,,,,,99,mmu-miR-147-5p,Map1b,microtubule-associated protein 1B,ENSMUSG00000052727.6,Map1b,4.0798783,3.7674e-08
+,mf_wt,,,,,,,,,,80,mmu-miR-147-5p,Dtx4,"deltex 4, E3 ubiquitin ligase",ENSMUSG00000039982.8,Dtx4,4.050793,1.20547e-08
+,mf_wt,,,,,,,,,,92,mmu-miR-147-5p,Ttc41,tetratricopeptide repeat domain 41,ENSMUSG00000044937.15,Ttc41,0.12259875,0.003406438
+,mf_wt,,,,,,,,,,81,mmu-miR-147-5p,Kcna2,"potassium voltage-gated channel, shaker-related subfamily, member 2",ENSMUSG00000040724.5,Kcna2,0.11187453,0.002204651
+,mf_wt,,,,,,,,,,86,mmu-miR-147-5p,Robo2,roundabout guidance receptor 2,ENSMUSG00000052516.19,Robo2,0.031089475,3.32305e-08
+mf_wt,,Aaas,Aaas,ENSMUST00000041208.7,"achalasia, adrenocortical insufficiency, alacrimia ",mmu-miR-147-5p,-0.42,ENSMUSG00000036678.8,0.17371832,9.41625e-06,,,,,,,,
+mf_wt,,Ppp1r3b,Ppp1r3b,ENSMUST00000070481.6,"protein phosphatase 1, regulatory (inhibitor) subunit 3B ",mmu-miR-147-5p,-0.45,ENSMUSG00000046794.9,7.4444866,4.09975e-29,,,,,,,,
+wt_d1338,,Ppp1r3b,Ppp1r3b,ENSMUST00000070481.6,"protein phosphatase 1, regulatory (inhibitor) subunit 3B ",mmu-miR-147-5p,-0.45,ENSMUSG00000046794.9,-2.8968287,1.82352e-49,,,,,,,,
+mf_wt,,Syt5,Syt5,ENSMUST00000065957.5,synaptotagmin V ,mmu-miR-147-5p,-0.47,ENSMUSG00000004961.7,7.441615,0.000750276,,,,,,,,
+wt_d1338,,Syt5,Syt5,ENSMUST00000065957.5,synaptotagmin V ,mmu-miR-147-5p,-0.47,ENSMUSG00000004961.7,-4.062135,0.000138292,,,,,,,,
+mf_wt,,Lypd6b,Lypd6b,ENSMUST00000028103.7,LY6/PLAUR domain containing 6B ,mmu-miR-147-5p,-0.41,ENSMUSG00000026765.12,0.090292856,6.64474e-05,,,,,,,,
+mf_d1338,,Lypd6b,Lypd6b,ENSMUST00000028103.7,LY6/PLAUR domain containing 6B ,mmu-miR-147-5p,-0.41,ENSMUSG00000026765.12,0.09023452,0.011295967,,,,,,,,
+wt_d1338,,Lypd6b,Lypd6b,ENSMUST00000028103.7,LY6/PLAUR domain containing 6B ,mmu-miR-147-5p,-0.41,ENSMUSG00000026765.12,2.0927496,0.002305485,,,,,,,,
+mf_wt,,Eid2,Eid2,ENSMUST00000059596.7,EP300 interacting inhibitor of differentiation 2 ,mmu-miR-147-5p,-0.5,ENSMUSG00000046058.7,0.2434686,2.00952e-05,,,,,,,,
+mf_d1338,,Trp53inp1,Trp53inp1,ENSMUST00000029865.3,transformation related protein 53 inducible nuclear protein 1 ,mmu-miR-147-5p,-0.4,ENSMUSG00000028211.11,0.18410668,0.03553264,,,,,,,,
+mf_wt,,Snrpe,Snrpe,ENSMUST00000166291.2,small nuclear ribonucleoprotein E ,mmu-miR-147-5p,-0.67,ENSMUSG00000090553.8,0.17985316,9.47769e-20,,,,,,,,
+wt_d1338,,Slc9a7,Slc9a7,ENSMUST00000072451.5,"solute carrier family 9 (sodium/hydrogen exchanger), member 7 ",mmu-miR-147-5p,-0.46,ENSMUSG00000037341.14,1.7370244,1.46753e-05,,,,,,,,

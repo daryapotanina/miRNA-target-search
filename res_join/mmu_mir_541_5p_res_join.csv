@@ -1,0 +1,19 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,84,mmu-miR-541-5p,Itga4,integrin alpha 4,ENSMUSG00000027009.18,Itga4,1.5992284,5.37049e-17
+,wt_d1338,,,,,,,,,,93,mmu-miR-541-5p,Cxcl16,chemokine (C-X-C motif) ligand 16,ENSMUSG00000018920.11,Cxcl16,-2.0162227,3.96149e-84
+,mf_d1338,,,,,,,,,,86,mmu-miR-541-5p,Pxdn,peroxidasin,ENSMUSG00000020674.17,Pxdn,16.718443,0.016090369
+,mf_wt,,,,,,,,,,86,mmu-miR-541-5p,Pxdn,peroxidasin,ENSMUSG00000020674.17,Pxdn,9.541426,0.008649986
+,mf_wt,,,,,,,,,,80,mmu-miR-541-5p,Cpeb4,cytoplasmic polyadenylation element binding protein 4,ENSMUSG00000020300.14,Cpeb4,6.3393884,1.40843e-08
+,mf_wt,,,,,,,,,,91,mmu-miR-541-5p,Rpgrip1l,Rpgrip1-like,ENSMUSG00000033282.14,Rpgrip1l,4.3256483,0.040802214
+mf_wt,,Spsb2,Spsb2,ENSMUST00000112473.1,splA/ryanodine receptor domain and SOCS box containing 2 ,mmu-miR-541-5p,-0.66,ENSMUSG00000038451.13,0.22860354,1.11341e-12,,,,,,,,
+mf_wt,,Skint3,Skint3,ENSMUST00000038455.6,selection and upkeep of intraepithelial T cells 3 ,mmu-miR-541-5p,-0.46,ENSMUSG00000070868.11,0.05108122,1.8397e-06,,,,,,,,
+mf_d1338,,Skint3,Skint3,ENSMUST00000038455.6,selection and upkeep of intraepithelial T cells 3 ,mmu-miR-541-5p,-0.46,ENSMUSG00000070868.11,0.01590148,4.6919e-06,,,,,,,,
+wt_d1338,,Skint3,Skint3,ENSMUST00000038455.6,selection and upkeep of intraepithelial T cells 3 ,mmu-miR-541-5p,-0.46,ENSMUSG00000070868.11,2.4218173,6.45563e-07,,,,,,,,
+mf_wt,,Rasgrp1,Rasgrp1,ENSMUST00000172901.2,RAS guanyl releasing protein 1 ,mmu-miR-541-5p,-0.51,ENSMUSG00000027347.18,19.732044,1.00754e-19,,,,,,,,
+mf_d1338,,Rasgrp1,Rasgrp1,ENSMUST00000172901.2,RAS guanyl releasing protein 1 ,mmu-miR-541-5p,-0.51,ENSMUSG00000027347.18,6.9729753,0.000125658,,,,,,,,
+wt_d1338,,Rasgrp1,Rasgrp1,ENSMUST00000172901.2,RAS guanyl releasing protein 1 ,mmu-miR-541-5p,-0.51,ENSMUSG00000027347.18,-1.6521128,8.25759e-30,,,,,,,,
+wt_d1338,,Hsd3b7,Hsd3b7,ENSMUST00000106271.1,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7 ",mmu-miR-541-5p,-0.42,ENSMUSG00000042289.11,-1.6582078,3.30788e-43,,,,,,,,
+mf_wt,,Nxpe5,Nxpe5,ENSMUST00000159964.1,"neurexophilin and PC-esterase domain family, member 5 ",mmu-miR-541-5p,-0.41,ENSMUSG00000047592.17,0.008569976,9.84732e-19,,,,,,,,
+mf_d1338,,Nxpe5,Nxpe5,ENSMUST00000159964.1,"neurexophilin and PC-esterase domain family, member 5 ",mmu-miR-541-5p,-0.41,ENSMUSG00000047592.17,0.06256539,1.69288e-07,,,,,,,,
+wt_d1338,,Nxpe5,Nxpe5,ENSMUST00000159964.1,"neurexophilin and PC-esterase domain family, member 5 ",mmu-miR-541-5p,-0.41,ENSMUSG00000047592.17,6.013588,3.33196e-16,,,,,,,,
+mf_wt,,Ndufs7,Ndufs7,ENSMUST00000105364.2,NADH dehydrogenase (ubiquinone) Fe-S protein 7 ,mmu-miR-541-5p,-0.43,ENSMUSG00000020153.14,0.18874097,6.27058e-32,,,,,,,,

@@ -1,0 +1,113 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+wt_d1338,,Ldlrad3,Ldlrad3,ENSMUST00000058790.6,low density lipoprotein receptor class A domain containing 3 ,mmu-miR-466i-3p,-0.49,ENSMUSG00000048058.17,3.7130578,7.18995e-27,,,,,,,,
+wt_d1338,,Ms4a4a,Ms4a4a,ENSMUST00000188995.1,"membrane-spanning 4-domains, subfamily A, member 4A ",mmu-miR-466i-3p,-6.12,ENSMUSG00000101389.1,3.0455904,2.7283e-184,,,,,,,,
+wt_d1338,,Mcemp1,Mcemp1,ENSMUST00000014118.2,mast cell expressed membrane protein 1 ,mmu-miR-466i-3p,-0.47,ENSMUSG00000013974.3,2.885946,7.02316e-78,,,,,,,,
+wt_d1338,,Gspt2,Gspt2,ENSMUST00000096368.3,G1 to S phase transition 2 ,mmu-miR-466i-3p,-0.47,ENSMUSG00000071723.7,2.6707828,5.68616e-06,,,,,,,,
+wt_d1338,,Rasgrp3,Rasgrp3,ENSMUST00000164192.2,"RAS, guanyl releasing protein 3 ",mmu-miR-466i-3p,-0.49,ENSMUSG00000071042.12,2.5252972,1.39401e-14,,,,,,,,
+wt_d1338,,Ocln,Ocln,ENSMUST00000069756.5,occludin ,mmu-miR-466i-3p,-1,ENSMUSG00000021638.12,1.9473011,1.47979e-05,,,,,,,,
+wt_d1338,,Serpinb8,Serpinb8,ENSMUST00000112706.3,"serine (or cysteine) peptidase inhibitor, clade B, member 8 ",mmu-miR-466i-3p,-0.65,ENSMUSG00000026315.13,1.722588,2.0695e-58,,,,,,,,
+wt_d1338,wt_d1338,Sox5,Sox5,ENSMUST00000111748.2,SRY (sex determining region Y)-box 5 ,mmu-miR-466i-3p,-0.68,ENSMUSG00000041540.16,1.6654336,0.002384457,86,mmu-miR-466i-3p,Sox5,SRY (sex determining region Y)-box 5,ENSMUSG00000041540.16,Sox5,1.6654336,0.002384457
+wt_d1338,,Hectd2,Hectd2,ENSMUST00000047247.6,HECT domain containing 2 ,mmu-miR-466i-3p,-0.46,ENSMUSG00000041180.13,1.6424818,3.69441e-08,,,,,,,,
+wt_d1338,,Eif5a2,Eif5a2,ENSMUST00000060500.7,eukaryotic translation initiation factor 5A2 ,mmu-miR-466i-3p,-0.55,ENSMUSG00000050192.8,1.535981,1.10833e-10,,,,,,,,
+wt_d1338,,Zc3h12d,Zc3h12d,ENSMUST00000039484.4,zinc finger CCCH type containing 12D ,mmu-miR-466i-3p,-0.64,ENSMUSG00000039981.6,-1.5357186,2.1662e-09,,,,,,,,
+wt_d1338,,Rapgef3,Rapgef3,ENSMUST00000126854.3,Rap guanine nucleotide exchange factor (GEF) 3 ,mmu-miR-466i-3p,-0.75,ENSMUSG00000022469.17,-1.626212,0.033302898,,,,,,,,
+wt_d1338,,Stx2,Stx2,ENSMUST00000031378.8,syntaxin 2 ,mmu-miR-466i-3p,-0.4,ENSMUSG00000029428.13,-1.6828165,5.31737e-32,,,,,,,,
+wt_d1338,,Tlr9,Tlr9,ENSMUST00000062241.10,toll-like receptor 9 ,mmu-miR-466i-3p,-0.56,ENSMUSG00000045322.10,-1.792855,2.37925e-09,,,,,,,,
+wt_d1338,,Slc1a2,Slc1a2,ENSMUST00000080210.4,"solute carrier family 1 (glial high affinity glutamate transporter), member 2 ",mmu-miR-466i-3p,-0.47,ENSMUSG00000005089.15,-1.9922503,1.18475e-18,,,,,,,,
+wt_d1338,wt_d1338,Casz1,Casz1,ENSMUST00000122222.2,castor zinc finger 1 ,mmu-miR-466i-3p,-0.41,ENSMUSG00000028977.17,-2.0146744,2.30275e-33,85,mmu-miR-466i-3p,Casz1,castor zinc finger 1,ENSMUSG00000028977.17,Casz1,-2.0146744,2.30275e-33
+wt_d1338,,Nupr1l,Nupr1l,ENSMUST00000178355.1,nuclear protein transcriptional regulator 1 like ,mmu-miR-466i-3p,-0.43,ENSMUSG00000095789.6,-2.0374656,0.006104288,,,,,,,,
+wt_d1338,wt_d1338,Rnf152,Rnf152,ENSMUST00000058688.6,ring finger protein 152 ,mmu-miR-466i-3p,-2.74,ENSMUSG00000047496.6,-2.10623,0.035791738,95,mmu-miR-466i-3p,Rnf152,ring finger protein 152,ENSMUSG00000047496.6,Rnf152,-2.10623,0.035791738
+wt_d1338,,Tnfsf8,Tnfsf8,ENSMUST00000030047.2,"tumor necrosis factor (ligand) superfamily, member 8 ",mmu-miR-466i-3p,-0.43,ENSMUSG00000028362.2,-2.1459382,1.22975e-15,,,,,,,,
+wt_d1338,mf_wt,Htr2b,Htr2b,ENSMUST00000027431.6,5-hydroxytryptamine (serotonin) receptor 2B ,mmu-miR-466i-3p,-0.58,ENSMUSG00000026228.6,-2.1768098,0.029898475,96,mmu-miR-466i-3p,Htr2b,5-hydroxytryptamine (serotonin) receptor 2B,ENSMUSG00000026228.6,Htr2b,12.291972,1.00014e-10
+wt_d1338,wt_d1338,Htr2b,Htr2b,ENSMUST00000027431.6,5-hydroxytryptamine (serotonin) receptor 2B ,mmu-miR-466i-3p,-0.58,ENSMUSG00000026228.6,-2.1768098,0.029898475,96,mmu-miR-466i-3p,Htr2b,5-hydroxytryptamine (serotonin) receptor 2B,ENSMUSG00000026228.6,Htr2b,-2.1768098,0.029898475
+wt_d1338,,Itgb3,Itgb3,ENSMUST00000021028.4,integrin beta 3 ,mmu-miR-466i-3p,-0.92,ENSMUSG00000020689.4,-2.7272396,1.29996e-41,,,,,,,,
+wt_d1338,,Ikzf4,Ikzf4,ENSMUST00000133342.2,IKAROS family zinc finger 4 ,mmu-miR-466i-3p,-0.6,ENSMUSG00000002578.18,-3.047807,1.5058e-16,,,,,,,,
+wt_d1338,,Adm,Adm,ENSMUST00000033054.8,adrenomedullin ,mmu-miR-466i-3p,-0.5,ENSMUSG00000030790.15,-3.3187115,8.13802e-48,,,,,,,,
+wt_d1338,,Cacna1b,Cacna1b,ENSMUST00000070864.8,"calcium channel, voltage-dependent, N type, alpha 1B subunit ",mmu-miR-466i-3p,-0.49,ENSMUSG00000004113.18,-3.6580656,2.86661e-24,,,,,,,,
+wt_d1338,,Htr1b,Htr1b,ENSMUST00000183482.1,5-hydroxytryptamine (serotonin) receptor 1B ,mmu-miR-466i-3p,-0.42,ENSMUSG00000049511.5,-4.7675056,6.3786e-06,,,,,,,,
+wt_d1338,,Slc6a19,Slc6a19,ENSMUST00000022048.5,"solute carrier family 6 (neurotransmitter transporter), member 19 ",mmu-miR-466i-3p,-0.47,ENSMUSG00000021565.16,-5.414438,2.38055e-95,,,,,,,,
+wt_d1338,,Ccl28,Ccl28,ENSMUST00000099241.2,chemokine (C-C motif) ligand 28 ,mmu-miR-466i-3p,-0.47,ENSMUSG00000074715.3,-6.49623,1.70967e-06,,,,,,,,
+wt_d1338,,Stx1b,Stx1b,ENSMUST00000106267.3,syntaxin 1B ,mmu-miR-466i-3p,-3.53,ENSMUSG00000030806.6,-7.73206,1.80318e-12,,,,,,,,
+mf_d1338,,Slc1a2,Slc1a2,ENSMUST00000080210.4,"solute carrier family 1 (glial high affinity glutamate transporter), member 2 ",mmu-miR-466i-3p,-0.47,ENSMUSG00000005089.15,37.78298,5.87257e-05,,,,,,,,
+mf_d1338,,Cacna1b,Cacna1b,ENSMUST00000070864.8,"calcium channel, voltage-dependent, N type, alpha 1B subunit ",mmu-miR-466i-3p,-0.49,ENSMUSG00000004113.18,31.238316,0.000498494,,,,,,,,
+mf_d1338,mf_d1338,Adamts9,Adamts9,ENSMUST00000113438.2,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 9 ",mmu-miR-466i-3p,-0.46,ENSMUSG00000030022.14,24.902493,0.005920706,90,mmu-miR-466i-3p,Adamts9,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 9",ENSMUSG00000030022.14,Adamts9,24.902493,0.005920706
+mf_d1338,,Tnfsf8,Tnfsf8,ENSMUST00000030047.2,"tumor necrosis factor (ligand) superfamily, member 8 ",mmu-miR-466i-3p,-0.43,ENSMUSG00000028362.2,11.0713825,4.37285e-05,,,,,,,,
+mf_d1338,,Itgb3,Itgb3,ENSMUST00000021028.4,integrin beta 3 ,mmu-miR-466i-3p,-0.92,ENSMUSG00000020689.4,6.1197853,0.048956523,,,,,,,,
+mf_d1338,,Slc6a19,Slc6a19,ENSMUST00000022048.5,"solute carrier family 6 (neurotransmitter transporter), member 19 ",mmu-miR-466i-3p,-0.47,ENSMUSG00000021565.16,5.351474,0.00350816,,,,,,,,
+mf_d1338,,Snx24,Snx24,ENSMUST00000165032.2,sorting nexing 24 ,mmu-miR-466i-3p,-0.42,ENSMUSG00000024535.16,0.23825005,0.001008513,,,,,,,,
+mf_d1338,,Mcemp1,Mcemp1,ENSMUST00000014118.2,mast cell expressed membrane protein 1 ,mmu-miR-466i-3p,-0.47,ENSMUSG00000013974.3,0.2333085,0.000812843,,,,,,,,
+mf_d1338,,Trp53inp1,Trp53inp1,ENSMUST00000029865.3,transformation related protein 53 inducible nuclear protein 1 ,mmu-miR-466i-3p,-0.61,ENSMUSG00000028211.11,0.18410668,0.03553264,,,,,,,,
+mf_d1338,,Ocln,Ocln,ENSMUST00000069756.5,occludin ,mmu-miR-466i-3p,-1,ENSMUSG00000021638.12,0.045950774,5.81174e-05,,,,,,,,
+mf_wt,,Htr1b,Htr1b,ENSMUST00000183482.1,5-hydroxytryptamine (serotonin) receptor 1B ,mmu-miR-466i-3p,-0.42,ENSMUSG00000049511.5,75.77835,2.72537e-05,,,,,,,,
+mf_wt,,Cacna1b,Cacna1b,ENSMUST00000070864.8,"calcium channel, voltage-dependent, N type, alpha 1B subunit ",mmu-miR-466i-3p,-0.49,ENSMUSG00000004113.18,40.820587,2.45156e-17,,,,,,,,
+mf_wt,,Slc6a19,Slc6a19,ENSMUST00000022048.5,"solute carrier family 6 (neurotransmitter transporter), member 19 ",mmu-miR-466i-3p,-0.47,ENSMUSG00000021565.16,27.40014,1.02999e-61,,,,,,,,
+mf_wt,,Stx1b,Stx1b,ENSMUST00000106267.3,syntaxin 1B ,mmu-miR-466i-3p,-3.53,ENSMUSG00000030806.6,25.405787,2.88552e-17,,,,,,,,
+mf_wt,,Slc1a2,Slc1a2,ENSMUST00000080210.4,"solute carrier family 1 (glial high affinity glutamate transporter), member 2 ",mmu-miR-466i-3p,-0.47,ENSMUSG00000005089.15,20.717508,2.57331e-05,,,,,,,,
+mf_wt,mf_wt,Plag1,Plag1,ENSMUST00000003369.4,pleiomorphic adenoma gene 1 ,mmu-miR-466i-3p,-0.76,ENSMUSG00000003282.9,17.500364,5.2943e-05,97,mmu-miR-466i-3p,Plag1,pleiomorphic adenoma gene 1,ENSMUSG00000003282.9,Plag1,17.500364,5.2943e-05
+mf_wt,,Tlr9,Tlr9,ENSMUST00000062241.10,toll-like receptor 9 ,mmu-miR-466i-3p,-0.56,ENSMUSG00000045322.10,13.894096,5.10938e-13,,,,,,,,
+mf_wt,,Ccl28,Ccl28,ENSMUST00000099241.2,chemokine (C-C motif) ligand 28 ,mmu-miR-466i-3p,-0.47,ENSMUSG00000074715.3,12.951664,0.000172812,,,,,,,,
+mf_wt,mf_wt,Htr2b,Htr2b,ENSMUST00000027431.6,5-hydroxytryptamine (serotonin) receptor 2B ,mmu-miR-466i-3p,-0.58,ENSMUSG00000026228.6,12.291972,1.00014e-10,96,mmu-miR-466i-3p,Htr2b,5-hydroxytryptamine (serotonin) receptor 2B,ENSMUSG00000026228.6,Htr2b,12.291972,1.00014e-10
+mf_wt,wt_d1338,Htr2b,Htr2b,ENSMUST00000027431.6,5-hydroxytryptamine (serotonin) receptor 2B ,mmu-miR-466i-3p,-0.58,ENSMUSG00000026228.6,12.291972,1.00014e-10,96,mmu-miR-466i-3p,Htr2b,5-hydroxytryptamine (serotonin) receptor 2B,ENSMUSG00000026228.6,Htr2b,-2.1768098,0.029898475
+mf_wt,,Ikzf4,Ikzf4,ENSMUST00000133342.2,IKAROS family zinc finger 4 ,mmu-miR-466i-3p,-0.6,ENSMUSG00000002578.18,8.979456,0.001746273,,,,,,,,
+mf_wt,,Tnfsf8,Tnfsf8,ENSMUST00000030047.2,"tumor necrosis factor (ligand) superfamily, member 8 ",mmu-miR-466i-3p,-0.43,ENSMUSG00000028362.2,8.554923,1.51862e-16,,,,,,,,
+mf_wt,mf_wt,Cdk12,Cdk12,ENSMUST00000107539.2,cyclin-dependent kinase 12 ,mmu-miR-466i-3p,-0.85,ENSMUSG00000003119.14,6.8202186,1.28979e-30,97,mmu-miR-466i-3p,Cdk12,cyclin-dependent kinase 12,ENSMUSG00000003119.14,Cdk12,6.8202186,1.28979e-30
+mf_wt,,Itgb3,Itgb3,ENSMUST00000021028.4,integrin beta 3 ,mmu-miR-466i-3p,-0.92,ENSMUSG00000020689.4,6.3254,0.001512387,,,,,,,,
+mf_wt,mf_wt,Zfp808,Zfp808,ENSMUST00000099449.3,zinc finger protein 80 ,mmu-miR-466i-3p,-0.54,ENSMUSG00000074867.4,6.201251,2.10633e-06,94,mmu-miR-466i-3p,Zfp808,zinc finger protein 808,ENSMUSG00000074867.4,Zfp808,6.201251,2.10633e-06
+mf_wt,,Syne3,Syne3,ENSMUST00000067005.4,"spectrin repeat containing, nuclear envelope family member 3 ",mmu-miR-466i-3p,-1.5,ENSMUSG00000054150.12,6.058559,7.28052e-08,,,,,,,,
+mf_wt,mf_wt,Tns3,Tns3,ENSMUST00000020695.7,tensin 3 ,mmu-miR-466i-3p,-0.66,ENSMUSG00000020422.14,5.8486843,5.51533e-36,90,mmu-miR-466i-3p,Tns3,tensin 3,ENSMUSG00000020422.14,Tns3,5.8486843,5.51533e-36
+mf_wt,mf_wt,Egr3,Egr3,ENSMUST00000035908.1,early growth response 3 ,mmu-miR-466i-3p,-0.58,ENSMUSG00000033730.4,5.8115964,5.79916e-09,84,mmu-miR-466i-3p,Egr3,early growth response 3,ENSMUSG00000033730.4,Egr3,5.8115964,5.79916e-09
+mf_wt,mf_wt,Inpp4b,Inpp4b,ENSMUST00000172031.2,"inositol polyphosphate-4-phosphatase, type II ",mmu-miR-466i-3p,-0.58,ENSMUSG00000037940.17,4.49913,0.000534086,84,mmu-miR-466i-3p,Inpp4b,"inositol polyphosphate-4-phosphatase, type II",ENSMUSG00000037940.17,Inpp4b,4.49913,0.000534086
+mf_wt,,Rad54l2,Rad54l2,ENSMUST00000046502.6,RAD54 like 2 (S. cerevisiae) ,mmu-miR-466i-3p,-0.55,ENSMUSG00000040661.6,4.3925953,9.94645e-05,,,,,,,,
+mf_wt,mf_wt,B3gnt2,B3gnt2,ENSMUST00000062844.10,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2 ",mmu-miR-466i-3p,-0.47,ENSMUSG00000051650.11,4.2962914,8.02907e-05,91,mmu-miR-466i-3p,B3gnt2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",ENSMUSG00000051650.11,B3gnt2,4.2962914,8.02907e-05
+mf_wt,,Nfat5,Nfat5,ENSMUST00000169453.2,nuclear factor of activated T cells 5 ,mmu-miR-466i-3p,-0.41,ENSMUSG00000003847.16,4.2773952,4.10243e-23,,,,,,,,
+mf_wt,,Polr3g,Polr3g,ENSMUST00000048993.6,polymerase (RNA) III (DNA directed) polypeptide G ,mmu-miR-466i-3p,-0.4,ENSMUSG00000035834.11,4.246475,5.75139e-07,,,,,,,,
+mf_wt,,Itpripl2,Itpripl2,ENSMUST00000178344.1,"inositol 1,4,5-triphosphate receptor interacting protein-like 2 ",mmu-miR-466i-3p,-0.61,ENSMUSG00000095115.2,4.1001396,4.94167e-14,,,,,,,,
+mf_wt,,Zfp81,Zfp81,ENSMUST00000054072.8,zinc finger protein 81 ,mmu-miR-466i-3p,-0.67,ENSMUSG00000003929.11,4.0396924,4.36291e-11,,,,,,,,
+mf_wt,,Bhmt2,Bhmt2,ENSMUST00000015941.7,betaine-homocysteine methyltransferase 2 ,mmu-miR-466i-3p,-0.41,ENSMUSG00000042118.7,0.21859743,0.002024544,,,,,,,,
+mf_wt,,Ocln,Ocln,ENSMUST00000069756.5,occludin ,mmu-miR-466i-3p,-1,ENSMUSG00000021638.12,0.21341714,0.000255546,,,,,,,,
+mf_wt,,Rab3c,Rab3c,ENSMUST00000167824.1,"RAB3C, member RAS oncogene family ",mmu-miR-466i-3p,-0.55,ENSMUSG00000021700.10,0.06359235,1.06875e-13,,,,,,,,
+mf_wt,,Mcemp1,Mcemp1,ENSMUST00000014118.2,mast cell expressed membrane protein 1 ,mmu-miR-466i-3p,-0.47,ENSMUSG00000013974.3,0.0551741,6.48402e-46,,,,,,,,
+,wt_d1338,,,,,,,,,,83,mmu-miR-466i-3p,Tanc1,"tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1",ENSMUSG00000035168.16,Tanc1,1.7488623,1.30739e-23
+,mf_d1338,,,,,,,,,,99,mmu-miR-466i-3p,Rab6b,"RAB6B, member RAS oncogene family",ENSMUSG00000032549.7,Rab6b,0.22517523,0.023200174
+,mf_wt,,,,,,,,,,84,mmu-miR-466i-3p,Fermt2,fermitin family member 2,ENSMUSG00000037712.16,Fermt2,12.385689,0.000142749
+,mf_d1338,,,,,,,,,,84,mmu-miR-466i-3p,Fermt2,fermitin family member 2,ENSMUSG00000037712.16,Fermt2,40.917183,1.70578e-06
+,mf_wt,,,,,,,,,,91,mmu-miR-466i-3p,Zdhhc21,"zinc finger, DHHC domain containing 21",ENSMUSG00000028403.15,Zdhhc21,7.7483325,4.84554e-26
+,wt_d1338,,,,,,,,,,93,mmu-miR-466i-3p,Psd3,pleckstrin and Sec7 domain containing 3,ENSMUSG00000030465.19,Psd3,1.6883489,3.90067e-06
+,mf_wt,,,,,,,,,,97,mmu-miR-466i-3p,Adcy9,adenylate cyclase 9,ENSMUSG00000005580.11,Adcy9,8.360038,1.2893e-21
+,mf_wt,,,,,,,,,,80,mmu-miR-466i-3p,Cpne8,copine VIII,ENSMUSG00000052560.15,Cpne8,0.24567914,1.95563e-08
+,mf_wt,,,,,,,,,,83,mmu-miR-466i-3p,Rasgrp1,RAS guanyl releasing protein 1,ENSMUSG00000027347.18,Rasgrp1,19.732044,1.00754e-19
+,mf_d1338,,,,,,,,,,83,mmu-miR-466i-3p,Rasgrp1,RAS guanyl releasing protein 1,ENSMUSG00000027347.18,Rasgrp1,6.9729753,0.000125658
+,wt_d1338,,,,,,,,,,83,mmu-miR-466i-3p,Rasgrp1,RAS guanyl releasing protein 1,ENSMUSG00000027347.18,Rasgrp1,-1.6521128,8.25759e-30
+,mf_wt,,,,,,,,,,82,mmu-miR-466i-3p,Synpo2,synaptopodin 2,ENSMUSG00000050315.14,Synpo2,4.437509,0.01338657
+,mf_d1338,,,,,,,,,,85,mmu-miR-466i-3p,Wt1,Wilms tumor 1 homolog,ENSMUSG00000016458.14,Wt1,13.139224,0.027684931
+,mf_wt,,,,,,,,,,86,mmu-miR-466i-3p,Usp2,ubiquitin specific peptidase 2,ENSMUSG00000032010.15,Usp2,0.130964,2.87929e-05
+,wt_d1338,,,,,,,,,,86,mmu-miR-466i-3p,Usp2,ubiquitin specific peptidase 2,ENSMUSG00000032010.15,Usp2,3.1563995,6.93773e-09
+,mf_wt,,,,,,,,,,93,mmu-miR-466i-3p,Erc1,ELKS/RAB6-interacting/CAST family member 1,ENSMUSG00000030172.15,Erc1,4.1430254,1.64235e-10
+,mf_wt,,,,,,,,,,87,mmu-miR-466i-3p,Prkaa2,"protein kinase, AMP-activated, alpha 2 catalytic subunit",ENSMUSG00000028518.8,Prkaa2,11.649964,0.002112784
+,mf_wt,,,,,,,,,,93,mmu-miR-466i-3p,Mettl27,methyltransferase like 27,ENSMUSG00000040557.14,Mettl27,0.23911388,0.00845298
+,wt_d1338,,,,,,,,,,93,mmu-miR-466i-3p,Mettl27,methyltransferase like 27,ENSMUSG00000040557.14,Mettl27,1.7036208,7.47279e-05
+,mf_wt,,,,,,,,,,81,mmu-miR-466i-3p,Saa1,serum amyloid A 1,ENSMUSG00000074115.5,Saa1,0.0632851,0.006657501
+,wt_d1338,,,,,,,,,,81,mmu-miR-466i-3p,Serpinb1b,"serine (or cysteine) peptidase inhibitor, clade B, member 1b",ENSMUSG00000051029.8,Serpinb1b,-1.6218866,9.66942e-11
+,mf_wt,,,,,,,,,,88,mmu-miR-466i-3p,Herc6,hect domain and RLD 6,ENSMUSG00000029798.11,Herc6,9.608441,1.22367e-29
+,mf_d1338,,,,,,,,,,88,mmu-miR-466i-3p,Herc6,hect domain and RLD 6,ENSMUSG00000029798.11,Herc6,5.845798,1.21802e-06
+,wt_d1338,,,,,,,,,,88,mmu-miR-466i-3p,Herc6,hect domain and RLD 6,ENSMUSG00000029798.11,Herc6,-2.072446,1.09612e-68
+,mf_wt,,,,,,,,,,91,mmu-miR-466i-3p,Nckap1,NCK-associated protein 1,ENSMUSG00000027002.13,Nckap1,5.1303387,1.19765e-06
+,wt_d1338,,,,,,,,,,91,mmu-miR-466i-3p,Nckap1,NCK-associated protein 1,ENSMUSG00000027002.13,Nckap1,-1.7212731,1.30085e-32
+,mf_d1338,,,,,,,,,,94,mmu-miR-466i-3p,Ccna2,cyclin A2,ENSMUSG00000027715.9,Ccna2,12.82119,3.33711e-08
+,wt_d1338,,,,,,,,,,94,mmu-miR-466i-3p,Ccna2,cyclin A2,ENSMUSG00000027715.9,Ccna2,2.332685,1.88773e-13
+,mf_wt,,,,,,,,,,85,mmu-miR-466i-3p,Slc23a2,"solute carrier family 23 (nucleobase transporters), member 2",ENSMUSG00000027340.15,Slc23a2,10.744783,7.38359e-28
+,wt_d1338,,,,,,,,,,85,mmu-miR-466i-3p,Slc23a2,"solute carrier family 23 (nucleobase transporters), member 2",ENSMUSG00000027340.15,Slc23a2,-1.7050508,1.30893e-40
+,mf_wt,,,,,,,,,,95,mmu-miR-466i-3p,Cep350,centrosomal protein 350,ENSMUSG00000033671.18,Cep350,4.5449576,2.78792e-14
+,mf_wt,,,,,,,,,,94,mmu-miR-466i-3p,Raph1,Ras association (RalGDS/AF-6) and pleckstrin homology domains 1,ENSMUSG00000026014.15,Raph1,4.0571995,5.08639e-10
+,mf_wt,,,,,,,,,,88,mmu-miR-466i-3p,Tmem254a,transmembrane protein 254a,ENSMUSG00000072676.12,Tmem254a,17.851551,0.000133369
+,wt_d1338,,,,,,,,,,85,mmu-miR-466i-3p,Chd5,chromodomain helicase DNA binding protein 5,ENSMUSG00000005045.16,Chd5,-1.6770103,2.62306e-08
+,mf_wt,,,,,,,,,,83,mmu-miR-466i-3p,Saa2,serum amyloid A 2,ENSMUSG00000057465.5,Saa2,0.021345554,3.16529e-06
+,mf_d1338,,,,,,,,,,83,mmu-miR-466i-3p,Saa2,serum amyloid A 2,ENSMUSG00000057465.5,Saa2,0.052877057,0.0021126
+,mf_wt,,,,,,,,,,91,mmu-miR-466i-3p,Edil3,EGF-like repeats and discoidin I-like domains 3,ENSMUSG00000034488.14,Edil3,0.18634628,0.000296029
+,mf_d1338,,,,,,,,,,91,mmu-miR-466i-3p,Edil3,EGF-like repeats and discoidin I-like domains 3,ENSMUSG00000034488.14,Edil3,0.11610194,0.001308833
+,wt_d1338,,,,,,,,,,91,mmu-miR-466i-3p,Edil3,EGF-like repeats and discoidin I-like domains 3,ENSMUSG00000034488.14,Edil3,2.2198544,2.46342e-12
+,wt_d1338,,,,,,,,,,80,mmu-miR-466i-3p,Wnt1,"wingless-type MMTV integration site family, member 1",ENSMUSG00000022997.9,Wnt1,5.934399,2.79439e-05
+,mf_wt,,,,,,,,,,80,mmu-miR-466i-3p,R3hdm1,R3H domain containing 1,ENSMUSG00000056211.13,R3hdm1,4.908751,8.10673e-09
+,mf_wt,,,,,,,,,,95,mmu-miR-466i-3p,Mbnl3,muscleblind like splicing factor 3,ENSMUSG00000036109.17,Mbnl3,4.480132,0.009842148
+,mf_wt,,,,,,,,,,93,mmu-miR-466i-3p,Cdk6,cyclin-dependent kinase 6,ENSMUSG00000040274.11,Cdk6,9.697219,6.36789e-11
+,mf_d1338,,,,,,,,,,93,mmu-miR-466i-3p,Cdk6,cyclin-dependent kinase 6,ENSMUSG00000040274.11,Cdk6,5.6539707,0.001186409

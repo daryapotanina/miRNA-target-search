@@ -1,0 +1,7 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+mf_wt,,A930004D18Rik,A930004D18Rik,ENSMUST00000066163.2,RIKEN cDNA A930004D18 gene ,mmu-miR-434-5p,-0.59,ENSMUSG00000054057.2,8.972686,0.000187661,,,,,,,,
+wt_d1338,,A930004D18Rik,A930004D18Rik,ENSMUST00000066163.2,RIKEN cDNA A930004D18 gene ,mmu-miR-434-5p,-0.59,ENSMUSG00000054057.2,-3.8126545,6.14782e-06,,,,,,,,
+wt_d1338,,Megf9,Megf9,ENSMUST00000107359.3,multiple EGF-like-domains 9 ,mmu-miR-434-5p,-0.4,ENSMUSG00000039270.9,2.0630639,1.20289e-35,,,,,,,,
+mf_wt,,Sox7,Sox7,ENSMUST00000079652.5,SRY (sex determining region Y)-box 7 ,mmu-miR-434-5p,-0.59,ENSMUSG00000063060.6,0.034922007,0.000130634,,,,,,,,
+mf_d1338,,Sox7,Sox7,ENSMUST00000079652.5,SRY (sex determining region Y)-box 7 ,mmu-miR-434-5p,-0.59,ENSMUSG00000063060.6,0.048648477,0.016276746,,,,,,,,
+wt_d1338,,Sox7,Sox7,ENSMUST00000079652.5,SRY (sex determining region Y)-box 7 ,mmu-miR-434-5p,-0.59,ENSMUSG00000063060.6,3.6688294,3.75116e-05,,,,,,,,

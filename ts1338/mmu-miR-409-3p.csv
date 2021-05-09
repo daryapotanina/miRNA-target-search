@@ -1,0 +1,256 @@
+Target gene	Representative transcript	Gene name	Representative miRNA	Cumulative weighted context++ score
+Msh6	ENSMUST00000005503.3	"mutS homolog 6 (E. coli) "	mmu-miR-409-3p	-0.43
+Prex2	ENSMUST00000027056.6	"phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 2 "	mmu-miR-409-3p	-0.39
+Efcab11	ENSMUST00000046485.3	"EF-hand calcium binding domain 11 "	mmu-miR-409-3p	-0.38
+Dld	ENSMUST00000110857.3	"dihydrolipoamide dehydrogenase "	mmu-miR-409-3p	-0.33
+Hmgb2	ENSMUST00000067925.6	"high mobility group box 2 "	mmu-miR-409-3p	-0.31
+Gm6658	ENSMUST00000098517.1	"predicted gene 6658 "	mmu-miR-409-3p	-0.30
+Ebag9	ENSMUST00000022964.7	"estrogen receptor-binding fragment-associated gene 9 "	mmu-miR-409-3p	-0.27
+Zdhhc20	ENSMUST00000089473.3	"zinc finger, DHHC domain containing 20 "	mmu-miR-409-3p	-0.26
+Rab10	ENSMUST00000021001.8	"RAB10, member RAS oncogene family "	mmu-miR-409-3p	-0.26
+Fgf9	ENSMUST00000165526.2	"fibroblast growth factor 9 "	mmu-miR-409-3p	-0.26
+Ewsr1	ENSMUST00000079949.7	"Ewing sarcoma breakpoint region 1 "	mmu-miR-409-3p	-0.24
+Nxph1	ENSMUST00000160300.1	"neurexophilin 1 "	mmu-miR-409-3p	-0.23
+Ccdc34	ENSMUST00000028580.6	"coiled-coil domain containing 34 "	mmu-miR-409-3p	-0.22
+Lmo4	ENSMUST00000120539.2	"LIM domain only 4 "	mmu-miR-409-3p	-0.20
+Csf1r	ENSMUST00000115268.3	"colony stimulating factor 1 receptor "	mmu-miR-409-3p	-0.19
+Hormad1	ENSMUST00000090797.5	"HORMA domain containing 1 "	mmu-miR-409-3p	-0.19
+Akirin1	ENSMUST00000102636.3	"akirin 1 "	mmu-miR-409-3p	-0.19
+Schip1	ENSMUST00000182532.2	"schwannomin interacting protein 1 "	mmu-miR-409-3p	-0.17
+Twist1	ENSMUST00000049089.5	"twist basic helix-loop-helix transcription factor 1 "	mmu-miR-409-3p	-0.17
+Sacm1l	ENSMUST00000026270.7	"SAC1 (suppressor of actin mutations 1, homolog)-like (S. cerevisiae) "	mmu-miR-409-3p	-0.17
+H3f3b	ENSMUST00000106454.2	"H3 histone, family 3B "	mmu-miR-409-3p	-0.17
+Rnft1	ENSMUST00000020827.6	"ring finger protein, transmembrane 1 "	mmu-miR-409-3p	-0.16
+Cxcl2	ENSMUST00000075433.6	"chemokine (C-X-C motif) ligand 2 "	mmu-miR-409-3p	-0.16
+Polk	ENSMUST00000022172.5	"polymerase (DNA directed), kappa "	mmu-miR-409-3p	-0.15
+Lamp1	ENSMUST00000033824.6	"lysosomal-associated membrane protein 1 "	mmu-miR-409-3p	-0.15
+Cldn25	ENSMUST00000023426.6	"claudin 25 "	mmu-miR-409-3p	-0.15
+Luc7l3	ENSMUST00000107820.1	"LUC7-like 3 (S. cerevisiae) "	mmu-miR-409-3p	-0.14
+Lingo2	ENSMUST00000164772.2	"leucine rich repeat and Ig domain containing 2 "	mmu-miR-409-3p	-0.14
+Ube2d2a	ENSMUST00000170693.2	"ubiquitin-conjugating enzyme E2D 2A "	mmu-miR-409-3p	-0.13
+Stam	ENSMUST00000102960.5	"signal transducing adaptor molecule (SH3 domain and ITAM motif) 1 "	mmu-miR-409-3p	-0.13
+Sri	ENSMUST00000088786.5	"sorcin "	mmu-miR-409-3p	-0.13
+Orc2	ENSMUST00000027198.6	"origin recognition complex, subunit 2 "	mmu-miR-409-3p	-0.13
+Phactr3	ENSMUST00000108917.2	"phosphatase and actin regulator 3 "	mmu-miR-409-3p	-0.12
+Hnrnpk	ENSMUST00000116403.3	"heterogeneous nuclear ribonucleoprotein K "	mmu-miR-409-3p	-0.12
+Cited2	ENSMUST00000038107.7	"Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2 "	mmu-miR-409-3p	-0.12
+St7l	ENSMUST00000059271.7	"suppression of tumorigenicity 7-like "	mmu-miR-409-3p	-0.12
+Rspo3	ENSMUST00000092623.3	"R-spondin 3 homolog (Xenopus laevis) "	mmu-miR-409-3p	-0.11
+Larp1b	ENSMUST00000065411.7	"La ribonucleoprotein domain family, member 1B "	mmu-miR-409-3p	-0.11
+Fam193b	ENSMUST00000021957.6	"family with sequence similarity 193, member B "	mmu-miR-409-3p	-0.11
+Myo5a	ENSMUST00000123128.2	"myosin VA "	mmu-miR-409-3p	-0.11
+Fbln7	ENSMUST00000110324.2	"fibulin 7 "	mmu-miR-409-3p	-0.11
+Ywhae	ENSMUST00000067664.4	"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide "	mmu-miR-409-3p	-0.10
+Ube2n	ENSMUST00000099329.3	"ubiquitin-conjugating enzyme E2N "	mmu-miR-409-3p	-0.10
+Ythdf3	ENSMUST00000108345.3	"YTH domain family 3 "	mmu-miR-409-3p	-0.10
+Gpbp1	ENSMUST00000047627.8	"GC-rich promoter binding protein 1 "	mmu-miR-409-3p	-0.10
+9330171B17Rik	ENSMUST00000035939.6	"RIKEN cDNA 9330171B17 gene "	mmu-miR-409-3p	-0.10
+Hdx	ENSMUST00000113422.3	"highly divergent homeobox "	mmu-miR-409-3p	-0.10
+Syt13	ENSMUST00000028648.2	"synaptotagmin XIII "	mmu-miR-409-3p	-0.10
+P2rx4	ENSMUST00000031429.8	"purinergic receptor P2X, ligand-gated ion channel 4 "	mmu-miR-409-3p	-0.10
+Slc31a1	ENSMUST00000122092.1	"solute carrier family 31, member 1 "	mmu-miR-409-3p	-0.10
+Parp6	ENSMUST00000167091.1	"poly (ADP-ribose) polymerase family, member 6 "	mmu-miR-409-3p	-0.10
+Onecut2	ENSMUST00000175965.3	"one cut domain, family member 2 "	mmu-miR-409-3p	-0.10
+Nipbl	ENSMUST00000052965.6	"Nipped-B homolog (Drosophila) "	mmu-miR-409-3p	-0.10
+Pam	ENSMUST00000058762.9	"peptidylglycine alpha-amidating monooxygenase "	mmu-miR-409-3p	-0.09
+Fam135a	ENSMUST00000187752.1	"family with sequence similarity 135, member A "	mmu-miR-409-3p	-0.09
+Hook3	ENSMUST00000037182.8	"hook homolog 3 (Drosophila) "	mmu-miR-409-3p	-0.09
+Fnta	ENSMUST00000016138.9	"farnesyltransferase, CAAX box, alpha "	mmu-miR-409-3p	-0.09
+Elf2	ENSMUST00000108053.3	"E74-like factor 2 "	mmu-miR-409-3p	-0.08
+Mmd	ENSMUST00000004050.6	"monocyte to macrophage differentiation-associated "	mmu-miR-409-3p	-0.08
+Slc35a3	ENSMUST00000029569.3	"solute carrier family 35 (UDP-N-acetylglucosamine (UDP-GlcNAc) transporter), member 3 "	mmu-miR-409-3p	-0.08
+Kctd16	ENSMUST00000091927.4	"potassium channel tetramerisation domain containing 16 "	mmu-miR-409-3p	-0.08
+Diap3	ENSMUST00000022599.8	"diaphanous homolog 3 (Drosophila) "	mmu-miR-409-3p	-0.08
+Ndfip1	ENSMUST00000025293.3	"Nedd4 family interacting protein 1 "	mmu-miR-409-3p	-0.08
+Myof	ENSMUST00000041475.9	"myoferlin "	mmu-miR-409-3p	-0.08
+Filip1l	ENSMUST00000159816.2	"filamin A interacting protein 1-like "	mmu-miR-409-3p	-0.07
+Ppm1d	ENSMUST00000020835.10	"protein phosphatase 1D magnesium-dependent, delta isoform "	mmu-miR-409-3p	-0.07
+BC003331	ENSMUST00000111913.3	"cDNA sequence BC003331 "	mmu-miR-409-3p	-0.07
+Tsc22d2	ENSMUST00000099090.2	"TSC22 domain family, member 2 "	mmu-miR-409-3p	-0.07
+Pip5k1a	ENSMUST00000107236.3	"phosphatidylinositol-4-phosphate 5-kinase, type 1 alpha "	mmu-miR-409-3p	-0.07
+Rab38	ENSMUST00000107256.2	"RAB38, member RAS oncogene family "	mmu-miR-409-3p	-0.07
+Gorab	ENSMUST00000045138.5	"golgin, RAB6-interacting "	mmu-miR-409-3p	-0.07
+Vps26a	ENSMUST00000105447.4	"vacuolar protein sorting 26 homolog A (yeast) "	mmu-miR-409-3p	-0.07
+Hs3st3b1	ENSMUST00000094103.3	"heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1 "	mmu-miR-409-3p	-0.07
+Ube2w	ENSMUST00000117146.2	"ubiquitin-conjugating enzyme E2W (putative) "	mmu-miR-409-3p	-0.07
+Zfand5	ENSMUST00000025659.5	"zinc finger, AN1-type domain 5 "	mmu-miR-409-3p	-0.07
+Ext1	ENSMUST00000077273.3	"exostoses (multiple) 1 "	mmu-miR-409-3p	-0.07
+Grhl3	ENSMUST00000105855.1	"grainyhead-like 3 (Drosophila) "	mmu-miR-409-3p	-0.07
+Gpm6a	ENSMUST00000033915.7	"glycoprotein m6a "	mmu-miR-409-3p	-0.07
+Ccdc170	ENSMUST00000138112.2	"coiled-coil domain containing 170 "	mmu-miR-409-3p	-0.06
+2610002M06Rik	ENSMUST00000120722.1	"RIKEN cDNA 2610002M06 gene "	mmu-miR-409-3p	-0.06
+Pcsk7	ENSMUST00000039059.6	"proprotein convertase subtilisin/kexin type 7 "	mmu-miR-409-3p	-0.06
+Sh3bgrl3	ENSMUST00000030651.8	"SH3 domain binding glutamic acid-rich protein-like 3 "	mmu-miR-409-3p	-0.06
+Cdc42ep4	ENSMUST00000106616.1	"CDC42 effector protein (Rho GTPase binding) 4 "	mmu-miR-409-3p	-0.06
+Hexim1	ENSMUST00000053063.6	"hexamethylene bis-acetamide inducible 1 "	mmu-miR-409-3p	-0.06
+Dll4	ENSMUST00000102517.3	"delta-like 4 (Drosophila) "	mmu-miR-409-3p	-0.06
+Crebbp	ENSMUST00000023165.7	"CREB binding protein "	mmu-miR-409-3p	-0.06
+Kansl1	ENSMUST00000106977.2	"KAT8 regulatory NSL complex subunit 1 "	mmu-miR-409-3p	-0.06
+Cpt1a	ENSMUST00000025835.4	"carnitine palmitoyltransferase 1a, liver "	mmu-miR-409-3p	-0.06
+Lmo7	ENSMUST00000100337.4	"LIM domain only 7 "	mmu-miR-409-3p	-0.06
+Zfp397	ENSMUST00000060762.4	"zinc finger protein 397 "	mmu-miR-409-3p	-0.05
+Lrrc3b	ENSMUST00000055211.4	"leucine rich repeat containing 3B "	mmu-miR-409-3p	-0.05
+Tubgcp4	ENSMUST00000110658.2	"tubulin, gamma complex associated protein 4 "	mmu-miR-409-3p	-0.05
+Nr2f2	ENSMUST00000032768.8	"nuclear receptor subfamily 2, group F, member 2 "	mmu-miR-409-3p	-0.05
+Ppp2ca	ENSMUST00000020608.2	"protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform "	mmu-miR-409-3p	-0.05
+Bnc2	ENSMUST00000176612.2	"basonuclin 2 "	mmu-miR-409-3p	-0.05
+Igsf10	ENSMUST00000039419.6	"immunoglobulin superfamily, member 10 "	mmu-miR-409-3p	-0.05
+Arl8b	ENSMUST00000032196.6	"ADP-ribosylation factor-like 8B "	mmu-miR-409-3p	-0.05
+Rnf146	ENSMUST00000037548.5	"ring finger protein 146 "	mmu-miR-409-3p	-0.05
+Hnrnpa2b1	ENSMUST00000114459.2	"heterogeneous nuclear ribonucleoprotein A2/B1 "	mmu-miR-409-3p	-0.05
+Bcl6	ENSMUST00000023151.5	"B cell leukemia/lymphoma 6 "	mmu-miR-409-3p	-0.05
+Rorb	ENSMUST00000040153.9	"RAR-related orphan receptor beta "	mmu-miR-409-3p	-0.05
+Lhx2	ENSMUST00000000253.5	"LIM homeobox protein 2 "	mmu-miR-409-3p	-0.05
+Msrb3	ENSMUST00000092143.6	"methionine sulfoxide reductase B3 "	mmu-miR-409-3p	-0.05
+Spc25	ENSMUST00000112320.2	"SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae) "	mmu-miR-409-3p	-0.04
+Kcnip3	ENSMUST00000028850.9	"Kv channel interacting protein 3, calsenilin "	mmu-miR-409-3p	-0.04
+Dpp6	ENSMUST00000120555.2	"dipeptidylpeptidase 6 "	mmu-miR-409-3p	-0.04
+Adam23	ENSMUST00000087374.4	"a disintegrin and metallopeptidase domain 23 "	mmu-miR-409-3p	-0.04
+Cd226	ENSMUST00000037142.6	"CD226 antigen "	mmu-miR-409-3p	-0.04
+Thoc2	ENSMUST00000047037.9	"THO complex 2 "	mmu-miR-409-3p	-0.04
+Zbtb20	ENSMUST00000114694.3	"zinc finger and BTB domain containing 20 "	mmu-miR-409-3p	-0.04
+Gad2	ENSMUST00000028123.3	"glutamic acid decarboxylase 2 "	mmu-miR-409-3p	-0.04
+Zc3h12c	ENSMUST00000165519.1	"zinc finger CCCH type containing 12C "	mmu-miR-409-3p	-0.04
+Adam10	ENSMUST00000067880.7	"a disintegrin and metallopeptidase domain 10 "	mmu-miR-409-3p	-0.04
+Egr3	ENSMUST00000035908.1	"early growth response 3 "	mmu-miR-409-3p	-0.04
+Mtf2	ENSMUST00000081567.5	"metal response element binding transcription factor 2 "	mmu-miR-409-3p	-0.04
+Eif4e	ENSMUST00000029803.7	"eukaryotic translation initiation factor 4E "	mmu-miR-409-3p	-0.04
+Slc26a7	ENSMUST00000042221.8	"solute carrier family 26, member 7 "	mmu-miR-409-3p	-0.04
+Klf12	ENSMUST00000097079.4	"Kruppel-like factor 12 "	mmu-miR-409-3p	-0.04
+Slc8a1	ENSMUST00000163680.3	"solute carrier family 8 (sodium/calcium exchanger), member 1 "	mmu-miR-409-3p	-0.04
+Baz1a	ENSMUST00000038926.7	"bromodomain adjacent to zinc finger domain 1A "	mmu-miR-409-3p	-0.04
+Tom1l1	ENSMUST00000020849.3	"target of myb1-like 1 (chicken) "	mmu-miR-409-3p	-0.04
+Uxs1	ENSMUST00000126008.2	"UDP-glucuronate decarboxylase 1 "	mmu-miR-409-3p	-0.04
+Zfp292	ENSMUST00000098163.3	"zinc finger protein 292 "	mmu-miR-409-3p	-0.04
+Ap1g1	ENSMUST00000093157.7	"adaptor protein complex AP-1, gamma 1 subunit "	mmu-miR-409-3p	-0.04
+Crbn	ENSMUST00000049675.5	"cereblon "	mmu-miR-409-3p	-0.04
+Gm765	ENSMUST00000164491.1	"predicted gene 765 "	mmu-miR-409-3p	-0.03
+Ccng1	ENSMUST00000020576.7	"cyclin G1 "	mmu-miR-409-3p	-0.03
+Bak1	ENSMUST00000078691.6	"BCL2-antagonist/killer 1 "	mmu-miR-409-3p	-0.03
+Ss18	ENSMUST00000040964.7	"synovial sarcoma translocation, Chromosome 18 "	mmu-miR-409-3p	-0.03
+Mme	ENSMUST00000029400.1	"membrane metallo endopeptidase "	mmu-miR-409-3p	-0.03
+Larp4	ENSMUST00000057632.9	"La ribonucleoprotein domain family, member 4 "	mmu-miR-409-3p	-0.03
+Pdhx	ENSMUST00000011058.3	"pyruvate dehydrogenase complex, component X "	mmu-miR-409-3p	-0.03
+Megf9	ENSMUST00000107359.3	"multiple EGF-like-domains 9 "	mmu-miR-409-3p	-0.03
+Gata2	ENSMUST00000170089.2	"GATA binding protein 2 "	mmu-miR-409-3p	-0.03
+Ccdc59	ENSMUST00000020049.8	"coiled-coil domain containing 59 "	mmu-miR-409-3p	-0.03
+Nlgn1	ENSMUST00000108308.4	"neuroligin 1 "	mmu-miR-409-3p	-0.03
+Zeb1	ENSMUST00000025081.6	"zinc finger E-box binding homeobox 1 "	mmu-miR-409-3p	-0.03
+Fbxl16	ENSMUST00000045692.7	"F-box and leucine-rich repeat protein 16 "	mmu-miR-409-3p	-0.03
+Fndc3b	ENSMUST00000046157.4	"fibronectin type III domain containing 3B "	mmu-miR-409-3p	-0.03
+Lnx2	ENSMUST00000016664.7	"ligand of numb-protein X 2 "	mmu-miR-409-3p	-0.03
+Pank3	ENSMUST00000018990.7	"pantothenate kinase 3 "	mmu-miR-409-3p	-0.03
+Slco5a1	ENSMUST00000188454.1	"solute carrier organic anion transporter family, member 5A1 "	mmu-miR-409-3p	-0.03
+Sash1	ENSMUST00000015449.5	"SAM and SH3 domain containing 1 "	mmu-miR-409-3p	-0.03
+Nr3c2	ENSMUST00000109913.3	"nuclear receptor subfamily 3, group C, member 2 "	mmu-miR-409-3p	-0.03
+Plxdc2	ENSMUST00000028081.7	"plexin domain containing 2 "	mmu-miR-409-3p	-0.03
+Phf20	ENSMUST00000037401.8	"PHD finger protein 20 "	mmu-miR-409-3p	-0.03
+Donson	ENSMUST00000117159.2	"downstream neighbor of SON "	mmu-miR-409-3p	-0.03
+Fxr1	ENSMUST00000001620.8	"fragile X mental retardation gene 1, autosomal homolog "	mmu-miR-409-3p	-0.03
+Rsbn1	ENSMUST00000106806.1	"rosbin, round spermatid basic protein 1 "	mmu-miR-409-3p	-0.03
+Plxnc1	ENSMUST00000099337.3	"plexin C1 "	mmu-miR-409-3p	-0.03
+Bach2	ENSMUST00000171600.1	"BTB and CNC homology 2 "	mmu-miR-409-3p	-0.03
+Elp4	ENSMUST00000122965.2	"elongation protein 4 homolog (S. cerevisiae) "	mmu-miR-409-3p	-0.03
+2810474O19Rik	ENSMUST00000046689.7	"RIKEN cDNA 2810474O19 gene "	mmu-miR-409-3p	-0.03
+Lyrm5	ENSMUST00000039729.3	"LYR motif containing 5 "	mmu-miR-409-3p	-0.03
+Lrp6	ENSMUST00000032322.9	"low density lipoprotein receptor-related protein 6 "	mmu-miR-409-3p	-0.02
+Cand1	ENSMUST00000020315.7	"cullin associated and neddylation disassociated 1 "	mmu-miR-409-3p	-0.02
+Tnrc6a	ENSMUST00000094053.5	"trinucleotide repeat containing 6a "	mmu-miR-409-3p	-0.02
+Ugt8a	ENSMUST00000057944.7	"UDP galactosyltransferase 8A "	mmu-miR-409-3p	-0.02
+Mpp7	ENSMUST00000115869.2	"membrane protein, palmitoylated 7 (MAGUK p55 subfamily member 7) "	mmu-miR-409-3p	-0.02
+Sec62	ENSMUST00000029256.7	"SEC62 homolog (S. cerevisiae) "	mmu-miR-409-3p	-0.02
+St18	ENSMUST00000131494.2	"suppression of tumorigenicity 18 "	mmu-miR-409-3p	-0.02
+Dtna	ENSMUST00000115832.2	"dystrobrevin alpha "	mmu-miR-409-3p	-0.02
+Trim71	ENSMUST00000111816.2	"tripartite motif-containing 71 "	mmu-miR-409-3p	-0.02
+Gabbr2	ENSMUST00000107749.2	"gamma-aminobutyric acid (GABA) B receptor, 2 "	mmu-miR-409-3p	-0.02
+Fam84a	ENSMUST00000020926.6	"family with sequence similarity 84, member A "	mmu-miR-409-3p	-0.02
+Slc17a6	ENSMUST00000032710.5	"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 6 "	mmu-miR-409-3p	-0.02
+Kcnh7	ENSMUST00000075052.4	"potassium voltage-gated channel, subfamily H (eag-related), member 7 "	mmu-miR-409-3p	-0.02
+Napb	ENSMUST00000028926.7	"N-ethylmaleimide sensitive fusion protein attachment protein beta "	mmu-miR-409-3p	-0.02
+Rab39	ENSMUST00000068449.3	"RAB39, member RAS oncogene family "	mmu-miR-409-3p	-0.02
+Zmiz1	ENSMUST00000162645.2	"zinc finger, MIZ-type containing 1 "	mmu-miR-409-3p	-0.02
+Trim33	ENSMUST00000029444.7	"tripartite motif-containing 33 "	mmu-miR-409-3p	-0.02
+Pik3r3	ENSMUST00000030464.8	"phosphatidylinositol 3 kinase, regulatory subunit, polypeptide 3 (p55) "	mmu-miR-409-3p	-0.02
+Fam168a	ENSMUST00000049053.7	"family with sequence similarity 168, member A "	mmu-miR-409-3p	-0.02
+Ppm1e	ENSMUST00000055438.4	"protein phosphatase 1E (PP2C domain containing) "	mmu-miR-409-3p	-0.02
+Bpnt1	ENSMUST00000027916.7	"bisphosphate 3'-nucleotidase 1 "	mmu-miR-409-3p	-0.02
+Avl9	ENSMUST00000031805.8	"AVL9 homolog (S. cerevisiase) "	mmu-miR-409-3p	-0.02
+Zfhx4	ENSMUST00000176383.2	"zinc finger homeodomain 4 "	mmu-miR-409-3p	-0.02
+Nr4a2	ENSMUST00000028166.3	"nuclear receptor subfamily 4, group A, member 2 "	mmu-miR-409-3p	-0.02
+Glp1r	ENSMUST00000114574.1	"glucagon-like peptide 1 receptor "	mmu-miR-409-3p	-0.02
+Sephs1	ENSMUST00000027973.8	"selenophosphate synthetase 1 "	mmu-miR-409-3p	-0.02
+Rps6ka3	ENSMUST00000033671.7	"ribosomal protein S6 kinase polypeptide 3 "	mmu-miR-409-3p	-0.02
+Gadl1	ENSMUST00000069651.7	"glutamate decarboxylase-like 1 "	mmu-miR-409-3p	-0.02
+Palm2	ENSMUST00000102905.2	"paralemmin 2 "	mmu-miR-409-3p	-0.02
+Rnf165	ENSMUST00000026494.8	"ring finger protein 165 "	mmu-miR-409-3p	-0.02
+Fam228b	ENSMUST00000053458.5	"family with sequence similarity 228, member B "	mmu-miR-409-3p	-0.02
+Zadh2	ENSMUST00000060223.2	"zinc binding alcohol dehydrogenase, domain containing 2 "	mmu-miR-409-3p	-0.02
+Slc38a1	ENSMUST00000088452.5	"solute carrier family 38, member 1 "	mmu-miR-409-3p	-0.02
+Ccdc66	ENSMUST00000050480.6	"coiled-coil domain containing 66 "	mmu-miR-409-3p	-0.02
+Trip11	ENSMUST00000021605.8	"thyroid hormone receptor interactor 11 "	mmu-miR-409-3p	-0.02
+Map4k4	ENSMUST00000163854.3	"mitogen-activated protein kinase kinase kinase kinase 4 "	mmu-miR-409-3p	-0.02
+Vmp1	ENSMUST00000018315.4	"vacuole membrane protein 1 "	mmu-miR-409-3p	-0.02
+Ankrd12	ENSMUST00000038116.6	"ankyrin repeat domain 12 "	mmu-miR-409-3p	-0.02
+Nfix	ENSMUST00000076715.7	"nuclear factor I/X "	mmu-miR-409-3p	-0.01
+Mark3	ENSMUST00000084953.6	"MAP/microtubule affinity-regulating kinase 3 "	mmu-miR-409-3p	-0.01
+Atf7	ENSMUST00000184616.2	"activating transcription factor 7 "	mmu-miR-409-3p	-0.01
+Slc39a10	ENSMUST00000027131.5	"solute carrier family 39 (zinc transporter), member 10 "	mmu-miR-409-3p	-0.01
+Rybp	ENSMUST00000101118.2	"RING1 and YY1 binding protein "	mmu-miR-409-3p	-0.01
+Fam120a	ENSMUST00000060805.6	"family with sequence similarity 120, member A "	mmu-miR-409-3p	-0.01
+Exoc5	ENSMUST00000162175.2	"exocyst complex component 5 "	mmu-miR-409-3p	-0.01
+Acvr1	ENSMUST00000112599.2	"activin A receptor, type 1 "	mmu-miR-409-3p	-0.01
+Cpd	ENSMUST00000021201.5	"carboxypeptidase D "	mmu-miR-409-3p	-0.01
+Ccnt2	ENSMUST00000112570.1	"cyclin T2 "	mmu-miR-409-3p	-0.01
+Secisbp2l	ENSMUST00000053699.7	"SECIS binding protein 2-like "	mmu-miR-409-3p	-0.01
+Ehmt1	ENSMUST00000102938.4	"euchromatic histone methyltransferase 1 "	mmu-miR-409-3p	-0.01
+Med12l	ENSMUST00000040325.8	"mediator complex subunit 12-like "	mmu-miR-409-3p	-0.01
+Matr3	ENSMUST00000166793.2	"matrin 3 "	mmu-miR-409-3p	-0.01
+Mfn1	ENSMUST00000091257.5	"mitofusin 1 "	mmu-miR-409-3p	-0.01
+Cep41	ENSMUST00000031810.9	"centrosomal protein 41 "	mmu-miR-409-3p	-0.01
+Vangl2	ENSMUST00000027837.7	"vang-like 2 (van gogh, Drosophila) "	mmu-miR-409-3p	-0.01
+Pcsk2	ENSMUST00000028905.9	"proprotein convertase subtilisin/kexin type 2 "	mmu-miR-409-3p	-0.01
+Kpna4	ENSMUST00000029353.3	"karyopherin (importin) alpha 4 "	mmu-miR-409-3p	-0.01
+Myo5b	ENSMUST00000074157.7	"myosin VB "	mmu-miR-409-3p	-0.01
+Mettl10	ENSMUST00000033257.9	"methyltransferase like 10 "	mmu-miR-409-3p	-0.01
+Ptprk	ENSMUST00000166468.1	"protein tyrosine phosphatase, receptor type, K "	mmu-miR-409-3p	-0.01
+Bbox1	ENSMUST00000046233.3	"butyrobetaine (gamma), 2-oxoglutarate dioxygenase 1 (gamma-butyrobetaine hydroxylase) "	mmu-miR-409-3p	-0.01
+S1pr1	ENSMUST00000055676.2	"sphingosine-1-phosphate receptor 1 "	mmu-miR-409-3p	-0.01
+Uqcc1	ENSMUST00000109632.2	"ubiquinol-cytochrome c reductase complex assembly factor 1 "	mmu-miR-409-3p	-0.01
+Tm9sf3	ENSMUST00000025989.8	"transmembrane 9 superfamily member 3 "	mmu-miR-409-3p	0
+Herc2	ENSMUST00000076226.7	"hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 2 "	mmu-miR-409-3p	0
+Abr	ENSMUST00000094012.5	"active BCR-related gene "	mmu-miR-409-3p	0
+Fap	ENSMUST00000102732.4	"fibroblast activation protein "	mmu-miR-409-3p	0
+Wee1	ENSMUST00000033326.8	"WEE 1 homolog 1 (S. pombe) "	mmu-miR-409-3p	0
+Tapt1	ENSMUST00000055128.7	"transmembrane anterior posterior transformation 1 "	mmu-miR-409-3p	0
+Larp1	ENSMUST00000178636.1	"La ribonucleoprotein domain family, member 1 "	mmu-miR-409-3p	0
+Slc2a12	ENSMUST00000042261.4	"solute carrier family 2 (facilitated glucose transporter), member 12 "	mmu-miR-409-3p	0
+Faf2	ENSMUST00000126071.2	"Fas associated factor family member 2 "	mmu-miR-409-3p	0
+Ptger3	ENSMUST00000173533.1	"prostaglandin E receptor 3 (subtype EP3) "	mmu-miR-409-3p	0
+Zc2hc1c	ENSMUST00000059341.4	"zinc finger, C2HC-type containing 1C "	mmu-miR-409-3p	0
+Ipo7	ENSMUST00000084731.3	"importin 7 "	mmu-miR-409-3p	0
+Adal	ENSMUST00000028702.4	"adenosine deaminase-like "	mmu-miR-409-3p	0
+Slc7a9	ENSMUST00000118969.2	"solute carrier family 7 (cationic amino acid transporter, y+ system), member 9 "	mmu-miR-409-3p	0
+Cep72	ENSMUST00000036456.6	"centrosomal protein 72 "	mmu-miR-409-3p	0
+Gadd45gip1	ENSMUST00000036734.5	"growth arrest and DNA-damage-inducible, gamma interacting protein 1 "	mmu-miR-409-3p	0
+Brca2	ENSMUST00000044620.7	"breast cancer 2 "	mmu-miR-409-3p	0
+Hnrnpr	ENSMUST00000148843.4	"heterogeneous nuclear ribonucleoprotein R "	mmu-miR-409-3p	0
+Sass6	ENSMUST00000029571.8	"spindle assembly 6 homolog (C. elegans) "	mmu-miR-409-3p	0
+Mterfd3	ENSMUST00000050813.2	"MTERF domain containing 3 "	mmu-miR-409-3p	0
+Trp53inp2	ENSMUST00000043237.8	"transformation related protein 53 inducible nuclear protein 2 "	mmu-miR-409-3p	0
+Ccdc104	ENSMUST00000020754.4	"coiled-coil domain containing 104 "	mmu-miR-409-3p	0
+Urb2	ENSMUST00000034457.8	"URB2 ribosome biogenesis 2 homolog (S. cerevisiae) "	mmu-miR-409-3p	0
+Csrp2	ENSMUST00000020403.5	"cysteine and glycine-rich protein 2 "	mmu-miR-409-3p	0
+Tmem161a	ENSMUST00000002413.9	"transmembrane protein 161A "	mmu-miR-409-3p	0
+Epha6	ENSMUST00000068860.7	"Eph receptor A6 "	mmu-miR-409-3p	0
+Irx2	ENSMUST00000074372.5	"Iroquois related homeobox 2 (Drosophila) "	mmu-miR-409-3p	0
+Ndufb2	ENSMUST00000135671.2	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2 "	mmu-miR-409-3p	0
+Erich5	ENSMUST00000060894.7	"glutamate rich 5 "	mmu-miR-409-3p	0
+Tmem53	ENSMUST00000106434.2	"transmembrane protein 53 "	mmu-miR-409-3p	0
+Psmg4	ENSMUST00000124996.2	"proteasome (prosome, macropain) assembly chaperone 4 "	mmu-miR-409-3p	0
+Prorsd1	ENSMUST00000133103.1	"prolyl-tRNA synthetase domain containing 1 "	mmu-miR-409-3p	0
+Fbxl17	ENSMUST00000024761.7	"F-box and leucine-rich repeat protein 17 "	mmu-miR-409-3p	0
+Sod1	ENSMUST00000023707.9	"superoxide dismutase 1, soluble "	mmu-miR-409-3p	0
+Paf1	ENSMUST00000003529.8	"Paf1, RNA polymerase II associated factor, homolog (S. cerevisiae) "	mmu-miR-409-3p	0
+Tgfb2	ENSMUST00000045288.8	"transforming growth factor, beta 2 "	mmu-miR-409-3p	0
+Rars2	ENSMUST00000029968.8	"arginyl-tRNA synthetase 2, mitochondrial "	mmu-miR-409-3p	0
+Cul1	ENSMUST00000031697.8	"cullin 1 "	mmu-miR-409-3p	0

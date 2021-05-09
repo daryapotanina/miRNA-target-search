@@ -1,0 +1,5 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,88,mmu-miR-455-5p,P2ry13,"purinergic receptor P2Y, G-protein coupled 13",ENSMUSG00000036362.2,P2ry13,2.432108,7.34317e-07
+,mf_d1338,,,,,,,,,,88,mmu-miR-455-5p,Col4a1,"collagen, type IV, alpha 1",ENSMUSG00000031502.11,Col4a1,7.0739846,1.66235e-08
+mf_d1338,mf_d1338,Mylip,Mylip,ENSMUST00000038275.9,myosin regulatory light chain interacting protein ,mmu-miR-455-5p,-0.45,ENSMUSG00000038175.10,0.19357686,0.000360407,98,mmu-miR-455-5p,Mylip,myosin regulatory light chain interacting protein,ENSMUSG00000038175.10,Mylip,0.19357686,0.000360407
+,mf_wt,,,,,,,,,,90,mmu-miR-455-5p,Peak1,pseudopodium-enriched atypical kinase 1,ENSMUSG00000074305.9,Peak1,4.01185,2.3447e-16

@@ -1,0 +1,230 @@
+Target gene	Representative transcript	Gene name	Representative miRNA	Cumulative weighted context++ score
+Eed	ENSMUST00000107234.1	"embryonic ectoderm development "	mmu-miR-455-5p	-0.63
+Gdap2	ENSMUST00000029459.4	"ganglioside-induced differentiation-associated-protein 2 "	mmu-miR-455-5p	-0.59
+Luc7l3	ENSMUST00000107820.1	"LUC7-like 3 (S. cerevisiae) "	mmu-miR-455-5p	-0.56
+Gm9938	ENSMUST00000067077.1	"predicted gene 9938 "	mmu-miR-455-5p	-0.55
+Trak2	ENSMUST00000174120.1	"trafficking protein, kinesin binding 2 "	mmu-miR-455-5p	-0.53
+Tmem30a	ENSMUST00000034878.6	"transmembrane protein 30A "	mmu-miR-455-5p	-0.52
+Gm5464	ENSMUST00000100453.1	"predicted gene 5464 "	mmu-miR-455-5p	-0.52
+Cpeb1	ENSMUST00000098331.4	"cytoplasmic polyadenylation element binding protein 1 "	mmu-miR-455-5p	-0.51
+Cept1	ENSMUST00000068301.5	"choline/ethanolaminephosphotransferase 1 "	mmu-miR-455-5p	-0.50
+Prep	ENSMUST00000099858.2	"prolyl endopeptidase "	mmu-miR-455-5p	-0.49
+Dcaf5	ENSMUST00000054145.6	"DDB1 and CUL4 associated factor 5 "	mmu-miR-455-5p	-0.47
+Socs3	ENSMUST00000054002.3	"suppressor of cytokine signaling 3 "	mmu-miR-455-5p	-0.45
+Tomm22	ENSMUST00000023062.3	"translocase of outer mitochondrial membrane 22 homolog (yeast) "	mmu-miR-455-5p	-0.45
+Mylip	ENSMUST00000038275.9	"myosin regulatory light chain interacting protein "	mmu-miR-455-5p	-0.45
+Enoph1	ENSMUST00000169390.2	"enolase-phosphatase 1 "	mmu-miR-455-5p	-0.45
+Sox11	ENSMUST00000079063.6	"SRY (sex determining region Y)-box 11 "	mmu-miR-455-5p	-0.44
+Rab18	ENSMUST00000097680.5	"RAB18, member RAS oncogene family "	mmu-miR-455-5p	-0.44
+Cacnb4	ENSMUST00000178799.2	"calcium channel, voltage-dependent, beta 4 subunit "	mmu-miR-455-5p	-0.44
+Nck2	ENSMUST00000086421.5	"non-catalytic region of tyrosine kinase adaptor protein 2 "	mmu-miR-455-5p	-0.42
+Cdk14	ENSMUST00000115451.2	"cyclin-dependent kinase 14 "	mmu-miR-455-5p	-0.41
+Taf4a	ENSMUST00000041618.8	"TAF4A RNA polymerase II, TATA box binding protein (TBP)-associated factor "	mmu-miR-455-5p	-0.41
+Irf2	ENSMUST00000034041.7	"interferon regulatory factor 2 "	mmu-miR-455-5p	-0.40
+Cdv3	ENSMUST00000116517.3	"carnitine deficiency-associated gene expressed in ventricle 3 "	mmu-miR-455-5p	-0.39
+Dyrk1a	ENSMUST00000023614.4	"dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1a "	mmu-miR-455-5p	-0.39
+Hnrnpl	ENSMUST00000174548.2	"heterogeneous nuclear ribonucleoprotein L "	mmu-miR-455-5p	-0.39
+Yipf6	ENSMUST00000054697.5	"Yip1 domain family, member 6 "	mmu-miR-455-5p	-0.39
+Add3	ENSMUST00000111741.3	"adducin 3 (gamma) "	mmu-miR-455-5p	-0.38
+Cdk13	ENSMUST00000042365.7	"cyclin-dependent kinase 13 "	mmu-miR-455-5p	-0.38
+Tmed2	ENSMUST00000060226.5	"transmembrane emp24 domain trafficking protein 2 "	mmu-miR-455-5p	-0.38
+Lnp	ENSMUST00000111993.3	"limb and neural patterns "	mmu-miR-455-5p	-0.37
+Gabarap	ENSMUST00000018711.9	"gamma-aminobutyric acid receptor associated protein "	mmu-miR-455-5p	-0.37
+Brd1	ENSMUST00000109381.2	"bromodomain containing 1 "	mmu-miR-455-5p	-0.37
+Serp1	ENSMUST00000029385.7	"stress-associated endoplasmic reticulum protein 1 "	mmu-miR-455-5p	-0.36
+Nhlrc4	ENSMUST00000085027.3	"NHL repeat containing 4 "	mmu-miR-455-5p	-0.35
+Unc5b	ENSMUST00000077925.5	"unc-5 homolog B (C. elegans) "	mmu-miR-455-5p	-0.35
+Ptp4a2	ENSMUST00000165853.1	"protein tyrosine phosphatase 4a2 "	mmu-miR-455-5p	-0.35
+Usp9x	ENSMUST00000089302.5	"ubiquitin specific peptidase 9, X chromosome "	mmu-miR-455-5p	-0.35
+Nrxn1	ENSMUST00000160844.4	"neurexin I "	mmu-miR-455-5p	-0.35
+Slitrk5	ENSMUST00000042767.7	"SLIT and NTRK-like family, member 5 "	mmu-miR-455-5p	-0.34
+Rin2	ENSMUST00000110005.2	"Ras and Rab interactor 2 "	mmu-miR-455-5p	-0.34
+Gm10295	ENSMUST00000094315.2	"predicted gene 10295 "	mmu-miR-455-5p	-0.33
+Kcnj2	ENSMUST00000042970.2	"potassium inwardly-rectifying channel, subfamily J, member 2 "	mmu-miR-455-5p	-0.33
+Dock9	ENSMUST00000100299.4	"dedicator of cytokinesis 9 "	mmu-miR-455-5p	-0.33
+Ranbp3	ENSMUST00000002445.8	"RAN binding protein 3 "	mmu-miR-455-5p	-0.33
+Papolg	ENSMUST00000020513.4	"poly(A) polymerase gamma "	mmu-miR-455-5p	-0.32
+Calb1	ENSMUST00000029876.1	"calbindin 1 "	mmu-miR-455-5p	-0.32
+AI846148	ENSMUST00000025924.2	"expressed sequence AI846148 "	mmu-miR-455-5p	-0.32
+Wtap	ENSMUST00000159986.2	"Wilms tumour 1-associating protein "	mmu-miR-455-5p	-0.32
+Lin28b	ENSMUST00000079390.6	"lin-28 homolog B (C. elegans) "	mmu-miR-455-5p	-0.32
+Clock	ENSMUST00000075159.1	"circadian locomotor output cycles kaput "	mmu-miR-455-5p	-0.32
+Rassf3	ENSMUST00000026902.7	"Ras association (RalGDS/AF-6) domain family member 3 "	mmu-miR-455-5p	-0.32
+Ddx3x	ENSMUST00000000804.6	"DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 3, X-linked "	mmu-miR-455-5p	-0.31
+Col8a1	ENSMUST00000089332.4	"collagen, type VIII, alpha 1 "	mmu-miR-455-5p	-0.31
+Tjp1	ENSMUST00000102592.4	"tight junction protein 1 "	mmu-miR-455-5p	-0.30
+Arrdc3	ENSMUST00000099356.3	"arrestin domain containing 3 "	mmu-miR-455-5p	-0.30
+4930523C07Rik	ENSMUST00000163892.2	"RIKEN cDNA 4930523C07 gene "	mmu-miR-455-5p	-0.30
+Hykk	ENSMUST00000039742.7	"hydroxylysine kinase 1 "	mmu-miR-455-5p	-0.30
+Mfsd12	ENSMUST00000044844.8	"major facilitator superfamily domain containing 12 "	mmu-miR-455-5p	-0.29
+Ankrd27	ENSMUST00000040844.10	"ankyrin repeat domain 27 (VPS9 domain) "	mmu-miR-455-5p	-0.28
+Epdr1	ENSMUST00000002885.6	"ependymin related protein 1 (zebrafish) "	mmu-miR-455-5p	-0.28
+Usp3	ENSMUST00000127569.2	"ubiquitin specific peptidase 3 "	mmu-miR-455-5p	-0.28
+Pnrc1	ENSMUST00000049357.9	"proline-rich nuclear receptor coactivator 1 "	mmu-miR-455-5p	-0.28
+Gjc1	ENSMUST00000068933.6	"gap junction protein, gamma 1 "	mmu-miR-455-5p	-0.27
+Baz2b	ENSMUST00000112550.2	"bromodomain adjacent to zinc finger domain, 2B "	mmu-miR-455-5p	-0.27
+Camk4	ENSMUST00000042868.4	"calcium/calmodulin-dependent protein kinase IV "	mmu-miR-455-5p	-0.27
+Kdm3b	ENSMUST00000043775.7	"KDM3B lysine (K)-specific demethylase 3B "	mmu-miR-455-5p	-0.27
+Ppp1r12a	ENSMUST00000070663.5	"protein phosphatase 1, regulatory (inhibitor) subunit 12A "	mmu-miR-455-5p	-0.26
+Nr4a2	ENSMUST00000028166.3	"nuclear receptor subfamily 4, group A, member 2 "	mmu-miR-455-5p	-0.26
+Actn1	ENSMUST00000021554.9	"actinin, alpha 1 "	mmu-miR-455-5p	-0.26
+Eif3j1	ENSMUST00000028668.7	"eukaryotic translation initiation factor 3, subunit J1 "	mmu-miR-455-5p	-0.25
+Kdr	ENSMUST00000113516.1	"kinase insert domain protein receptor "	mmu-miR-455-5p	-0.25
+Rfx4	ENSMUST00000095388.4	"regulatory factor X, 4 (influences HLA class II expression) "	mmu-miR-455-5p	-0.25
+Ptbp2	ENSMUST00000029780.7	"polypyrimidine tract binding protein 2 "	mmu-miR-455-5p	-0.25
+Jdp2	ENSMUST00000177587.2	"Jun dimerization protein 2 "	mmu-miR-455-5p	-0.25
+Ttc17	ENSMUST00000055081.8	"tetratricopeptide repeat domain 17 "	mmu-miR-455-5p	-0.25
+Ets1	ENSMUST00000184887.1	"E26 avian leukemia oncogene 1, 5' domain "	mmu-miR-455-5p	-0.24
+Slc17a6	ENSMUST00000032710.5	"solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 6 "	mmu-miR-455-5p	-0.24
+Muc19	ENSMUST00000178108.1	"mucin 19 "	mmu-miR-455-5p	-0.24
+Atp11c	ENSMUST00000154051.2	"ATPase, class VI, type 11C "	mmu-miR-455-5p	-0.24
+Rims4	ENSMUST00000044734.2	"regulating synaptic membrane exocytosis 4 "	mmu-miR-455-5p	-0.24
+Rc3h1	ENSMUST00000161609.2	"RING CCCH (C3H) domains 1 "	mmu-miR-455-5p	-0.24
+Rasl10b	ENSMUST00000175848.2	"RAS-like, family 10, member B "	mmu-miR-455-5p	-0.24
+Tnpo1	ENSMUST00000109399.3	"transportin 1 "	mmu-miR-455-5p	-0.24
+Tubb5	ENSMUST00000001566.9	"tubulin, beta 5 class I "	mmu-miR-455-5p	-0.23
+Fbxo42	ENSMUST00000030757.9	"F-box protein 42 "	mmu-miR-455-5p	-0.23
+Stk24	ENSMUST00000079817.7	"serine/threonine kinase 24 "	mmu-miR-455-5p	-0.23
+Nrg1	ENSMUST00000073884.4	"neuregulin 1 "	mmu-miR-455-5p	-0.23
+Secisbp2l	ENSMUST00000053699.7	"SECIS binding protein 2-like "	mmu-miR-455-5p	-0.23
+Lsm12	ENSMUST00000107156.3	"LSM12 homolog (S. cerevisiae) "	mmu-miR-455-5p	-0.22
+Tbl1xr1	ENSMUST00000063988.8	"transducin (beta)-like 1X-linked receptor 1 "	mmu-miR-455-5p	-0.22
+Wdr45b	ENSMUST00000026173.7	"WD repeat domain 45B "	mmu-miR-455-5p	-0.22
+Slc30a5	ENSMUST00000067246.4	"solute carrier family 30 (zinc transporter), member 5 "	mmu-miR-455-5p	-0.22
+Cpsf7	ENSMUST00000038379.3	"cleavage and polyadenylation specific factor 7 "	mmu-miR-455-5p	-0.22
+Prorsd1	ENSMUST00000133103.1	"prolyl-tRNA synthetase domain containing 1 "	mmu-miR-455-5p	-0.21
+Peak1	ENSMUST00000188142.1	"pseudopodium-enriched atypical kinase 1 "	mmu-miR-455-5p	-0.21
+Dync1li2	ENSMUST00000041769.6	"dynein, cytoplasmic 1 light intermediate chain 2 "	mmu-miR-455-5p	-0.21
+Memo1	ENSMUST00000078459.6	"mediator of cell motility 1 "	mmu-miR-455-5p	-0.21
+Thsd7a	ENSMUST00000046121.7	"thrombospondin, type I, domain containing 7A "	mmu-miR-455-5p	-0.21
+Mtf2	ENSMUST00000081567.5	"metal response element binding transcription factor 2 "	mmu-miR-455-5p	-0.21
+Sema4g	ENSMUST00000026225.9	"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4G "	mmu-miR-455-5p	-0.20
+Lphn3	ENSMUST00000120128.2	"latrophilin 3 "	mmu-miR-455-5p	-0.20
+Baz1b	ENSMUST00000002825.5	"bromodomain adjacent to zinc finger domain, 1B "	mmu-miR-455-5p	-0.20
+Galnt7	ENSMUST00000034021.6	"UDP-N-acetyl-alpha-D-galactosamine: polypeptide N-acetylgalactosaminyltransferase 7 "	mmu-miR-455-5p	-0.20
+CTNND1	ENSMUST00000189772.1	"Catenin delta-1  "	mmu-miR-455-5p	-0.20
+Pou4f2	ENSMUST00000034115.4	"POU domain, class 4, transcription factor 2 "	mmu-miR-455-5p	-0.20
+Ctnnd1	ENSMUST00000111696.2	"catenin (cadherin associated protein), delta 1 "	mmu-miR-455-5p	-0.19
+Pnisr	ENSMUST00000098238.3	"PNN interacting serine/arginine-rich "	mmu-miR-455-5p	-0.19
+Zfp704	ENSMUST00000041124.7	"zinc finger protein 704 "	mmu-miR-455-5p	-0.19
+Zfp292	ENSMUST00000098163.3	"zinc finger protein 292 "	mmu-miR-455-5p	-0.19
+Tnrc6b	ENSMUST00000067689.7	"trinucleotide repeat containing 6b "	mmu-miR-455-5p	-0.18
+Ndfip1	ENSMUST00000025293.3	"Nedd4 family interacting protein 1 "	mmu-miR-455-5p	-0.18
+Fbxl7	ENSMUST00000059204.9	"F-box and leucine-rich repeat protein 7 "	mmu-miR-455-5p	-0.18
+Phf12	ENSMUST00000049167.8	"PHD finger protein 12 "	mmu-miR-455-5p	-0.18
+Adnp	ENSMUST00000057793.5	"activity-dependent neuroprotective protein "	mmu-miR-455-5p	-0.18
+Kcnh7	ENSMUST00000075052.4	"potassium voltage-gated channel, subfamily H (eag-related), member 7 "	mmu-miR-455-5p	-0.17
+Plcxd3	ENSMUST00000061925.4	"phosphatidylinositol-specific phospholipase C, X domain containing 3 "	mmu-miR-455-5p	-0.17
+Rab3il1	ENSMUST00000121418.2	"RAB3A interacting protein (rabin3)-like 1 "	mmu-miR-455-5p	-0.17
+Pgap2	ENSMUST00000120879.2	"post-GPI attachment to proteins 2 "	mmu-miR-455-5p	-0.17
+Zfpm2	ENSMUST00000053467.4	"zinc finger protein, multitype 2 "	mmu-miR-455-5p	-0.16
+Stt3b	ENSMUST00000035010.8	"STT3, subunit of the oligosaccharyltransferase complex, homolog B (S. cerevisiae) "	mmu-miR-455-5p	-0.16
+Inpp5k	ENSMUST00000006286.3	"inositol polyphosphate 5-phosphatase K "	mmu-miR-455-5p	-0.16
+Suz12	ENSMUST00000017692.9	"suppressor of zeste 12 homolog (Drosophila) "	mmu-miR-455-5p	-0.16
+Mknk1	ENSMUST00000019677.6	"MAP kinase-interacting serine/threonine kinase 1 "	mmu-miR-455-5p	-0.16
+Lrp2	ENSMUST00000080953.6	"low density lipoprotein receptor-related protein 2 "	mmu-miR-455-5p	-0.16
+Frk	ENSMUST00000019913.8	"fyn-related kinase "	mmu-miR-455-5p	-0.16
+Fzd5	ENSMUST00000063982.6	"frizzled homolog 5 (Drosophila) "	mmu-miR-455-5p	-0.16
+Glis3	ENSMUST00000162022.2	"GLIS family zinc finger 3 "	mmu-miR-455-5p	-0.16
+Cd47	ENSMUST00000084838.7	"CD47 antigen (Rh-related antigen, integrin-associated signal transducer) "	mmu-miR-455-5p	-0.15
+R3hdm2	ENSMUST00000105249.3	"R3H domain containing 2 "	mmu-miR-455-5p	-0.15
+Galnt13	ENSMUST00000112636.2	"UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 13 "	mmu-miR-455-5p	-0.15
+Kdm6a	ENSMUST00000044484.7	"lysine (K)-specific demethylase 6A "	mmu-miR-455-5p	-0.14
+Tvp23a	ENSMUST00000051118.6	"trans-golgi network vesicle protein 23A "	mmu-miR-455-5p	-0.14
+Zfand5	ENSMUST00000025659.5	"zinc finger, AN1-type domain 5 "	mmu-miR-455-5p	-0.14
+Shc3	ENSMUST00000021898.5	"src homology 2 domain-containing transforming protein C3 "	mmu-miR-455-5p	-0.14
+Rnf44	ENSMUST00000177950.2	"ring finger protein 44 "	mmu-miR-455-5p	-0.13
+Rnf165	ENSMUST00000026494.8	"ring finger protein 165 "	mmu-miR-455-5p	-0.13
+Arid1a	ENSMUST00000145664.3	"AT rich interactive domain 1A (SWI-like) "	mmu-miR-455-5p	-0.13
+Rnf111	ENSMUST00000034739.6	"ring finger 111 "	mmu-miR-455-5p	-0.13
+Pag1	ENSMUST00000161949.2	"phosphoprotein associated with glycosphingolipid microdomains 1 "	mmu-miR-455-5p	-0.13
+Ipo7	ENSMUST00000084731.3	"importin 7 "	mmu-miR-455-5p	-0.11
+Acot11	ENSMUST00000102762.4	"acyl-CoA thioesterase 11 "	mmu-miR-455-5p	-0.11
+Nfia	ENSMUST00000092532.7	"nuclear factor I/A "	mmu-miR-455-5p	-0.11
+Casz1	ENSMUST00000122222.2	"castor zinc finger 1 "	mmu-miR-455-5p	-0.11
+Stx1b	ENSMUST00000106267.3	"syntaxin 1B "	mmu-miR-455-5p	-0.11
+Shoc2	ENSMUST00000169861.2	"soc-2 (suppressor of clear) homolog (C. elegans) "	mmu-miR-455-5p	-0.11
+Nr3c2	ENSMUST00000109913.3	"nuclear receptor subfamily 3, group C, member 2 "	mmu-miR-455-5p	-0.11
+Ric3	ENSMUST00000055993.7	"resistance to inhibitors of cholinesterase 3 homolog (C. elegans) "	mmu-miR-455-5p	-0.10
+Pclo	ENSMUST00000182407.2	"piccolo (presynaptic cytomatrix protein) "	mmu-miR-455-5p	-0.10
+Usp47	ENSMUST00000106653.2	"ubiquitin specific peptidase 47 "	mmu-miR-455-5p	-0.10
+Vkorc1l1	ENSMUST00000073945.4	"vitamin K epoxide reductase complex, subunit 1-like 1 "	mmu-miR-455-5p	-0.10
+Zfp516	ENSMUST00000171238.2	"zinc finger protein 516 "	mmu-miR-455-5p	-0.10
+Fer	ENSMUST00000000129.7	"fer (fms/fps related) protein kinase "	mmu-miR-455-5p	-0.10
+Homer1	ENSMUST00000079086.6	"homer homolog 1 (Drosophila) "	mmu-miR-455-5p	-0.10
+Kpna3	ENSMUST00000022496.7	"karyopherin (importin) alpha 3 "	mmu-miR-455-5p	-0.09
+4930402H24Rik	ENSMUST00000044766.9	"RIKEN cDNA 4930402H24 gene "	mmu-miR-455-5p	-0.09
+Kif1b	ENSMUST00000060537.7	"kinesin family member 1B "	mmu-miR-455-5p	-0.09
+Patl1	ENSMUST00000061618.7	"protein associated with topoisomerase II homolog 1 (yeast) "	mmu-miR-455-5p	-0.09
+Gpr116	ENSMUST00000113599.1	"G protein-coupled receptor 116 "	mmu-miR-455-5p	-0.09
+3830406C13Rik	ENSMUST00000112669.4	"RIKEN cDNA 3830406C13 gene "	mmu-miR-455-5p	-0.09
+Fbxo33	ENSMUST00000043204.7	"F-box protein 33 "	mmu-miR-455-5p	-0.08
+Fign	ENSMUST00000131615.3	"fidgetin "	mmu-miR-455-5p	-0.08
+Atp13a3	ENSMUST00000061350.7	"ATPase type 13A3 "	mmu-miR-455-5p	-0.08
+Cds2	ENSMUST00000103181.5	"CDP-diacylglycerol synthase (phosphatidate cytidylyltransferase) 2 "	mmu-miR-455-5p	-0.08
+Rfx7	ENSMUST00000093820.4	"regulatory factor X, 7 "	mmu-miR-455-5p	-0.08
+Fam84a	ENSMUST00000020926.6	"family with sequence similarity 84, member A "	mmu-miR-455-5p	-0.07
+Cdkn1b	ENSMUST00000067327.5	"cyclin-dependent kinase inhibitor 1B "	mmu-miR-455-5p	-0.07
+Nlk	ENSMUST00000142739.2	"nemo like kinase "	mmu-miR-455-5p	-0.07
+Adipor2	ENSMUST00000032272.7	"adiponectin receptor 2 "	mmu-miR-455-5p	-0.07
+Plxdc2	ENSMUST00000028081.7	"plexin domain containing 2 "	mmu-miR-455-5p	-0.07
+Cdyl2	ENSMUST00000109102.2	"chromodomain protein, Y chromosome-like 2 "	mmu-miR-455-5p	-0.07
+Bend4	ENSMUST00000169190.1	"BEN domain containing 4 "	mmu-miR-455-5p	-0.07
+Zxdc	ENSMUST00000075117.4	"ZXD family zinc finger C "	mmu-miR-455-5p	-0.07
+Oprd1	ENSMUST00000056336.1	"opioid receptor, delta 1 "	mmu-miR-455-5p	-0.06
+Pja2	ENSMUST00000172818.2	"praja 2, RING-H2 motif containing "	mmu-miR-455-5p	-0.06
+Vcan	ENSMUST00000109546.3	"versican "	mmu-miR-455-5p	-0.06
+Gpx4	ENSMUST00000105372.2	"glutathione peroxidase 4 "	mmu-miR-455-5p	-0.06
+Ebf1	ENSMUST00000081265.6	"early B cell factor 1 "	mmu-miR-455-5p	-0.06
+Gabrb2	ENSMUST00000007797.4	"gamma-aminobutyric acid (GABA) A receptor, subunit beta 2 "	mmu-miR-455-5p	-0.05
+Dhx40	ENSMUST00000018569.8	"DEAH (Asp-Glu-Ala-His) box polypeptide 40 "	mmu-miR-455-5p	-0.05
+Pcdh1	ENSMUST00000160721.2	"protocadherin 1 "	mmu-miR-455-5p	-0.05
+Eif2ak1	ENSMUST00000100487.4	"eukaryotic translation initiation factor 2 alpha kinase 1 "	mmu-miR-455-5p	-0.05
+Zfp606	ENSMUST00000098822.4	"zinc finger protein 606 "	mmu-miR-455-5p	-0.05
+Znrf1	ENSMUST00000171182.2	"zinc and ring finger 1 "	mmu-miR-455-5p	-0.04
+Trim33	ENSMUST00000029444.7	"tripartite motif-containing 33 "	mmu-miR-455-5p	-0.04
+Dlgap4	ENSMUST00000000094.8	"discs, large homolog-associated protein 4 (Drosophila) "	mmu-miR-455-5p	-0.04
+Slitrk2	ENSMUST00000166241.1	"SLIT and NTRK-like family, member 2 "	mmu-miR-455-5p	-0.03
+Runx1t1	ENSMUST00000006761.4	"runt-related transcription factor 1; translocated to, 1 (cyclin D-related) "	mmu-miR-455-5p	-0.03
+Unc80	ENSMUST00000061620.10	"unc-80 homolog (C. elegans) "	mmu-miR-455-5p	-0.03
+Igf1r	ENSMUST00000005671.8	"insulin-like growth factor I receptor "	mmu-miR-455-5p	-0.03
+Rasgrp4	ENSMUST00000032811.6	"RAS guanyl releasing protein 4 "	mmu-miR-455-5p	-0.03
+Zfyve16	ENSMUST00000022217.8	"zinc finger, FYVE domain containing 16 "	mmu-miR-455-5p	-0.03
+Tmem33	ENSMUST00000037918.6	"transmembrane protein 33 "	mmu-miR-455-5p	-0.02
+Ube2k	ENSMUST00000142407.2	"ubiquitin-conjugating enzyme E2K "	mmu-miR-455-5p	-0.02
+Kctd15	ENSMUST00000108069.2	"potassium channel tetramerisation domain containing 15 "	mmu-miR-455-5p	-0.02
+Ube2w	ENSMUST00000117146.2	"ubiquitin-conjugating enzyme E2W (putative) "	mmu-miR-455-5p	-0.02
+Hoxa3	ENSMUST00000114434.3	"homeobox A3 "	mmu-miR-455-5p	-0.02
+Eps8l1	ENSMUST00000171445.2	"EPS8-like 1 "	mmu-miR-455-5p	-0.01
+Traf7	ENSMUST00000176652.2	"TNF receptor-associated factor 7 "	mmu-miR-455-5p	-0.01
+Rrnad1	ENSMUST00000005016.10	"ribosomal RNA adenine dimethylase domain containing 1 "	mmu-miR-455-5p	-0.01
+Slc39a5	ENSMUST00000042666.6	"solute carrier family 39 (metal ion transporter), member 5 "	mmu-miR-455-5p	-0.01
+Caln1	ENSMUST00000111288.2	"calneuron 1 "	mmu-miR-455-5p	-0.01
+S1pr1	ENSMUST00000055676.2	"sphingosine-1-phosphate receptor 1 "	mmu-miR-455-5p	-0.01
+Sdccag8	ENSMUST00000027785.9	"serologically defined colon cancer antigen 8 "	mmu-miR-455-5p	-0.01
+Dimt1	ENSMUST00000022203.8	"DIM1 dimethyladenosine transferase 1-like (S. cerevisiae) "	mmu-miR-455-5p	-0.01
+Derl2	ENSMUST00000143850.2	"Der1-like domain family, member 2 "	mmu-miR-455-5p	-0.01
+Shroom1	ENSMUST00000093114.4	"shroom family member 1 "	mmu-miR-455-5p	-0.01
+Lgi3	ENSMUST00000047331.6	"leucine-rich repeat LGI family, member 3 "	mmu-miR-455-5p	-0.01
+Pdap1	ENSMUST00000031627.8	"PDGFA associated protein 1 "	mmu-miR-455-5p	-0.01
+Obfc1	ENSMUST00000049369.10	"oligonucleotide/oligosaccharide-binding fold containing 1 "	mmu-miR-455-5p	0
+1810022K09Rik	ENSMUST00000186870.1	"RIKEN cDNA 1810022K09 gene "	mmu-miR-455-5p	0
+Nhej1	ENSMUST00000152855.1	"nonhomologous end-joining factor 1 "	mmu-miR-455-5p	0
+Chst7	ENSMUST00000044138.7	"carbohydrate (N-acetylglucosamino) sulfotransferase 7 "	mmu-miR-455-5p	0
+Rnf34	ENSMUST00000031434.6	"ring finger protein 34 "	mmu-miR-455-5p	0
+Polr3g	ENSMUST00000048993.6	"polymerase (RNA) III (DNA directed) polypeptide G "	mmu-miR-455-5p	0
+Ltc4s	ENSMUST00000101265.3	"leukotriene C4 synthase "	mmu-miR-455-5p	0
+Ppp2ca	ENSMUST00000020608.2	"protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform "	mmu-miR-455-5p	0
+Aagab	ENSMUST00000041551.7	"alpha- and gamma-adaptin binding protein "	mmu-miR-455-5p	0
+Wdr41	ENSMUST00000056512.8	"WD repeat domain 41 "	mmu-miR-455-5p	0
+Abi3	ENSMUST00000059026.4	"ABI gene family, member 3 "	mmu-miR-455-5p	0
+Lrrc40	ENSMUST00000072080.4	"leucine rich repeat containing 40 "	mmu-miR-455-5p	0
+Diablo	ENSMUST00000111587.4	"diablo homolog (Drosophila) "	mmu-miR-455-5p	0
+Fli1	ENSMUST00000016231.8	"Friend leukemia integration 1 "	mmu-miR-455-5p	0
+Ldlrad4	ENSMUST00000063775.3	"low density lipoprotein receptor class A domain containing 4 "	mmu-miR-455-5p	0
+Xpo5	ENSMUST00000087031.5	"exportin 5 "	mmu-miR-455-5p	0
+Ubl7	ENSMUST00000163329.1	"ubiquitin-like 7 (bone marrow stromal cell-derived) "	mmu-miR-455-5p	0
+Cyp8b1	ENSMUST00000062474.4	"cytochrome P450, family 8, subfamily b, polypeptide 1 "	mmu-miR-455-5p	0
+Leap2	ENSMUST00000036045.5	"liver-expressed antimicrobial peptide 2 "	mmu-miR-455-5p	0
+Snx11	ENSMUST00000021246.3	"sorting nexin 11 "	mmu-miR-455-5p	0
+Rad51d	ENSMUST00000018985.9	"RAD51 homolog D "	mmu-miR-455-5p	0

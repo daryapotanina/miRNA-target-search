@@ -1,0 +1,102 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,90,mmu-let-7c-1-3p,Pald1,"phosphatase domain containing, paladin 1",ENSMUSG00000020092.9,Pald1,3.9339821,2.8973e-17
+,wt_d1338,,,,,,,,,,81,mmu-let-7c-1-3p,Lrrc4,leucine rich repeat containing 4,ENSMUSG00000049939.6,Lrrc4,2.8221762,4.26008e-09
+,wt_d1338,,,,,,,,,,86,mmu-let-7c-1-3p,Gca,grancalcin,ENSMUSG00000026893.4,Gca,2.3616524,1.16099e-14
+mf_wt,wt_d1338,Scamp5,Scamp5,ENSMUST00000046587.6,secretory carrier membrane protein 5 ,mmu-let-7c-1-3p,-0.4,ENSMUSG00000040722.7,0.12758975,7.8361e-09,92,mmu-let-7c-1-3p,Scamp5,secretory carrier membrane protein 5,ENSMUSG00000040722.7,Scamp5,2.34294,1.14065e-34
+wt_d1338,wt_d1338,Scamp5,Scamp5,ENSMUST00000046587.6,secretory carrier membrane protein 5 ,mmu-let-7c-1-3p,-0.4,ENSMUSG00000040722.7,2.34294,1.14065e-34,92,mmu-let-7c-1-3p,Scamp5,secretory carrier membrane protein 5,ENSMUSG00000040722.7,Scamp5,2.34294,1.14065e-34
+,wt_d1338,,,,,,,,,,85,mmu-let-7c-1-3p,Fam43a,"family with sequence similarity 43, member A",ENSMUSG00000046546.3,Fam43a,2.3380256,1.7273e-39
+,wt_d1338,,,,,,,,,,96,mmu-let-7c-1-3p,Ccna2,cyclin A2,ENSMUSG00000027715.9,Ccna2,2.332685,1.88773e-13
+,wt_d1338,,,,,,,,,,89,mmu-let-7c-1-3p,Xk,X-linked Kx blood group,ENSMUSG00000015342.6,Xk,2.3254867,3.15922e-05
+,wt_d1338,,,,,,,,,,89,mmu-let-7c-1-3p,Znrf3,zinc and ring finger 3,ENSMUSG00000041961.14,Znrf3,2.2548592,1.79729e-16
+,wt_d1338,,,,,,,,,,95,mmu-let-7c-1-3p,Trim2,tripartite motif-containing 2,ENSMUSG00000027993.16,Trim2,2.1923969,2.38475e-05
+,wt_d1338,,,,,,,,,,93,mmu-let-7c-1-3p,E2f8,E2F transcription factor 8,ENSMUSG00000046179.17,E2f8,2.1240232,1.4807e-11
+,wt_d1338,,,,,,,,,,85,mmu-let-7c-1-3p,Nptxr,neuronal pentraxin receptor,ENSMUSG00000022421.19,Nptxr,2.0429196,0.000378392
+,wt_d1338,,,,,,,,,,82,mmu-let-7c-1-3p,Cnrip1,cannabinoid receptor interacting protein 1,ENSMUSG00000044629.5,Cnrip1,1.7313752,0.037162021
+,wt_d1338,,,,,,,,,,94,mmu-let-7c-1-3p,Six1,sine oculis-related homeobox 1,ENSMUSG00000051367.8,Six1,1.5913562,0.000357816
+,wt_d1338,,,,,,,,,,91,mmu-let-7c-1-3p,Selenop,selenoprotein P,ENSMUSG00000064373.12,Selenop,1.5615398,0.01179497
+,wt_d1338,,,,,,,,,,88,mmu-let-7c-1-3p,Samd4,sterile alpha motif domain containing 4,ENSMUSG00000021838.17,Samd4,-1.5511682,0.003740926
+mf_wt,wt_d1338,Hivep2,Hivep2,ENSMUST00000191138.1,human immunodeficiency virus type I enhancer binding protein 2 ,mmu-let-7c-1-3p,-0.81,ENSMUSG00000015501.10,5.239685,7.54953e-10,85,mmu-let-7c-1-3p,Hivep2,human immunodeficiency virus type I enhancer binding protein 2,ENSMUSG00000015501.10,Hivep2,-1.5811986,1.34425e-25
+wt_d1338,wt_d1338,Hivep2,Hivep2,ENSMUST00000191138.1,human immunodeficiency virus type I enhancer binding protein 2 ,mmu-let-7c-1-3p,-0.81,ENSMUSG00000015501.10,-1.5811986,1.34425e-25,85,mmu-let-7c-1-3p,Hivep2,human immunodeficiency virus type I enhancer binding protein 2,ENSMUSG00000015501.10,Hivep2,-1.5811986,1.34425e-25
+,wt_d1338,,,,,,,,,,87,mmu-let-7c-1-3p,Stk39,serine/threonine kinase 39,ENSMUSG00000027030.15,Stk39,-1.6686232,3.9479e-07
+wt_d1338,wt_d1338,Otud1,Otud1,ENSMUST00000052168.5,OTU domain containing 1 ,mmu-let-7c-1-3p,-0.66,ENSMUSG00000043415.5,-1.78022,1.46161e-25,100,mmu-let-7c-1-3p,Otud1,OTU domain containing 1,ENSMUSG00000043415.5,Otud1,-1.78022,1.46161e-25
+,wt_d1338,,,,,,,,,,95,mmu-let-7c-1-3p,Gna13,"guanine nucleotide binding protein, alpha 13",ENSMUSG00000020611.14,Gna13,-1.9006953,2.1765e-168
+mf_wt,wt_d1338,Cldn23,Cldn23,ENSMUST00000060128.5,claudin 23 ,mmu-let-7c-1-3p,-0.41,ENSMUSG00000055976.6,6.1502905,0.017119455,85,mmu-let-7c-1-3p,Cldn23,claudin 23,ENSMUSG00000055976.6,Cldn23,-1.938099,0.00119889
+wt_d1338,wt_d1338,Cldn23,Cldn23,ENSMUST00000060128.5,claudin 23 ,mmu-let-7c-1-3p,-0.41,ENSMUSG00000055976.6,-1.938099,0.00119889,85,mmu-let-7c-1-3p,Cldn23,claudin 23,ENSMUSG00000055976.6,Cldn23,-1.938099,0.00119889
+,wt_d1338,,,,,,,,,,82,mmu-let-7c-1-3p,Creb5,cAMP responsive element binding protein 5,ENSMUSG00000053007.9,Creb5,-1.9384582,1.8734e-151
+,wt_d1338,,,,,,,,,,99,mmu-let-7c-1-3p,Dach1,dachshund family transcription factor 1,ENSMUSG00000055639.16,Dach1,-1.9446248,1.17607e-25
+,wt_d1338,,,,,,,,,,86,mmu-let-7c-1-3p,Klf4,Kruppel-like factor 4 (gut),ENSMUSG00000003032.8,Klf4,-2.8649151,2.9776e-100
+,wt_d1338,,,,,,,,,,99,mmu-let-7c-1-3p,Sorbs2,sorbin and SH3 domain containing 2,ENSMUSG00000031626.18,Sorbs2,-3.3236067,2.89689e-06
+,wt_d1338,,,,,,,,,,92,mmu-let-7c-1-3p,Sema3e,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E",ENSMUSG00000063531.7,Sema3e,-4.3594503,6.2725e-05
+,mf_d1338,,,,,,,,,,86,mmu-let-7c-1-3p,Fermt2,fermitin family member 2,ENSMUSG00000037712.16,Fermt2,40.917183,1.70578e-06
+mf_wt,mf_d1338,Mt2,Mt2,ENSMUST00000034214.6,metallothionein 2 ,mmu-let-7c-1-3p,-0.73,ENSMUSG00000031762.7,16.219326,6.78812e-17,81,mmu-let-7c-1-3p,Mt2,metallothionein 2,ENSMUSG00000031762.7,Mt2,34.65178,3.06007e-13
+mf_d1338,mf_d1338,Mt2,Mt2,ENSMUST00000034214.6,metallothionein 2 ,mmu-let-7c-1-3p,-0.73,ENSMUSG00000031762.7,34.65178,3.06007e-13,81,mmu-let-7c-1-3p,Mt2,metallothionein 2,ENSMUSG00000031762.7,Mt2,34.65178,3.06007e-13
+,mf_d1338,,,,,,,,,,86,mmu-let-7c-1-3p,Tnc,tenascin C,ENSMUSG00000028364.15,Tnc,18.893826,0.000835383
+,mf_d1338,,,,,,,,,,80,mmu-let-7c-1-3p,Pcdh7,protocadherin 7,ENSMUSG00000029108.14,Pcdh7,18.69401,0.000120312
+,mf_d1338,,,,,,,,,,82,mmu-let-7c-1-3p,Grb10,growth factor receptor bound protein 10,ENSMUSG00000020176.17,Grb10,16.313337,1.96393e-05
+,mf_d1338,,,,,,,,,,96,mmu-let-7c-1-3p,Ccna2,cyclin A2,ENSMUSG00000027715.9,Ccna2,12.82119,3.33711e-08
+,mf_d1338,,,,,,,,,,99,mmu-let-7c-1-3p,Dach1,dachshund family transcription factor 1,ENSMUSG00000055639.16,Dach1,12.495121,5.61259e-09
+,mf_d1338,,,,,,,,,,87,mmu-let-7c-1-3p,Lrig1,leucine-rich repeats and immunoglobulin-like domains 1,ENSMUSG00000030029.14,Lrig1,9.912486,0.024014298
+,mf_d1338,,,,,,,,,,82,mmu-let-7c-1-3p,Met,met proto-oncogene,ENSMUSG00000009376.15,Met,8.901656,0.010879754
+,mf_d1338,,,,,,,,,,86,mmu-let-7c-1-3p,Adam19,a disintegrin and metallopeptidase domain 19 (meltrin beta),ENSMUSG00000011256.16,Adam19,8.390751,0.005920706
+,mf_d1338,,,,,,,,,,85,mmu-let-7c-1-3p,Gata2,GATA binding protein 2,ENSMUSG00000015053.14,Gata2,6.954867,0.000964149
+,mf_d1338,,,,,,,,,,87,mmu-let-7c-1-3p,Stk39,serine/threonine kinase 39,ENSMUSG00000027030.15,Stk39,6.6002407,0.013666265
+,mf_d1338,,,,,,,,,,82,mmu-let-7c-1-3p,Mfap3l,microfibrillar-associated protein 3-like,ENSMUSG00000031647.10,Mfap3l,4.3328733,0.001115116
+,mf_d1338,,,,,,,,,,80,mmu-let-7c-1-3p,Mturn,"maturin, neural progenitor differentiation regulator homolog (Xenopus)",ENSMUSG00000038065.13,Mturn,0.24229887,0.000498494
+,mf_d1338,,,,,,,,,,93,mmu-let-7c-1-3p,Adcy6,adenylate cyclase 6,ENSMUSG00000022994.9,Adcy6,0.2297701,0.007001797
+,mf_d1338,,,,,,,,,,93,mmu-let-7c-1-3p,Cdkn1c,cyclin-dependent kinase inhibitor 1C (P57),ENSMUSG00000037664.13,Cdkn1c,0.18942815,0.011404911
+,mf_d1338,,,,,,,,,,88,mmu-let-7c-1-3p,Ypel2,yippee like 2,ENSMUSG00000018427.8,Ypel2,0.15369953,0.002716527
+,mf_d1338,,,,,,,,,,91,mmu-let-7c-1-3p,Selenop,selenoprotein P,ENSMUSG00000064373.12,Selenop,0.13865505,0.000968233
+,mf_d1338,,,,,,,,,,97,mmu-let-7c-1-3p,Setbp1,SET binding protein 1,ENSMUSG00000024548.11,Setbp1,0.111074574,0.008916818
+,mf_wt,,,,,,,,,,92,mmu-let-7c-1-3p,Sema3e,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E",ENSMUSG00000063531.7,Sema3e,61.19688,9.58918e-05
+,mf_wt,,,,,,,,,,99,mmu-let-7c-1-3p,Dach1,dachshund family transcription factor 1,ENSMUSG00000055639.16,Dach1,20.088408,9.32512e-39
+,mf_wt,,,,,,,,,,86,mmu-let-7c-1-3p,Adnp,activity-dependent neuroprotective protein,ENSMUSG00000051149.15,Adnp,19.284687,1.71094e-05
+,mf_wt,,,,,,,,,,99,mmu-let-7c-1-3p,Sorbs2,sorbin and SH3 domain containing 2,ENSMUSG00000031626.18,Sorbs2,16.866234,0.004636924
+mf_wt,mf_wt,Mt2,Mt2,ENSMUST00000034214.6,metallothionein 2 ,mmu-let-7c-1-3p,-0.73,ENSMUSG00000031762.7,16.219326,6.78812e-17,81,mmu-let-7c-1-3p,Mt2,metallothionein 2,ENSMUSG00000031762.7,Mt2,16.219326,6.78812e-17
+mf_d1338,mf_wt,Mt2,Mt2,ENSMUST00000034214.6,metallothionein 2 ,mmu-let-7c-1-3p,-0.73,ENSMUSG00000031762.7,34.65178,3.06007e-13,81,mmu-let-7c-1-3p,Mt2,metallothionein 2,ENSMUSG00000031762.7,Mt2,16.219326,6.78812e-17
+,mf_wt,,,,,,,,,,80,mmu-let-7c-1-3p,Pcdh7,protocadherin 7,ENSMUSG00000029108.14,Pcdh7,15.841164,3.18073e-07
+,mf_wt,,,,,,,,,,86,mmu-let-7c-1-3p,Fermt2,fermitin family member 2,ENSMUSG00000037712.16,Fermt2,12.385689,0.000142749
+,mf_wt,,,,,,,,,,86,mmu-let-7c-1-3p,Tnc,tenascin C,ENSMUSG00000028364.15,Tnc,12.081659,3.32327e-05
+,mf_wt,,,,,,,,,,94,mmu-let-7c-1-3p,Ttc26,tetratricopeptide repeat domain 26,ENSMUSG00000056832.14,Ttc26,11.019899,7.1492e-08
+,mf_wt,,,,,,,,,,82,mmu-let-7c-1-3p,Met,met proto-oncogene,ENSMUSG00000009376.15,Met,10.500564,0.000116151
+,mf_wt,,,,,,,,,,86,mmu-let-7c-1-3p,Adam19,a disintegrin and metallopeptidase domain 19 (meltrin beta),ENSMUSG00000011256.16,Adam19,8.5646515,3.58811e-05
+,mf_wt,,,,,,,,,,82,mmu-let-7c-1-3p,Creb5,cAMP responsive element binding protein 5,ENSMUSG00000053007.9,Creb5,6.728963,4.18203e-20
+,mf_wt,,,,,,,,,,84,mmu-let-7c-1-3p,Osbpl8,oxysterol binding protein-like 8,ENSMUSG00000020189.15,Osbpl8,6.433773,2.40391e-12
+,mf_wt,,,,,,,,,,87,mmu-let-7c-1-3p,Stk39,serine/threonine kinase 39,ENSMUSG00000027030.15,Stk39,6.3967676,1.45386e-05
+,mf_wt,,,,,,,,,,86,mmu-let-7c-1-3p,Klf4,Kruppel-like factor 4 (gut),ENSMUSG00000003032.8,Klf4,6.333725,2.93039e-07
+mf_wt,mf_wt,Cldn23,Cldn23,ENSMUST00000060128.5,claudin 23 ,mmu-let-7c-1-3p,-0.41,ENSMUSG00000055976.6,6.1502905,0.017119455,85,mmu-let-7c-1-3p,Cldn23,claudin 23,ENSMUSG00000055976.6,Cldn23,6.1502905,0.017119455
+wt_d1338,mf_wt,Cldn23,Cldn23,ENSMUST00000060128.5,claudin 23 ,mmu-let-7c-1-3p,-0.41,ENSMUSG00000055976.6,-1.938099,0.00119889,85,mmu-let-7c-1-3p,Cldn23,claudin 23,ENSMUSG00000055976.6,Cldn23,6.1502905,0.017119455
+,mf_wt,,,,,,,,,,98,mmu-let-7c-1-3p,Rapgef2,Rap guanine nucleotide exchange factor (GEF) 2,ENSMUSG00000062232.14,Rapgef2,5.8288207,8.78379e-33
+,mf_wt,,,,,,,,,,92,mmu-let-7c-1-3p,Zfp148,zinc finger protein 148,ENSMUSG00000022811.17,Zfp148,5.6350226,2.83119e-35
+mf_wt,mf_wt,Cdh11,Cdh11,ENSMUST00000075190.3,cadherin 11 ,mmu-let-7c-1-3p,-0.6,ENSMUSG00000031673.6,5.5974345,3.80784e-11,100,mmu-let-7c-1-3p,Cdh11,cadherin 11,ENSMUSG00000031673.6,Cdh11,5.5974345,3.80784e-11
+,mf_wt,,,,,,,,,,98,mmu-let-7c-1-3p,Tab3,TGF-beta activated kinase 1/MAP3K7 binding protein 3,ENSMUSG00000035476.9,Tab3,5.462622,2.02471e-31
+,mf_wt,,,,,,,,,,87,mmu-let-7c-1-3p,Lrig1,leucine-rich repeats and immunoglobulin-like domains 1,ENSMUSG00000030029.14,Lrig1,5.4169044,0.005476207
+mf_wt,mf_wt,Hivep2,Hivep2,ENSMUST00000191138.1,human immunodeficiency virus type I enhancer binding protein 2 ,mmu-let-7c-1-3p,-0.81,ENSMUSG00000015501.10,5.239685,7.54953e-10,85,mmu-let-7c-1-3p,Hivep2,human immunodeficiency virus type I enhancer binding protein 2,ENSMUSG00000015501.10,Hivep2,5.239685,7.54953e-10
+wt_d1338,mf_wt,Hivep2,Hivep2,ENSMUST00000191138.1,human immunodeficiency virus type I enhancer binding protein 2 ,mmu-let-7c-1-3p,-0.81,ENSMUSG00000015501.10,-1.5811986,1.34425e-25,85,mmu-let-7c-1-3p,Hivep2,human immunodeficiency virus type I enhancer binding protein 2,ENSMUSG00000015501.10,Hivep2,5.239685,7.54953e-10
+,mf_wt,,,,,,,,,,88,mmu-let-7c-1-3p,Frmd6,FERM domain containing 6,ENSMUSG00000048285.9,Frmd6,5.21253,6.56075e-20
+,mf_wt,,,,,,,,,,97,mmu-let-7c-1-3p,Ctdspl2,"CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2",ENSMUSG00000033411.16,Ctdspl2,5.014903,3.29077e-34
+,mf_wt,,,,,,,,,,89,mmu-let-7c-1-3p,Rreb1,ras responsive element binding protein 1,ENSMUSG00000039087.17,Rreb1,5.007995,2.05623e-09
+,mf_wt,,,,,,,,,,96,mmu-let-7c-1-3p,Kpna4,karyopherin (importin) alpha 4,ENSMUSG00000027782.10,Kpna4,4.923906,1.8407e-55
+,mf_wt,,,,,,,,,,88,mmu-let-7c-1-3p,R3hdm1,R3H domain containing 1,ENSMUSG00000056211.13,R3hdm1,4.908751,8.10673e-09
+,mf_wt,,,,,,,,,,96,mmu-let-7c-1-3p,Trio,triple functional domain (PTPRF interacting),ENSMUSG00000022263.10,Trio,4.6798444,1.01935e-09
+,mf_wt,,,,,,,,,,82,mmu-let-7c-1-3p,Mfap3l,microfibrillar-associated protein 3-like,ENSMUSG00000031647.10,Mfap3l,4.541962,9.31089e-08
+,mf_wt,,,,,,,,,,95,mmu-let-7c-1-3p,Runx2,runt related transcription factor 2,ENSMUSG00000039153.17,Runx2,4.4028416,9.53168e-07
+,mf_wt,,,,,,,,,,99,mmu-let-7c-1-3p,Dnm1l,dynamin 1-like,ENSMUSG00000022789.15,Dnm1l,4.3724413,1.07901e-09
+,mf_wt,,,,,,,,,,81,mmu-let-7c-1-3p,Btaf1,B-TFIID TATA-box binding protein associated factor 1,ENSMUSG00000040565.8,Btaf1,4.1800733,3.3247e-17
+,mf_wt,,,,,,,,,,95,mmu-let-7c-1-3p,Kat6a,K(lysine) acetyltransferase 6A,ENSMUSG00000031540.14,Kat6a,4.125841,1.46553e-46
+,mf_wt,,,,,,,,,,98,mmu-let-7c-1-3p,Herc1,HECT and RLD domain containing E3 ubiquitin protein ligase family member 1,ENSMUSG00000038664.16,Herc1,4.114641,5.0761e-16
+,mf_wt,,,,,,,,,,91,mmu-let-7c-1-3p,Selenop,selenoprotein P,ENSMUSG00000064373.12,Selenop,0.23315378,0.000633903
+,mf_wt,,,,,,,,,,90,mmu-let-7c-1-3p,Pald1,"phosphatase domain containing, paladin 1",ENSMUSG00000020092.9,Pald1,0.18884079,0.014940119
+,mf_wt,,,,,,,,,,85,mmu-let-7c-1-3p,Fam43a,"family with sequence similarity 43, member A",ENSMUSG00000046546.3,Fam43a,0.1544825,6.43842e-08
+,mf_wt,,,,,,,,,,82,mmu-let-7c-1-3p,Cnrip1,cannabinoid receptor interacting protein 1,ENSMUSG00000044629.5,Cnrip1,0.15418512,0.009867821
+mf_wt,mf_wt,Scamp5,Scamp5,ENSMUST00000046587.6,secretory carrier membrane protein 5 ,mmu-let-7c-1-3p,-0.4,ENSMUSG00000040722.7,0.12758975,7.8361e-09,92,mmu-let-7c-1-3p,Scamp5,secretory carrier membrane protein 5,ENSMUSG00000040722.7,Scamp5,0.12758975,7.8361e-09
+wt_d1338,mf_wt,Scamp5,Scamp5,ENSMUST00000046587.6,secretory carrier membrane protein 5 ,mmu-let-7c-1-3p,-0.4,ENSMUSG00000040722.7,2.34294,1.14065e-34,92,mmu-let-7c-1-3p,Scamp5,secretory carrier membrane protein 5,ENSMUSG00000040722.7,Scamp5,0.12758975,7.8361e-09
+,mf_wt,,,,,,,,,,93,mmu-let-7c-1-3p,Cdkn1c,cyclin-dependent kinase inhibitor 1C (P57),ENSMUSG00000037664.13,Cdkn1c,0.070093445,2.37533e-11
+,mf_wt,,,,,,,,,,86,mmu-let-7c-1-3p,Shox2,short stature homeobox 2,ENSMUSG00000027833.16,Shox2,0.061903175,7.07377e-05
+mf_wt,,Gm14440,Gm14440,ENSMUST00000109051.2,predicted gene 14440 ,mmu-let-7c-1-3p,-0.45,ENSMUSG00000078901.8,46.46854,0.023874431,,,,,,,,
+wt_d1338,,Rnase6,Rnase6,ENSMUST00000095923.3,"ribonuclease, RNase A family, 6 ",mmu-let-7c-1-3p,-0.44,ENSMUSG00000021880.7,1.9115695,0.02496369,,,,,,,,
+mf_wt,,Rps4x,Rps4x,ENSMUST00000033683.7,"ribosomal protein S4, X-linked ",mmu-let-7c-1-3p,-0.42,ENSMUSG00000031320.9,0.20728342,2.79644e-43,,,,,,,,
+wt_d1338,,Ms4a4c,Ms4a4c,ENSMUST00000072729.4,"membrane-spanning 4-domains, subfamily A, member 4C ",mmu-let-7c-1-3p,-0.47,ENSMUSG00000024675.19,2.02647,8.66603e-14,,,,,,,,
+mf_wt,,Romo1,Romo1,ENSMUST00000088610.5,reactive oxygen species modulator 1 ,mmu-let-7c-1-3p,-0.41,ENSMUSG00000067847.13,0.11699066,1.48581e-16,,,,,,,,
+mf_wt,,Zfp81,Zfp81,ENSMUST00000054072.8,zinc finger protein 81 ,mmu-let-7c-1-3p,-0.52,ENSMUSG00000003929.11,4.0396924,4.36291e-11,,,,,,,,
+mf_d1338,,Tnfrsf18,Tnfrsf18,ENSMUST00000040274.8,"tumor necrosis factor receptor superfamily, member 18 ",mmu-let-7c-1-3p,-0.51,ENSMUSG00000041954.18,4.304097,0.024581373,,,,,,,,
+wt_d1338,,Tnfrsf18,Tnfrsf18,ENSMUST00000040274.8,"tumor necrosis factor receptor superfamily, member 18 ",mmu-let-7c-1-3p,-0.51,ENSMUSG00000041954.18,-3.0712786,1.10363e-32,,,,,,,,

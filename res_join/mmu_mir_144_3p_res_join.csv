@@ -1,0 +1,68 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,90,mmu-miR-144-3p,Cacna2d1,"calcium channel, voltage-dependent, alpha2/delta subunit 1",ENSMUSG00000040118.15,Cacna2d1,2.8829346,1.77106e-09
+,wt_d1338,,,,,,,,,,88,mmu-miR-144-3p,Idh2,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",ENSMUSG00000030541.16,Idh2,2.611624,1.9991e-99
+,wt_d1338,,,,,,,,,,80,mmu-miR-144-3p,Robo2,roundabout guidance receptor 2,ENSMUSG00000052516.19,Robo2,2.386207,0.004596091
+,wt_d1338,,,,,,,,,,86,mmu-miR-144-3p,Ctla2b,cytotoxic T lymphocyte-associated protein 2 beta,ENSMUSG00000074874.10,Ctla2b,2.3815815,1.01041e-95
+,wt_d1338,,,,,,,,,,83,mmu-miR-144-3p,Trim2,tripartite motif-containing 2,ENSMUSG00000027993.16,Trim2,2.1923969,2.38475e-05
+,wt_d1338,,,,,,,,,,90,mmu-miR-144-3p,E2f8,E2F transcription factor 8,ENSMUSG00000046179.17,E2f8,2.1240232,1.4807e-11
+,wt_d1338,,,,,,,,,,96,mmu-miR-144-3p,Megf9,multiple EGF-like-domains 9,ENSMUSG00000039270.9,Megf9,2.0630639,1.20289e-35
+,wt_d1338,,,,,,,,,,91,mmu-miR-144-3p,Shcbp1,Shc SH2-domain binding protein 1,ENSMUSG00000022322.8,Shcbp1,2.034917,6.33647e-05
+,wt_d1338,,,,,,,,,,85,mmu-miR-144-3p,Eml1,echinoderm microtubule associated protein like 1,ENSMUSG00000058070.14,Eml1,2.0302699,1.73402e-15
+,wt_d1338,,,,,,,,,,88,mmu-miR-144-3p,Ms4a4c,"membrane-spanning 4-domains, subfamily A, member 4C",ENSMUSG00000024675.19,Ms4a4c,2.02647,8.66603e-14
+,wt_d1338,,,,,,,,,,99,mmu-miR-144-3p,Htra3,HtrA serine peptidase 3,ENSMUSG00000029096.15,Htra3,2.0221708,6.36981e-05
+,wt_d1338,,,,,,,,,,87,mmu-miR-144-3p,Suclg2,"succinate-Coenzyme A ligase, GDP-forming, beta subunit",ENSMUSG00000061838.7,Suclg2,1.997449,3.02098e-46
+,wt_d1338,,,,,,,,,,87,mmu-miR-144-3p,Flrt3,fibronectin leucine rich transmembrane protein 3,ENSMUSG00000051379.12,Flrt3,1.6704895,0.001032025
+,wt_d1338,,,,,,,,,,95,mmu-miR-144-3p,Nacc2,"nucleus accumbens associated 2, BEN and BTB (POZ) domain containing",ENSMUSG00000026932.14,Nacc2,1.6031616,1.51401e-22
+,wt_d1338,,,,,,,,,,83,mmu-miR-144-3p,Pde7b,phosphodiesterase 7B,ENSMUSG00000019990.15,Pde7b,1.5687461,5.56488e-17
+,wt_d1338,,,,,,,,,,87,mmu-miR-144-3p,Eif5a2,eukaryotic translation initiation factor 5A2,ENSMUSG00000050192.8,Eif5a2,1.535981,1.10833e-10
+,wt_d1338,,,,,,,,,,86,mmu-miR-144-3p,Kitl,kit ligand,ENSMUSG00000019966.18,Kitl,-1.6691711,9.9409e-19
+,wt_d1338,,,,,,,,,,85,mmu-miR-144-3p,Gja1,"gap junction protein, alpha 1",ENSMUSG00000050953.10,Gja1,-1.6893818,7.4614e-31
+,wt_d1338,,,,,,,,,,95,mmu-miR-144-3p,Slc23a2,"solute carrier family 23 (nucleobase transporters), member 2",ENSMUSG00000027340.15,Slc23a2,-1.7050508,1.30893e-40
+,wt_d1338,,,,,,,,,,86,mmu-miR-144-3p,Slco3a1,"solute carrier organic anion transporter family, member 3a1",ENSMUSG00000025790.14,Slco3a1,-2.0547116,4.05741e-78
+,wt_d1338,,,,,,,,,,80,mmu-miR-144-3p,Serpini1,"serine (or cysteine) peptidase inhibitor, clade I, member 1",ENSMUSG00000027834.15,Serpini1,-2.0917747,2.702e-15
+,wt_d1338,,,,,,,,,,83,mmu-miR-144-3p,Gata3,GATA binding protein 3,ENSMUSG00000015619.10,Gata3,-2.1160538,5.20049e-05
+,wt_d1338,,,,,,,,,,99,mmu-miR-144-3p,Meis2,Meis homeobox 2,ENSMUSG00000027210.20,Meis2,-2.198388,0.007054557
+,wt_d1338,,,,,,,,,,80,mmu-miR-144-3p,Ero1l,ERO1-like (S. cerevisiae),ENSMUSG00000021831.9,Ero1l,-2.308316,1.21539e-68
+,wt_d1338,,,,,,,,,,80,mmu-miR-144-3p,Gm4951,predicted gene 4951,ENSMUSG00000073555.1,Gm4951,-3.020015,1.28704e-64
+,wt_d1338,,,,,,,,,,92,mmu-miR-144-3p,Mycl,v-myc avian myelocytomatosis viral oncogene lung carcinoma derived,ENSMUSG00000028654.13,Mycl,-4.1793904,1.20577e-06
+,wt_d1338,,,,,,,,,,83,mmu-miR-144-3p,Iigp1,interferon inducible GTPase 1,ENSMUSG00000054072.12,Iigp1,-4.425445,1.3227e-127
+mf_wt,mf_d1338,Tnfsf11,Tnfsf11,ENSMUST00000022592.7,"tumor necrosis factor (ligand) superfamily, member 11 ",mmu-miR-144-3p,-0.46,ENSMUSG00000022015.8,5.737158,0.019238824,92,mmu-miR-144-3p,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",ENSMUSG00000022015.8,Tnfsf11,19.398119,0.000804628
+mf_d1338,mf_d1338,Tnfsf11,Tnfsf11,ENSMUST00000022592.7,"tumor necrosis factor (ligand) superfamily, member 11 ",mmu-miR-144-3p,-0.46,ENSMUSG00000022015.8,19.398119,0.000804628,92,mmu-miR-144-3p,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",ENSMUSG00000022015.8,Tnfsf11,19.398119,0.000804628
+,mf_d1338,,,,,,,,,,91,mmu-miR-144-3p,Shcbp1,Shc SH2-domain binding protein 1,ENSMUSG00000022322.8,Shcbp1,17.740553,0.000779655
+,mf_d1338,,,,,,,,,,86,mmu-miR-144-3p,Slco3a1,"solute carrier organic anion transporter family, member 3a1",ENSMUSG00000025790.14,Slco3a1,11.04612,1.72848e-05
+,mf_d1338,,,,,,,,,,83,mmu-miR-144-3p,Met,met proto-oncogene,ENSMUSG00000009376.15,Met,8.901656,0.010879754
+,mf_d1338,,,,,,,,,,89,mmu-miR-144-3p,Phlda1,"pleckstrin homology like domain, family A, member 1",ENSMUSG00000020205.8,Phlda1,8.518869,0.000835383
+,mf_d1338,,,,,,,,,,87,mmu-miR-144-3p,Emp2,epithelial membrane protein 2,ENSMUSG00000022505.9,Emp2,7.0285974,0.002510136
+,mf_d1338,,,,,,,,,,93,mmu-miR-144-3p,Dcbld2,"discoidin, CUB and LCCL domain containing 2",ENSMUSG00000035107.13,Dcbld2,6.3690476,4.7071e-05
+,mf_d1338,,,,,,,,,,99,mmu-miR-144-3p,Htra3,HtrA serine peptidase 3,ENSMUSG00000029096.15,Htra3,0.14429098,2.50908e-05
+,mf_d1338,,,,,,,,,,80,mmu-miR-144-3p,Robo2,roundabout guidance receptor 2,ENSMUSG00000052516.19,Robo2,0.058413208,0.000333193
+,mf_wt,,,,,,,,,,83,mmu-miR-144-3p,Iigp1,interferon inducible GTPase 1,ENSMUSG00000054072.12,Iigp1,22.542421,3.78359e-07
+,mf_wt,,,,,,,,,,85,mmu-miR-144-3p,Rbm41,RNA binding motif protein 41,ENSMUSG00000031433.15,Rbm41,21.543018,4.70668e-25
+,mf_wt,,,,,,,,,,88,mmu-miR-144-3p,Klf8,Kruppel-like factor 8,ENSMUSG00000041649.13,Klf8,13.279967,3.45299e-13
+,mf_wt,,,,,,,,,,92,mmu-miR-144-3p,Mycl,v-myc avian myelocytomatosis viral oncogene lung carcinoma derived,ENSMUSG00000028654.13,Mycl,11.7051525,0.00042982
+,mf_wt,,,,,,,,,,95,mmu-miR-144-3p,Slc23a2,"solute carrier family 23 (nucleobase transporters), member 2",ENSMUSG00000027340.15,Slc23a2,10.744783,7.38359e-28
+,mf_wt,,,,,,,,,,83,mmu-miR-144-3p,Met,met proto-oncogene,ENSMUSG00000009376.15,Met,10.500564,0.000116151
+,mf_wt,,,,,,,,,,87,mmu-miR-144-3p,Tmtc3,transmembrane and tetratricopeptide repeat containing 3,ENSMUSG00000036676.14,Tmtc3,10.014113,0.000222735
+,mf_wt,,,,,,,,,,86,mmu-miR-144-3p,Slco3a1,"solute carrier organic anion transporter family, member 3a1",ENSMUSG00000025790.14,Slco3a1,8.877481,1.28384e-07
+,mf_wt,,,,,,,,,,90,mmu-miR-144-3p,Wee1,WEE 1 homolog 1 (S. pombe),ENSMUSG00000031016.9,Wee1,7.979023,8.0177e-13
+mf_wt,mf_wt,Zdhhc21,Zdhhc21,ENSMUST00000030110.9,"zinc finger, DHHC domain containing 21 ",mmu-miR-144-3p,-0.57,ENSMUSG00000028403.15,7.7483325,4.84554e-26,96,mmu-miR-144-3p,Zdhhc21,"zinc finger, DHHC domain containing 21",ENSMUSG00000028403.15,Zdhhc21,7.7483325,4.84554e-26
+,mf_wt,,,,,,,,,,83,mmu-miR-144-3p,Nrp2,neuropilin 2,ENSMUSG00000025969.15,Nrp2,6.414652,4.37064e-15
+,mf_wt,,,,,,,,,,80,mmu-miR-144-3p,Gm4951,predicted gene 4951,ENSMUSG00000073555.1,Gm4951,6.1650205,8.22412e-11
+,mf_wt,,,,,,,,,,89,mmu-miR-144-3p,Ccdc88a,coiled coil domain containing 88A,ENSMUSG00000032740.16,Ccdc88a,6.0254765,2.26328e-12
+,mf_wt,,,,,,,,,,93,mmu-miR-144-3p,Dcbld2,"discoidin, CUB and LCCL domain containing 2",ENSMUSG00000035107.13,Dcbld2,6.0070477,2.78415e-09
+mf_wt,mf_wt,Tnfsf11,Tnfsf11,ENSMUST00000022592.7,"tumor necrosis factor (ligand) superfamily, member 11 ",mmu-miR-144-3p,-0.46,ENSMUSG00000022015.8,5.737158,0.019238824,92,mmu-miR-144-3p,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",ENSMUSG00000022015.8,Tnfsf11,5.737158,0.019238824
+mf_d1338,mf_wt,Tnfsf11,Tnfsf11,ENSMUST00000022592.7,"tumor necrosis factor (ligand) superfamily, member 11 ",mmu-miR-144-3p,-0.46,ENSMUSG00000022015.8,19.398119,0.000804628,92,mmu-miR-144-3p,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",ENSMUSG00000022015.8,Tnfsf11,5.737158,0.019238824
+,mf_wt,,,,,,,,,,91,mmu-miR-144-3p,Zfp148,zinc finger protein 148,ENSMUSG00000022811.17,Zfp148,5.6350226,2.83119e-35
+,mf_wt,,,,,,,,,,95,mmu-miR-144-3p,Cdh11,cadherin 11,ENSMUSG00000031673.6,Cdh11,5.5974345,3.80784e-11
+,mf_wt,,,,,,,,,,87,mmu-miR-144-3p,Emp2,epithelial membrane protein 2,ENSMUSG00000022505.9,Emp2,5.1187706,0.000207005
+,mf_wt,,,,,,,,,,92,mmu-miR-144-3p,Togaram1,TOG array regulator of axonemal microtubules 1,ENSMUSG00000035614.11,Togaram1,4.4595575,2.3223e-23
+,mf_wt,,,,,,,,,,87,mmu-miR-144-3p,Zc3h12c,zinc finger CCCH type containing 12C,ENSMUSG00000035164.8,Zc3h12c,4.3467355,7.67705e-24
+,mf_wt,,,,,,,,,,91,mmu-miR-144-3p,Dr1,down-regulator of transcription 1,ENSMUSG00000029265.4,Dr1,4.22419,4.07812e-43
+,mf_wt,,,,,,,,,,80,mmu-miR-144-3p,Ero1l,ERO1-like (S. cerevisiae),ENSMUSG00000021831.9,Ero1l,4.184925,6.63026e-05
+,mf_wt,,,,,,,,,,97,mmu-miR-144-3p,Kat6a,K(lysine) acetyltransferase 6A,ENSMUSG00000031540.14,Kat6a,4.125841,1.46553e-46
+,mf_wt,,,,,,,,,,85,mmu-miR-144-3p,Ubr3,ubiquitin protein ligase E3 component n-recognin 3,ENSMUSG00000044308.17,Ubr3,4.076838,1.02987e-16
+,mf_wt,,,,,,,,,,99,mmu-miR-144-3p,Fndc3a,fibronectin type III domain containing 3A,ENSMUSG00000033487.14,Fndc3a,4.036167,1.70128e-30
+,mf_wt,,,,,,,,,,88,mmu-miR-144-3p,Idh2,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",ENSMUSG00000030541.16,Idh2,0.1859179,2.03142e-19
+,mf_wt,,,,,,,,,,99,mmu-miR-144-3p,Htra3,HtrA serine peptidase 3,ENSMUSG00000029096.15,Htra3,0.14846733,3.558e-12
+,mf_wt,,,,,,,,,,80,mmu-miR-144-3p,Robo2,roundabout guidance receptor 2,ENSMUSG00000052516.19,Robo2,0.031089475,3.32305e-08
+mf_wt,,Lcor,Lcor,ENSMUST00000067795.6,ligand dependent nuclear receptor corepressor ,mmu-miR-144-3p,-0.45,ENSMUSG00000025019.17,7.459123,7.6951e-42,,,,,,,,

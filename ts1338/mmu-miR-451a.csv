@@ -1,0 +1,25 @@
+Target gene	Representative transcript	Gene name	Representative miRNA	Cumulative weighted context++ score
+Osr1	ENSMUST00000057021.7	"odd-skipped related 1 (Drosophila) "	mmu-miR-451a	-0.88
+Cep55	ENSMUST00000096096.5	"centrosomal protein 55 "	mmu-miR-451a	-0.61
+Gyk	ENSMUST00000026039.9	"glycerol kinase "	mmu-miR-451a	-0.44
+Cox10	ENSMUST00000049091.8	"cytochrome c oxidase assembly protein 10 "	mmu-miR-451a	-0.41
+Zfp644	ENSMUST00000112696.2	"zinc finger protein 644 "	mmu-miR-451a	-0.40
+Rer1	ENSMUST00000030914.3	"RER1 retention in endoplasmic reticulum 1 homolog (S. cerevisiae) "	mmu-miR-451a	-0.39
+Vapa	ENSMUST00000024897.8	"vesicle-associated membrane protein, associated protein A "	mmu-miR-451a	-0.39
+Mex3c	ENSMUST00000091852.4	"mex3 homolog C (C. elegans) "	mmu-miR-451a	-0.38
+Cab39	ENSMUST00000113360.2	"calcium binding protein 39 "	mmu-miR-451a	-0.37
+2210018M11Rik	ENSMUST00000038359.4	"RIKEN cDNA 2210018M11 gene "	mmu-miR-451a	-0.37
+Tbx1	ENSMUST00000009241.5	"T-box 1 "	mmu-miR-451a	-0.36
+Cdkn2d	ENSMUST00000086374.6	"cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4) "	mmu-miR-451a	-0.36
+Pak4	ENSMUST00000040531.8	"p21 protein (Cdc42/Rac)-activated kinase 4 "	mmu-miR-451a	-0.35
+Matr3	ENSMUST00000166793.2	"matrin 3 "	mmu-miR-451a	-0.34
+Cir1	ENSMUST00000058615.9	"corepressor interacting with RBPJ, 1 "	mmu-miR-451a	-0.32
+Psmd11	ENSMUST00000017572.8	"proteasome (prosome, macropain) 26S subunit, non-ATPase, 11 "	mmu-miR-451a	-0.31
+Ywhaz	ENSMUST00000022894.8	"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide "	mmu-miR-451a	-0.28
+Ythdf2	ENSMUST00000152796.2	"YTH domain family 2 "	mmu-miR-451a	-0.23
+Trim66	ENSMUST00000106739.2	"tripartite motif-containing 66 "	mmu-miR-451a	-0.20
+Fign	ENSMUST00000131615.3	"fidgetin "	mmu-miR-451a	-0.19
+Fbxo33	ENSMUST00000043204.7	"F-box protein 33 "	mmu-miR-451a	-0.18
+Gatad2b	ENSMUST00000049382.4	"GATA zinc finger domain containing 2B "	mmu-miR-451a	-0.12
+Psmb8	ENSMUST00000025196.8	"proteasome (prosome, macropain) subunit, beta type 8 (large multifunctional peptidase 7) "	mmu-miR-451a	-0.07
+Dars2	ENSMUST00000035430.3	"aspartyl-tRNA synthetase 2 (mitochondrial) "	mmu-miR-451a	0

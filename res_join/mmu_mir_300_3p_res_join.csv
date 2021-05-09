@@ -1,0 +1,29 @@
+jtb_ts,jtb_db,symbol_ts,target_gene_ts,representative_transcript_ts,gene_name_ts,representative_mi_rna_ts,cumulative_weighted_context_score_ts,ensembl_ts,fold_change_ts,padj_ts,target_score_db,mirna_db,gene_symbol_db,gene_description_db,ensembl_db,symbol_db,fold_change_db,padj_db
+,wt_d1338,,,,,,,,,,84,mmu-miR-300-3p,Hgf,hepatocyte growth factor,ENSMUSG00000028864.7,Hgf,2.8121896,6.39132e-08
+,wt_d1338,,,,,,,,,,80,mmu-miR-300-3p,Ctps,cytidine 5'-triphosphate synthase,ENSMUSG00000028633.7,Ctps,2.139859,3.55022e-14
+,wt_d1338,,,,,,,,,,91,mmu-miR-300-3p,Thbs1,thrombospondin 1,ENSMUSG00000040152.8,Thbs1,1.6902528,1.2752e-43
+,wt_d1338,,,,,,,,,,83,mmu-miR-300-3p,Mat2a,"methionine adenosyltransferase II, alpha",ENSMUSG00000053907.10,Mat2a,1.6705867,4.46631e-35
+,wt_d1338,,,,,,,,,,87,mmu-miR-300-3p,Frmd4b,FERM domain containing 4B,ENSMUSG00000030064.16,Frmd4b,1.6608008,0.001529254
+,wt_d1338,,,,,,,,,,97,mmu-miR-300-3p,Il13ra1,"interleukin 13 receptor, alpha 1",ENSMUSG00000017057.9,Il13ra1,-1.5402665,6.8586e-122
+,wt_d1338,,,,,,,,,,90,mmu-miR-300-3p,Zc3h6,zinc finger CCCH type containing 6,ENSMUSG00000042851.17,Zc3h6,-1.766657,4.68138e-14
+,wt_d1338,,,,,,,,,,86,mmu-miR-300-3p,Dach1,dachshund family transcription factor 1,ENSMUSG00000055639.16,Dach1,-1.9446248,1.17607e-25
+,wt_d1338,,,,,,,,,,85,mmu-miR-300-3p,Majin,membrane anchored junction protein,ENSMUSG00000024786.9,Majin,-1.9571323,1.92035e-11
+,wt_d1338,,,,,,,,,,86,mmu-miR-300-3p,Klf4,Kruppel-like factor 4 (gut),ENSMUSG00000003032.8,Klf4,-2.8649151,2.9776e-100
+,wt_d1338,,,,,,,,,,94,mmu-miR-300-3p,Ptgs2,prostaglandin-endoperoxide synthase 2,ENSMUSG00000032487.8,Ptgs2,-3.43629,6.20148e-24
+,mf_d1338,,,,,,,,,,86,mmu-miR-300-3p,Pcdh7,protocadherin 7,ENSMUSG00000029108.14,Pcdh7,18.69401,0.000120312
+,mf_d1338,,,,,,,,,,86,mmu-miR-300-3p,Dach1,dachshund family transcription factor 1,ENSMUSG00000055639.16,Dach1,12.495121,5.61259e-09
+,mf_d1338,,,,,,,,,,94,mmu-miR-300-3p,Ptgs2,prostaglandin-endoperoxide synthase 2,ENSMUSG00000032487.8,Ptgs2,11.369162,3.1411e-10
+,mf_d1338,,,,,,,,,,87,mmu-miR-300-3p,Frmd4b,FERM domain containing 4B,ENSMUSG00000030064.16,Frmd4b,0.10409846,2.79171e-08
+,mf_wt,,,,,,,,,,94,mmu-miR-300-3p,Ptgs2,prostaglandin-endoperoxide synthase 2,ENSMUSG00000032487.8,Ptgs2,29.895767,2.10075e-37
+,mf_wt,,,,,,,,,,86,mmu-miR-300-3p,Dach1,dachshund family transcription factor 1,ENSMUSG00000055639.16,Dach1,20.088408,9.32512e-39
+,mf_wt,,,,,,,,,,86,mmu-miR-300-3p,Pcdh7,protocadherin 7,ENSMUSG00000029108.14,Pcdh7,15.841164,3.18073e-07
+,mf_wt,,,,,,,,,,86,mmu-miR-300-3p,Klf4,Kruppel-like factor 4 (gut),ENSMUSG00000003032.8,Klf4,6.333725,2.93039e-07
+,mf_wt,,,,,,,,,,93,mmu-miR-300-3p,Kpna4,karyopherin (importin) alpha 4,ENSMUSG00000027782.10,Kpna4,4.923906,1.8407e-55
+,mf_wt,,,,,,,,,,81,mmu-miR-300-3p,Synpo2,synaptopodin 2,ENSMUSG00000050315.14,Synpo2,4.437509,0.01338657
+,mf_wt,,,,,,,,,,85,mmu-miR-300-3p,Zc3h12c,zinc finger CCCH type containing 12C,ENSMUSG00000035164.8,Zc3h12c,4.3467355,7.67705e-24
+mf_wt,mf_wt,Syt11,Syt11,ENSMUST00000107503.2,synaptotagmin XI ,mmu-miR-300-3p,-0.43,ENSMUSG00000068923.14,0.21293439,4.65084e-26,94,mmu-miR-300-3p,Syt11,synaptotagmin XI,ENSMUSG00000068923.14,Syt11,0.21293439,4.65084e-26
+,mf_wt,,,,,,,,,,80,mmu-miR-300-3p,Adam28,a disintegrin and metallopeptidase domain 28,ENSMUSG00000014725.16,Adam28,0.19838616,1.54136e-05
+,mf_wt,,,,,,,,,,83,mmu-miR-300-3p,Mat2a,"methionine adenosyltransferase II, alpha",ENSMUSG00000053907.10,Mat2a,0.17690545,3.65671e-34
+wt_d1338,,Polr1b,Polr1b,ENSMUST00000103205.5,polymerase (RNA) I polypeptide B ,mmu-miR-300-3p,-1,ENSMUSG00000027395.15,1.6381267,5.57922e-17,,,,,,,,
+mf_d1338,,Cxcl13,Cxcl13,ENSMUST00000023840.5,chemokine (C-X-C motif) ligand 13 ,mmu-miR-300-3p,-0.43,ENSMUSG00000023078.6,0.004738035,0.000135467,,,,,,,,
+wt_d1338,,Cxcl13,Cxcl13,ENSMUST00000023840.5,chemokine (C-X-C motif) ligand 13 ,mmu-miR-300-3p,-0.43,ENSMUSG00000023078.6,8.405836,4.40678e-69,,,,,,,,

@@ -10,11 +10,11 @@ import {
 
 async function main() {
   let finalList: any[] = [];
-  let files = fs.readdirSync(finalJoinFullDir);
+  let files = fs.readdirSync(finalJoinDir);
   for (const file of files) {
     if (file.includes("list")) continue;
 
-    let fileBody = fs.readFileSync(finalJoinFullDir + `/${file}`, "utf-8");
+    let fileBody = fs.readFileSync(finalJoinDir + `/${file}`, "utf-8");
     let rows: any[] = await csv.parse(fileBody, {
       // delimiter: ",",
       columns: true,
@@ -39,10 +39,10 @@ async function main() {
         "target_score_db",
         // "mirna_db",
         // "gene_symbol_db",
-        "gene_description_db",
+        // "gene_description_db",
         "ensembl_db",
         "symbol_db",
-        // "fold_change_db",
+        "fold_change_db",
         "padj_db",
         "ensembl_ts",
         "fold_change_ts",
@@ -65,7 +65,7 @@ async function main() {
       header: true,
     });
     fs.writeFileSync(
-      `cytoscape/interaction_full_list_FC_${elem}.csv`,
+      `cytoscape/interaction_list_gene_description_${elem}.csv`,
       stringWithoutSomeColumns
     );
   }

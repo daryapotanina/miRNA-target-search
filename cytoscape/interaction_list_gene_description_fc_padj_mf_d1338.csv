@@ -1,0 +1,24 @@
+mirna_db,gene_symbol_db,gene_description_db,fold_change_db,padj_db
+mmu-let-7c-1-3p,Mt2,metallothionein 2,34.65178,3.06007e-13
+mmu-miR-144-3p,Tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",19.398119,0.000804628
+mmu-miR-147-5p,Tmem98,transmembrane protein 98,12.019561,0.042771041
+mmu-miR-147-5p,Cd200,CD200 antigen,10.052778,4.27065e-14
+mmu-miR-147-5p,Mylip,myosin regulatory light chain interacting protein,0.19357686,0.000360407
+mmu-miR-182-5p,Has2,hyaluronan synthase 2,77.35794,0.010373781
+mmu-miR-182-5p,Usp13,ubiquitin specific peptidase 13 (isopeptidase T-3),68.665764,0.005864596
+mmu-miR-182-5p,Palld,"palladin, cytoskeletal associated protein",6.543422,8.71218e-11
+mmu-miR-182-5p,Adcy6,adenylate cyclase 6,0.2297701,0.007001797
+mmu-miR-182-5p,Rab6b,"RAB6B, member RAS oncogene family",0.22517523,0.023200174
+mmu-miR-183-5p,Grem2,"gremlin 2, DAN family BMP antagonist",86.15537,0.000373456
+mmu-miR-183-5p,Unc13b,unc-13 homolog B,0.21601471,0.031094772
+mmu-miR-455-5p,Mylip,myosin regulatory light chain interacting protein,0.19357686,0.000360407
+mmu-miR-466i-3p,Adamts9,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 9",24.902493,0.005920706
+mmu-miR-486a-3p,Bgn,biglycan,26.561913,2.80997e-07
+mmu-miR-486a-3p,Flnc,"filamin C, gamma",22.44065,1.9806e-06
+mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",9.814449,0.038221148
+mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,4.976725,0.000232295
+mmu-miR-486a-3p,Pcsk4,proprotein convertase subtilisin/kexin type 4,0.115515225,0.044057611
+mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,29.866495,5.52e-17
+mmu-miR-96-5p,Prrx1,paired related homeobox 1,7.3707433,0.004047565
+mmu-miR-96-5p,Adcy6,adenylate cyclase 6,0.2297701,0.007001797
+mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,0.09542484,0.001065973

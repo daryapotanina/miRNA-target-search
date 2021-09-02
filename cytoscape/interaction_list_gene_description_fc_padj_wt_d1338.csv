@@ -1,0 +1,47 @@
+mirna_db,gene_symbol_db,gene_description_db,fold_change_db,padj_db
+mmu-let-7c-1-3p,Scamp5,secretory carrier membrane protein 5,2.34294,1.14065e-34
+mmu-let-7c-1-3p,Hivep2,human immunodeficiency virus type I enhancer binding protein 2,-1.5811986,1.34425e-25
+mmu-let-7c-1-3p,Otud1,OTU domain containing 1,-1.78022,1.46161e-25
+mmu-let-7c-1-3p,Cldn23,claudin 23,-1.938099,0.00119889
+mmu-miR-134-5p,Hyal1,hyaluronoglucosaminidase 1,-3.6432312,6.86334e-45
+mmu-miR-147-5p,Ppbp,pro-platelet basic protein,4.330742,5.54047e-44
+mmu-miR-147-5p,Cd200,CD200 antigen,-3.1905859,0
+mmu-miR-147-5p,Rab33a,"RAB33A, member RAS oncogene family",-4.6136117,1.21534e-15
+mmu-miR-182-5p,Nckap1,NCK-associated protein 1,-1.7212731,1.30085e-32
+mmu-miR-182-5p,Rnf152,ring finger protein 152,-2.10623,0.035791738
+mmu-miR-183-5p,Idh2,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",2.611624,1.9991e-99
+mmu-miR-183-5p,Ctdspl,"CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like",2.1678064,3.716e-10
+mmu-miR-183-5p,Unc13b,unc-13 homolog B,1.6727734,1.22697e-09
+mmu-miR-370-3p,Artn,artemin,4.5389953,4.75098e-06
+mmu-miR-370-3p,Stap1,signal transducing adaptor family member 1,2.8258533,1.63434e-44
+mmu-miR-466i-3p,Sox5,SRY (sex determining region Y)-box 5,1.6654336,0.002384457
+mmu-miR-466i-3p,Casz1,castor zinc finger 1,-2.0146744,2.30275e-33
+mmu-miR-466i-3p,Rnf152,ring finger protein 152,-2.10623,0.035791738
+mmu-miR-466i-3p,Htr2b,5-hydroxytryptamine (serotonin) receptor 2B,-2.1768098,0.029898475
+mmu-miR-486a-3p,Nat8l,N-acetyltransferase 8-like,3.533277,1.98387e-10
+mmu-miR-486a-3p,Ifitm1,interferon induced transmembrane protein 1,3.1693325,4.94319e-39
+mmu-miR-486a-3p,Glis2,GLIS family zinc finger 2,2.1372087,1.28891e-07
+mmu-miR-486a-3p,Ttyh3,tweety family member 3,1.7079923,7.69506e-20
+mmu-miR-486a-3p,Ccl22,chemokine (C-C motif) ligand 22,1.5137316,0.000469186
+mmu-miR-486a-3p,Fcgr4,"Fc receptor, IgG, low affinity IV",-1.5586685,0.00081036
+mmu-miR-486a-3p,Fam102a,"family with sequence similarity 102, member A",-1.700941,4.85482e-37
+mmu-miR-486a-3p,Adamts4,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4",-2.3532832,8.97876e-09
+mmu-miR-486a-3p,Hmga1,high mobility group AT-hook 1,-2.5635362,2.24839e-82
+mmu-miR-486a-3p,Dusp8,dual specificity phosphatase 8,-2.8780117,5.78412e-22
+mmu-miR-486a-3p,Il2rb,"interleukin 2 receptor, beta chain",-3.3556452,1.21462e-49
+mmu-miR-96-5p,Foxq1,forkhead box Q1,2.81121,0.000576452
+mmu-miR-96-5p,Serpinb2,"serine (or cysteine) peptidase inhibitor, clade B, member 2",2.6631632,1.52511e-38
+mmu-miR-96-5p,Ntn4,netrin 4,2.5042953,0.016691286
+mmu-miR-96-5p,Lrrc3,leucine rich repeat containing 3,2.320725,3.57718e-06
+mmu-miR-96-5p,Rgs2,regulator of G-protein signaling 2,1.7544854,1.99981e-11
+mmu-miR-96-5p,Ttyh3,tweety family member 3,1.7079923,7.69506e-20
+mmu-miR-96-5p,Sox5,SRY (sex determining region Y)-box 5,1.6654336,0.002384457
+mmu-miR-96-5p,Slc6a9,"solute carrier family 6 (neurotransmitter transporter, glycine), member 9",1.6587117,1.28566e-10
+mmu-miR-96-5p,Sh3bp5,SH3-domain binding protein 5 (BTK-associated),1.5192605,6.92027e-33
+mmu-miR-96-5p,Tsku,"tsukushi, small leucine rich proteoglycan",1.5030104,6.46938e-50
+mmu-miR-96-5p,Slc12a6,"solute carrier family 12, member 6",-1.6085275,5.27564e-05
+mmu-miR-96-5p,Prrx1,paired related homeobox 1,-1.9865,2.35867e-05
+mmu-miR-96-5p,Hbegf,heparin-binding EGF-like growth factor,-2.2722616,6.87939e-22
+mmu-miR-96-5p,Farp1,"FERM, RhoGEF (Arhgef) and pleckstrin domain protein 1 (chondrocyte-derived)",-2.688648,3.02392e-07
+mmu-miR-96-5p,Trib3,tribbles pseudokinase 3,-3.610622,1.2974e-78
+mmu-miR-99a-5p,Ctdspl,"CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like",2.1678064,3.716e-10

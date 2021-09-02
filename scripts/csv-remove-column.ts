@@ -42,8 +42,8 @@ async function main() {
         // "gene_description_db",
         "ensembl_db",
         "symbol_db",
-        "fold_change_db",
-        "padj_db",
+        // "fold_change_db",
+        // "padj_db",
         "ensembl_ts",
         "fold_change_ts",
       ])
@@ -65,7 +65,7 @@ async function main() {
       header: true,
     });
     fs.writeFileSync(
-      `cytoscape/interaction_list_gene_description_${elem}.csv`,
+      `cytoscape/interaction_list_gene_description_fc_padj_${elem}.csv`,
       stringWithoutSomeColumns
     );
   }

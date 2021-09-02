@@ -1,5 +1,5 @@
 import cp from "child_process";
-const { chromium } = require("playwright");
+import { chromium } from "playwright";
 import * as fs from "fs/promises";
 import path from "path";
 import { html2csv } from "./html2csv";
@@ -43,13 +43,14 @@ mmu-miR-183-5p
 `;
 
 function onlyUnique(value: any, index: any, self: string | any[]) {
+  // console.log(value, index, self);
   return self.indexOf(value) === index;
 }
 
-async function runBrowserAndDownloadTable(input: string, outpurDir: string) {
+async function runBrowserAndDownloadTable(input: string, outputDir: string) {
   let list = input.trim().split("\n");
   let uniqueItems = list.filter(onlyUnique);
-  await fs.mkdir(outpurDir, { recursive: true });
+  await fs.mkdir(outputDir, { recursive: true });
   console.log("uniqueItems:", uniqueItems);
 
   console.log("SIZE:", list.length);
@@ -88,7 +89,7 @@ async function runBrowserAndDownloadTable(input: string, outpurDir: string) {
       [bodyHandle, "hello"]
     );
 
-    let fileName = path.join(outpurDir, "/", element + ".csv");
+    let fileName = path.join(outputDir, "/", element + ".csv");
 
     console.log("fileName:", fileName);
 
@@ -100,7 +101,7 @@ async function runBrowserAndDownloadTable(input: string, outpurDir: string) {
   }
 
   browser.close();
-  console.log("FINISH check:", outpurDir);
+  console.log("FINISH check:", outputDir);
 }
 
 (async () => {
